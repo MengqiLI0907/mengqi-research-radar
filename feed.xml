@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>GeoAI Research Radar — Personal Literature Feed</title>
+    <description>New papers on wildfire smoke, mobility, environmental justice and GeoAI, curated from OpenAlex.</description>
+    <link>https://openalex.org/</link>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 02:37:14 GMT</lastBuildDate>
+    <item>
+      <title>Residency duration, risk perceptions, and recent PM2.5 exposure predict protective behaviors toward wildfire smoke: A comparison of recent migrants and long-term Idaho residents</title>
+      <link>https://doi.org/10.1007/s11869-026-02144-9</link>
+      <guid>doi:10.1007/s11869-026-02144-9</guid>
+      <description>Air Quality, Atmosphere &amp; Health — Compares perceived wildfire-smoke risk and protective behavior among recent migrants and long-term Idaho residents.</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>An integrated framework for resilient urban mobility: coupling disruption taxonomy, equilibrium modelling and participatory validation</title>
+      <link>https://doi.org/10.1186/s43065-026-00220-z</link>
+      <guid>doi:10.1186/s43065-026-00220-z</guid>
+      <description>Journal of Infrastructure Preservation and Resilience — Introduces a framework for urban transport resilience using disruption taxonomy, equilibrium modelling and participatory validation.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spatio-temporal trends in wildfire smoke exposures at schools and childcare centers in the United States and implications for child and adolescent health</title>
+      <link>https://doi.org/10.1016/j.envres.2026.125883</link>
+      <guid>doi:10.1016/j.envres.2026.125883</guid>
+      <description>Environmental Research — Examines spatiotemporal patterns of wildfire smoke exposure at schools and childcare facilities and their implications for children and adolescents.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beyond connectivity: Travel behavior and hidden inequities in human mobility resilience</title>
+      <link>https://doi.org/10.1016/j.trd.2026.105542</link>
+      <guid>doi:10.1016/j.trd.2026.105542</guid>
+      <description>Transportation Research Part D: Transport and Environment — Proposes a behaviorally grounded perspective on mobility resilience, examining travel constraints and inequality under transportation disruption.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fired up for work: Examining the relationship between environmentally-vulnerable work and population health outcomes in the context of wildfire smoke exposures</title>
+      <link>https://doi.org/10.1007/s11111-026-00539-5</link>
+      <guid>doi:10.1007/s11111-026-00539-5</guid>
+      <description>Population and Environment — Examines how environmentally vulnerable work intersects with wildfire smoke exposure and population health.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A multimodal transformer neural network framework for fine-scale wildfire occurrence forecasting</title>
+      <link>https://doi.org/10.1007/s00366-026-02408-z</link>
+      <guid>doi:10.1007/s00366-026-02408-z</guid>
+      <description>Engineering with Computers — Develops a multimodal transformer-based framework for fine-scale wildfire occurrence forecasting.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Urban mobility responses to wildfire smoke-related air quality advisories in Montréal, Canada</title>
+      <link>https://doi.org/10.1016/j.healthplace.2026.103736</link>
+      <guid>doi:10.1016/j.healthplace.2026.103736</guid>
+      <description>Health &amp; Place — Uses bike-share, metro, bus and running data to examine mobility responses to wildfire smoke air-quality advisories, including spatial variation across Montréal.</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wildfire impact potential along routes shapes mobility patterns during the evacuation period</title>
+      <link>https://doi.org/10.1016/j.ijdrr.2026.106282</link>
+      <guid>doi:10.1016/j.ijdrr.2026.106282</guid>
+      <description>International Journal of Disaster Risk Reduction — Studies how wildfire impact potential along evacuation routes relates to observed mobility patterns, comparing route-level and destination-level measures.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wildland Fires in the US between 2007 and 2018: Characterizing Equity in Exposures and Health Impacts</title>
+      <link>https://doi.org/10.1021/acs.est.6c02242</link>
+      <guid>doi:10.1021/acs.est.6c02242</guid>
+      <description>Environmental Science &amp; Technology — Analyzes inequalities in wildfire exposure and related health burdens across population groups in the United States.</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Outdoor to Indoor: Amplified Inequities in Wildfire PM2.5 Exposure across the Contiguous United States</title>
+      <link>https://doi.org/10.1021/acs.est.5c18065</link>
+      <guid>doi:10.1021/acs.est.5c18065</guid>
+      <description>Environmental Science &amp; Technology — Studies inequalities in wildfire-related fine particulate exposure when considering the difference between outdoor and indoor environments.</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smoke signals: Understanding temporal dynamics of wildfire exposure on health and education</title>
+      <link>https://doi.org/10.1016/j.jeem.2026.103322</link>
+      <guid>doi:10.1016/j.jeem.2026.103322</guid>
+      <description>Journal of Environmental Economics and Management — Examines wildfire smoke exposure in Chile across multiple seasons and studies temporal relationships with health and educational outcomes.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Behavioral responses to wildfire smoke: Insights from smartphone location data</title>
+      <link>https://doi.org/10.1073/pnas.2527320123</link>
+      <guid>doi:10.1073/pnas.2527320123</guid>
+      <description>Proceedings of the National Academy of Sciences — Uses smartphone location data to examine behavioral responses to wildfire smoke and how responses differ across education groups.</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exploring the spatial association between wildfire risk and social vulnerability in the continental US</title>
+      <link>https://doi.org/10.1071/WF25244</link>
+      <guid>doi:10.1071/WF25244</guid>
+      <description>International Journal of Wildland Fire — Applies bivariate local indicators of spatial association to identify where wildfire risk and social vulnerability overlap across US census tracts.</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Multi-Source Reconstruction of the 2024 Jasper Wildfire Complex Evacuation and Reentry Periods</title>
+      <link>https://doi.org/10.1016/j.trip.2026.101861</link>
+      <guid>doi:10.1016/j.trip.2026.101861</guid>
+      <description>Transportation Research Interdisciplinary Perspectives — Combines mobility data, traffic counts and social media to reconstruct wildfire evacuation, reentry timing and transportation constraints in Jasper, Canada.</description>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Evaluation of Smoke Exposure Risk from January 2025 Los Angeles Wildfires Using Crowdsourced Data</title>
+      <link>https://doi.org/10.1021/acsestair.5c00277</link>
+      <guid>doi:10.1021/acsestair.5c00277</guid>
+      <description>ACS ES&amp;T Air — Analyzes indoor and outdoor PM2.5 from PurpleAir sensors during the January 2025 Los Angeles fires, examining exposure differences across communities.</description>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Measuring evacuation rates from mobility data during the McDougall Creek wildfire in British Columbia, Canada</title>
+      <link>https://doi.org/10.1016/j.compenvurbsys.2025.102286</link>
+      <guid>doi:10.1016/j.compenvurbsys.2025.102286</guid>
+      <description>Computers, Environment and Urban Systems — Estimates neighborhood-scale wildfire evacuation rates from network mobility data and examines spatial patterns and correlates of evacuation behavior.</description>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Increasing Exposures to Compound Wildfire Smoke and Extreme Heat Hazards in California, 2011–2020</title>
+      <link>https://doi.org/10.1029/2024EF005189</link>
+      <guid>doi:10.1029/2024EF005189</guid>
+      <description>Earth's Future — Characterizes compound wildfire-smoke and extreme-heat exposure in California and evaluates spatial distributions of population vulnerability.</description>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The impact of wildfire smoke on traffic evacuation dynamics</title>
+      <link>https://doi.org/10.1016/j.ssci.2025.106812</link>
+      <guid>doi:10.1016/j.ssci.2025.106812</guid>
+      <description>Safety Science — Uses a virtual-reality driving simulator to assess how wildfire smoke visibility affects vehicle speeds and evacuation traffic dynamics.</description>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unveiling the Dynamics of Human Mobility in Response to Wildfire-Induced Air Quality Degradation: An Examination of the 2019 Kincade Fire</title>
+      <link>https://doi.org/10.1061/JMENEA.MEENG-6340</link>
+      <guid>doi:10.1061/JMENEA.MEENG-6340</guid>
+      <description>Journal of Management in Engineering — Investigates how wildfire-related deterioration of PM2.5 air quality relates to population mobility, including differences across vulnerable communities.</description>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>On the Opportunities and Challenges of Foundation Models for GeoAI (Vision Paper)</title>
+      <link>https://doi.org/10.1145/3653070</link>
+      <guid>doi:10.1145/3653070</guid>
+      <description>ACM Transactions on Spatial Algorithms and Systems — A vision paper examining how foundation models can be developed and evaluated across geospatial tasks, including remote sensing, health and urban geography.</description>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+name: Update literature radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 11 * * *'   # daily 11:23 UTC; may run late
+    - cron: '41 12 * * 1'   # Monday 12:41 UTC; optional weekly email
+
+permissions:
+  contents: write
+
+concurrency:
+  group: literature-refresh
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch OpenAlex metadata and rebuild RSS
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/update_papers.py
+      - name: Save updated data to main branch
+        run: |
+          git config user.name "research-radar-bot"
+          git config user.email "research-radar-bot@users.noreply.github.com"
+          git add data/papers.json data/papers.js feed.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh OpenAlex research feed"
+            git push
+          fi
+      - name: Send optional Monday email digest
+        if: github.event.schedule == '41 12 * * 1'
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python scripts/send_digest.py

@@ -1,0 +1,20 @@
+{
+  "description": "Edit these English queries to control the daily OpenAlex literature refresh. Browser preferences are local and do not change this file.",
+  "lookback_days": 730,
+  "results_per_query": 45,
+  "max_papers": 550,
+  "queries": [
+    "wildfire smoke human mobility",
+    "wildfire PM2.5 exposure environmental justice",
+    "wildfire evacuation mobility data",
+    "mobility-adjusted air pollution exposure",
+    "GeoAI foundation model geospatial",
+    "urban mobility resilience extreme weather",
+    "remote sensing wildfire smoke machine learning",
+    "spatial inequality environmental exposure",
+    "spatially varying ordinal regression",
+    "human mobility social vulnerability disaster",
+    "urban fire evacuation transportation network",
+    "Los Angeles 2025 wildfire exposure"
+  ]
+}
