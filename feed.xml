@@ -5,13 +5,195 @@
     <description>New papers on wildfire smoke, mobility, environmental justice and GeoAI, curated from OpenAlex.</description>
     <link>https://openalex.org/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:32:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:10:35 GMT</lastBuildDate>
+    <item>
+      <title>Optimization of Urban Shortest Path Considering Traffic Congestion and Air Quality Using ICAW and Genetic Algorithm (Case Study: Tehran)</title>
+      <link>https://doi.org/10.5829/ije.2027.40.01a.08</link>
+      <guid>doi:10.5829/ije.2027.40.01a.08</guid>
+      <description>International Journal of Engineering — This study proposes a multi-objective framework for optimizing urban shortest paths by simultaneously considering traffic congestion and air quality. The objective is to minimize a weighted combination of travel time and pollutant exposure, with binary decision variables representing route selection. Real-world air quality data (SO₂, NO₂, CO) were collected from IoT sensors on 500 vehicles and 50 fixed stations across Tehran, integrated with traffic data via spatio-temporal synchronization using inverse distance weighting and 500m grid mapping. The transportation network was extracted from Ope</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next Generation Intelligent Transportation through Disaster Aware Privacy Preserving Federated Learning</title>
+      <link>https://doi.org/10.5829/ije.2027.40.05b.04</link>
+      <guid>doi:10.5829/ije.2027.40.05b.04</guid>
+      <description>International Journal of Engineering — The growing challenges posed by rapid urbanization and increased vehicle density have highlighted the need for precise and privacy-preserving traffic flow prediction models. Traditional centralized learning methods involve aggregating privacy-sensitive traffic flow data, which poses severe privacy, scalability, and governance issues. To overcome these issues, this paper presents a disaster-aware privacy-preserving federated learning (PP-FL) solution for multi-city traffic flow prediction in heterogeneous and non-IID data settings. Each city separately trains a local deep learning model using l</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bridging the Educational Gap with Virtual Reality (VR): Virtual Labs for the Next Generation</title>
+      <link>https://doi.org/10.46328/ijtes.8651</link>
+      <guid>doi:10.46328/ijtes.8651</guid>
+      <description>International Journal of Technology in Education and Science — This research addresses the systemic educational inequality in Thailand, where a severe shortage of physical science laboratories in rural areas hinders the development of 21st-century scientific literacy. Using the ADDIE model, the study developed a virtual world technology innovation, the AR SciLab platform, to serve as a high-quality, risk-free learning infrastructure. The innovation comprises a database of eight career-oriented experiments (e.g., biodiesel production and essential oil extraction), 3D immersive VR environments built on Unreal Engine 5, and bilingual instructional media. Tes</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Analysis the Characteristics and Performance of Polyethersulfone-Carbon Nanotube Membranes Fabricated Using Electric Field Method for Water Filtration Applications</title>
+      <link>https://doi.org/10.5829/ije.2027.40.04a.12</link>
+      <guid>doi:10.5829/ije.2027.40.04a.12</guid>
+      <description>International Journal of Engineering — This study aims to address the effect of Carbon Nanotube (CNT) addition on the characteristics and performance of polyethersulfone (PES) membranes fabricated using the Electric Field method. Four PES membranes were fabricated with addition of CNT and denoted as SM0 (0% CNT), SM1 (0.5% CNT), SM2 (1% CNT), and SM3 (1.5% CNT). SEM observations showed average pore sizes of 0.62±0.12 μm to 0.82±0.18 μm, and AFM images showed the ability of CNTs to increase topographical complexity. The tensile test results indicated that addition of CNT increased the tensile strength of the membrane. The TGA and DT</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Role of Artificial Intelligence in Situational Crime Prevention with an Emphasis on Privacy Challenges</title>
+      <link>https://doi.org/10.61838/jhrlp.351</link>
+      <guid>doi:10.61838/jhrlp.351</guid>
+      <description>Journal of Historical Research Law and Policy — This article examines the role of artificial intelligence in situational crime prevention with particular emphasis on privacy challenges. Situational crime prevention focuses on reducing criminal opportunities by modifying environmental, technological, and organizational conditions that facilitate crime. Artificial intelligence has expanded this preventive model through predictive analytics, smart surveillance, biometric identification, cyber threat detection, automated risk assessment, and data-driven criminal justice management. These technologies can improve the speed, accuracy, and efficie</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Digital Borsa (Stock Exchange) for Grain: Epistemic Infrastructure, Competition Law, and the Reconstitution of Market Legibility in EU and BRICS Commodity Governance</title>
+      <link>https://doi.org/10.57230/ejplt271emlai</link>
+      <guid>doi:10.57230/ejplt271emlai</guid>
+      <description>European Journal of Privacy Law &amp; Technologies — Transnational grain trade is indispensable to food security yet structurally resistant to legal visibility. Price-relevant facts, contractual risk allocations, and informational architectures are frequently constituted through private infrastructures, limiting their legibility to public authorities and non-incumbent market participants. The resulting governance embodies a private-law problem of market memory. Embracing an EU and BRICS+ perspective, this article defends the thesis of a digitally engineered “borsa” (stock exchange) as a hybrid institutional infrastructure enabling fairness throu</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hybrid AI governance policies and practices in top higher education institutions</title>
+      <link>https://doi.org/10.7341/20272312</link>
+      <guid>doi:10.7341/20272312</guid>
+      <description>Journal of Entrepreneurship Management and Innovation — PURPOSE: As Artificial Intelligence (AI) integrates into Higher Education Institutions (HEIs), governance structures shape its implementation, oversight, and adaptability. A key challenge is determining centralized versus decentralized governance models. This study examines AI governance across 69 HEIs, analyzing policy centralization and its link to institutional priorities, governance mechanisms, and flexibility. METHODOLOGY: Using AI policies from Times Higher Education (THE) top 100 universities, it identifies structural differences among governance models. The study adopts a mixed-methods</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Measuring Activity-Space Segregation with Multi-Source Big Data: A Physical--Digital Framework with Simulation Validation and a Real-Data Proof of Concept</title>
       <link>https://doi.org/10.17613/3amkv-gav11</link>
       <guid>doi:10.17613/3amkv-gav11</guid>
       <description>PhilPapers (PhilPapers Foundation) — Segregation research increasingly measures who people encounter beyond home, yet physical mobility, place semantics, and digital activity are often combined without clear construct boundaries. This study develops a physical--digital activity-space framework that distinguishes co-presence, digital exposure, and digital interaction, and represents physical and digital segregation as separate components rather than a forced composite. Validation is deliberately split by evidentiary role. A public Washington--Baltimore Foursquare check-in subset tests the computational feasibility and robustness o</description>
       <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SUSTAINABLE MOBILITY AND TERRITORIAL ACCESSIBILITY IN MANIZALES, COLOMBIA: SOCIAL COST-BENEFIT ANALYSIS OF AN EXPANDED AERIAL CABLE NETWORK</title>
+      <link>https://doi.org/10.30892/gtg.68456-1937</link>
+      <guid>doi:10.30892/gtg.68456-1937</guid>
+      <description>GeoJournal of Tourism and Geosites — This research evaluates the socioeconomic feasibility of expanding the aerial cable car system in Manizales and Villamaría, Colombia, through a Social Cost-Benefit Analysis (SCBA). The assessment compares the three operational lines with a projected nine-line network, based on the Manizales Land Use Plan. The objective is to quantify and monetize impacts on CO2eq emissions, territorial accessibility, road safety, and public health benefits derived from induced active mobility. A quantitative evaluative approach was employed to compare baseline and projected scenarios using geospatial analysis </description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Geography of Euroleague Basketball: Spatial Inequality, Travel Exposure and Home-Court Advantage in a Transnational League</title>
+      <link>https://doi.org/10.30892/gss.2506-156</link>
+      <guid>doi:10.30892/gss.2506-156</guid>
+      <description>Geosport for Society — This study conceptualizes the EuroLeague as a transnational urban network and tests whether spatial position and nominal travel distance are associated with competitive outcomes. The design integrates three empirical layers: (i) a longitudinal spatial panel covering the league-format era from 2016-17 to 2025-26; (ii) a completed 2025- 26 cross-section of 20 clubs in 17 nominal urban nodes and 11 countries; and (iii) a game-level model based on 1,943 available regular-season games from seven analytically retained seasons between 2016-17 and 2024-25. Great-circle distances were calculated betwee</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cross-attention Guided CNN-Transformer-GNN Architecture for Multi-class Disaster Image Classification</title>
+      <link>https://doi.org/10.22266/ijies2026.1231.40</link>
+      <guid>doi:10.22266/ijies2026.1231.40</guid>
+      <description>International journal of intelligent engineering and systems — Disaster image classification emerged as an important research area for supporting rapid disaster assessment, situational awareness, and emergency response operations.Nevertheless, accurately distinguishing among different disaster categories remains challenging due to large intra-class variations, complex backgrounds, and the limited capability of existing approaches to simultaneously capture local visual patterns, global contextual dependencies, and inter-feature relationships.To tackle these challenges, this study proposes a hybrid Convolutional Neural Network (CNN)-Transformer-Graph Neural</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRATEGIC SPATIAL PLANNING FOR ENHANCING THE ECONOMIC SUSTAINABILITY OF THE TOURISM SECTOR IN GOA, INDIA</title>
+      <link>https://doi.org/10.30892/gtg.68414-1895</link>
+      <guid>doi:10.30892/gtg.68414-1895</guid>
+      <description>GeoJournal of Tourism and Geosites — Tourism in Goa is concentrated along the coastal belt, generating congestion, environmental stress, and uneven spatial development. This study develops a spatial decision-support framework to identify areas where tourism pressure should be contained and areas where diversification is more feasible. The analysis uses a 1 × 1 km grid across Goa and integrates tourism amenity indicators, environmental conditions, accessibility measures, and regulatory constraints. OpenStreetMap-based tourism and service proxies, Earth observation variables, transport accessibility metrics, and governance overlays</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DELINEATION OF AGRICULTURAL FIELD BOUNDARIES USING MACHINE LEARNING: BASED ON THE CASE OF THE ZHETYSAI DISTRICT, KAZAKHSTAN</title>
+      <link>https://doi.org/10.30892/gtg.68448-1929</link>
+      <guid>doi:10.30892/gtg.68448-1929</guid>
+      <description>GeoJournal of Tourism and Geosites — Accurate delineation of agricultural field boundaries is essential for agro-production monitoring, irrigation management, and sustainable land use planning. Manual digitization is labour-intensive and poorly scalable, while conventional segmentation algorithms are sensitive to spectral heterogeneity and weak inter-field contrast. The Zhetysai district of southern Kazakhstan – where approximately 45-50% of irrigated farmland exhibits salinization – exemplifies the urgent demand for automated field mapping. This study evaluates the Meta AI Segment Anything Model (SAM) with Low-Rank Adaptation (L</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORE MONUMENTS, MORE TOURISTS? EXAMINING HERITAGE-TOURISM RELATIONSHIPS ACROSS ROMANIAN COUNTIES</title>
+      <link>https://doi.org/10.30892/gtg.68457-1938</link>
+      <guid>doi:10.30892/gtg.68457-1938</guid>
+      <description>GeoJournal of Tourism and Geosites — Cultural heritage is an important territorial resource for tourism development, yet the relationship between the distribution of listed heritage assets and tourism activity remains insufficiently understood. This study examines the geographical relationships between listed cultural heritage and tourism in Romania, focusing on territorial disparities and long-term changes. The analysis covers all 41 Romanian counties and the Municipality of Bucharest, combining 30,147 entries from the 2015 List of Historic Monuments with tourism statistics for 2001-2025. The methodological framework integrates </description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rethinking Women’s Football Attendance in an Emerging Destination: Constraints, Marketing Awareness and Interest through a Pluriversal Lens</title>
+      <link>https://doi.org/10.30892/gss.2505-155</link>
+      <guid>doi:10.30892/gss.2505-155</guid>
+      <description>Geosport for Society — Women’s football is increasingly recognised as an important component of the sport tourism industry, with potential to diversify audiences, stimulate domestic travel, and advance gender inclusivity in emerging destinations. Yet, despite the growing interest, attendance remains inconsistent, complicating conventional measures of spectator demand. This study compared individuals who had attended women’s football matches in an emerging destination, South Africa and interested nonattendees, examining associations between attendance status, perceived financial and logistical constraints, perceived </description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Retrofiting A Panacea to African Public Transport Terminals Toward the Global Pandemics Mitigation</title>
+      <link>https://doi.org/10.33425/2639-9512.1103</link>
+      <guid>doi:10.33425/2639-9512.1103</guid>
+      <description>Stem Cell &amp; Regenerative Medicine — Public transport in Nigeria and some other African countries is synonymous to road transport system as the government policy seems to give more attention to it than other modes. The few available bus operations in the country are second-hand rickety vehicles that are fossil-fuel dependent with all its negative health implications that tend to catalyze SARS-CoV-2 otherwise known as COVID-19 infection that has ravaged the whole world at a pandemic scale. The spatial spread of the virus is mass transport related. This study therefore using direct observatory and internet-based review of literatur</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fast Discrete Orthogonal Stockwell Transform-driven Local-global Temporal Modelling with Attention-enhanced Dual-stage BiLSTM for Accurate Age and Gender Recognition from Speech</title>
+      <link>https://doi.org/10.22266/ijies2026.1231.21</link>
+      <guid>doi:10.22266/ijies2026.1231.21</guid>
+      <description>International journal of intelligent engineering and systems — Predicting age and gender from speech remains challenging because human speech contains attributes that are deeply intertwined, sensitive to noise, and marked by subtle, variable acoustic cues.This paper introduces a hierarchical feature-learning framework that combines fast discrete orthogonal Stockwell transform-based (FDOST) spectral representations with dual-stage temporal modeling to preserve and capture both local and global speech dynamics.We first extract FDOST features to obtain high-resolution time-frequency representations.These features are then passed through a local bidirectional</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Innovation in Agriculture: An Alternative to the Migration of Rural Youth</title>
+      <link>https://doi.org/10.65785/vijact.v1i1.01</link>
+      <guid>doi:10.65785/vijact.v1i1.01</guid>
+      <description>Ved International Journal of Arts Commerce and Technology (VIJACT) — Migration of rural youth to cities has turned out to be a big developmental problem in a lot of countries particularly in developing ones. Young people are looking at agriculture, which had been the primary source of rural employment, as unprofitable, risky, and socially less rewarding. The present study tries to find out how the innovation in agriculture can be a sustainable alternative to the rural youth migration. The paper discusses the technological, digital, institutional, and entrepreneurial innovations in agriculture and their impact on the betterment of rural lives. Through the use of</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMING THE DARK TOURISM POTENTIAL IN AZERBAIJAN INTO SUSTAINABLE TOURISM REVENUE</title>
+      <link>https://doi.org/10.30892/gtg.68427-1908</link>
+      <guid>doi:10.30892/gtg.68427-1908</guid>
+      <description>GeoJournal of Tourism and Geosites — This study examines how Azerbaijan’s dark tourism potential can be transformed into sustainable tourism revenue by identifying key strategic and institutional factors. Dark tourism, encompassing sites related to genocide, armed conflicts, and historical tragedies, represents a growing niche with significant cultural, educational, and economic implications. The research employs a comparative-analogy approach combined with SWOT analysis to evaluate Azerbaijan’s major destinations—including the Guba and Khojaly Genocide Memorial Complexes, Shusha Castle, Martyrs’ Alley, Victory Museum, Agdam Ruin</description>
+      <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Decarbonization Part 2: Monitoring particulate pollutants and PPPs in Morelos, Mexico</title>
+      <link>https://doi.org/10.35429/jea.2026.13.34.3.1.11</link>
+      <guid>doi:10.35429/jea.2026.13.34.3.1.11</guid>
+      <description>Revista de Aplicaciones de la Ingeniería — In this article we highlight the importance of monitoring polluting particles in cities. This is to contribute to achieving sustainability objectives. Air pollution by suspended particles, especially PM2.5 and PM10, is a serious public health problem in urban areas of Mexico, with measurable impacts on respiratory and cardiovascular mortality and morbidity. This article highlights the importance of a comparative analysis of air quality between the Metropolitan Area of the Valley of Mexico [ZMVM] and the state of Morelos, emphasizes the role of air quality monitoring networks as environmental m</description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Strengthening Indonesia’s Maritime Defence: Smuggling Vulnerabilities in the Dynamics of Lobster Seed Governance</title>
+      <link>https://doi.org/10.31629/jmps.v3i3.8819</link>
+      <guid>doi:10.31629/jmps.v3i3.8819</guid>
+      <description>Journal of Maritime Policy Science. — Illegal trade in lobster pueruli (Benih Bening Lobster, BBL) presents interconnected challenges for fisheries governance, coastal livelihoods, and Indonesia’s maritime defense. This study examines how changes in BBL utilization policies, legal market access, and commodity traceability create potential vulnerabilities that may be exploited by smuggling networks. Using a descriptive qualitative approach, the research analyzes regulations, administrative records, scientific publications, and official enforcement disclosures from 2015 to 2026. Sukabumi is examined as an upstream production and gov</description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Maritime Picture to Customs Risk Picture: Strengthening Indonesian Customs through Maritime Domain Awareness</title>
+      <link>https://doi.org/10.31629/jmps.v3i3.8736</link>
+      <guid>doi:10.31629/jmps.v3i3.8736</guid>
+      <description>Journal of Maritime Policy Science. — Indonesia’s customs administration operates at the intersection of maritime mobility, trade facilitation, border protection, and revenue assurance, yet its risk systems are still primarily organized around declarations, manifests, entities, and transactions rather than the wider maritime operating picture. This article develops a conceptual model for transforming Maritime Domain Awareness into a Customs Risk Picture that can support earlier, more contextual, and more explainable targeting of vessels, voyages, cargoes, and commercial actors. The study applies a structured integrative review of </description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Between emergency and reconstruction: Territorial impacts and climate adaptation challenges after hurricane John in Guerrero</title>
+      <link>https://doi.org/10.35429/h.2026.4.16.35</link>
+      <guid>doi:10.35429/h.2026.4.16.35</guid>
+      <description>ECORFAN eBooks — This chapter analyses the territorial, human, and socioeconomic impacts caused by Hurricane John (2024) in the state of Guerrero, with a particular focus on the municipalities of Acapulco and Coyuca de Benítez, within a context of increasing intensity and frequency of extreme hydrometeorological events. Using a territorial and comparative approach, the chapter examines the meteorological characteristics of the event, patterns of differentiated impacts, and the structural vulnerability conditions that shaped the magnitude of damage. The findings show that although Hurricane John exhibited lower</description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROTECTION OF FAMILIES AFFECTED BY THE MOUNT SEMERU ERUPTION: A DISASTER FIQH PERSPECTIVE ON THE MDMC LUMAJANG RESPONSE</title>
+      <link>https://doi.org/10.22373/al-ijtimaiyyah.v12i2.36334</link>
+      <guid>doi:10.22373/al-ijtimaiyyah.v12i2.36334</guid>
+      <description>Jurnal Al-Ijtimaiyyah — The 2021 eruption of Mount Semeru not only destroyed homes but also severed the social and economic networks of thousands of families in Lumajang Regency, demanding a disaster response grounded in Islamic normative principles alongside technical capacity. Muhammadiyah, through the Himpunan Putusan Tarjih (HPT), has formulated Disaster Fiqh as an ethical framework to safeguard the rights of disaster victims, yet studies examining how far humanitarian organizations’ field practices align with this framework at the family level remain scarce. This study analyzes the forms of family protection pro</description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ancestral knowledge in the artisanal sector and its socioeconomic benefits in the state of Tabasco</title>
+      <link>https://doi.org/10.35429/jlde.2026.10.16.4.1.13</link>
+      <guid>doi:10.35429/jlde.2026.10.16.4.1.13</guid>
+      <description>Journal Labor and Demographic economics — This article examines the relationship between ancestral knowledge, artisanal production, and socioeconomic benefits in Tabasco through an integrative review of academic literature and official documents. The corpus covers embroidered strips, plant fibers, wood carving, drum making, and workshop organization, together with cultural statistics, legislation, and public programs. Findings show that craft knowledge functions as a territorial asset: it preserves memory and identity, mobilizes local materials and family networks, creates self-employment and supplementary income, and strengthens wome</description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visualizing Maritime Governance Research: What Scopus Data Tells Us, with Insights into Indonesian Researches</title>
+      <link>https://doi.org/10.31629/jmps.v3i3.8867</link>
+      <guid>doi:10.31629/jmps.v3i3.8867</guid>
+      <description>Journal of Maritime Policy Science. — Maritime governance crosses legal, security, environmental, and economic domains, but the connections among its scholarly conversations remain unevenly understood. This article provides a bounded bibliometric map of 196 English-language journal articles retrieved from Scopus on 15 October 2026 using the exact phrase “maritime governance” in titles, abstracts, or keywords (2001–2026). The archived results are described through publication counts, co-authorship links, and author-keyword co-occurrence visualizations produced with VOSviewer. A focused descriptive reading examines 19 records with a</description>
+      <pubDate>Wed, 30 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>THE STATE OF AVAILABLE ENVIRONMENT AS FACTOR OF MOBILITY OF PEOPLE WITH DISABILITY IN MODERN RUSSIA</title>
+      <link>https://doi.org/10.32687/0869-866x-2026-34-4-886-891</link>
+      <guid>doi:10.32687/0869-866x-2026-34-4-886-891</guid>
+      <description>Problems of Social Hygiene Public Health and History of Medicine — The accessibility of social environment for people with disabilities is major condition of social rehabilitation and increasing their individual social mobility based on equal possibilities. By means of social mobility, people with disability receive access to various public benefits and possibility to lead comprehensively rich life. However, in Russian regions barriers of social environment remain to be significant. The study of accessibility of objects and spaces for low-mobile categories of the disabled was carried out in 2025 in conditions of the Murmansk Oblast. The data concerning partia</description>
+      <pubDate>Tue, 15 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Help Yourself: Chatbot-Based First Aid Support for Citizens in Flood Situations</title>
@@ -21,11 +203,39 @@
       <pubDate>Mon, 14 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Informal Infrastructuring as Drift: The Case of Energy Management Systems</title>
+      <link>https://openalex.org/W7222989528</link>
+      <guid>https://openalex.org/W7222989528</guid>
+      <description>AIS Electronic Library (AISeL) — This paper questions how infrastructure can be built and evolve outside state sponsorship and centralized control. To this end, we consider this process as linked to informal infrastructuring. While this concept is usually discussed in relation to the informal practices of the urban population, this study contextualizes informal infrastructuring to business practices through the empirical case of an Energy Management System (EMS) implementation. The study adopts a mixed-methods approach and uses assemblage theory as a theoretical lens. The results show that informal infrastructuring is driven </description>
+      <pubDate>Mon, 14 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Development and Application of Renewable Energy Communities in Sicily: Assessments of Feasibility and Implementation</title>
+      <link>https://openalex.org/W7236516540</link>
+      <guid>https://openalex.org/W7236516540</guid>
+      <description>IRIS UniPA (University of Palermo) — The energy transition on small non-interconnected islands requires coordinated planning of variable renewable generation, storage, and multisectoral demand. This thesis develops and applies optimization methods for multi-vector energy systems and renewable energy communities through two case studies in Sicily.The first case study examines Favignana Island. A mixed-integer linear programming (MILP) Energy Hub model integrating electricity, low-temperature heat, hydrogen, and freshwater jointly optimizes technology sizing and hourly dispatch under three objectives: annualized cost, annual primar</description>
+      <pubDate>Fri, 11 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Simple is better? HPC-enabled neural architecture search for energy demand forecasting</title>
       <link>https://openalex.org/W7224733541</link>
       <guid>https://openalex.org/W7224733541</guid>
       <description>dCOBISS.SI Digital Repository — </description>
       <pubDate>Fri, 04 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comparative Framework of Vulnerability in Coastal Communities of the Ecuadorian Tropics</title>
+      <link>https://doi.org/10.65835/aph.2026.2.11</link>
+      <guid>doi:10.65835/aph.2026.2.11</guid>
+      <description>Applied Planetary Health — This study conducts a comparative analysis of socio-ecological vulnerability in six coastal communities of the Ecuadorian tropics, integrating mixed methods (quantitative and qualitative). The conceptual framework based on the components of Exposure, Sensitivity, and Adaptive Capacity allowed the construction of a Comparative Coastal Vulnerability Index (CCVI). The results identified three distinct profiles: 1) Critical Vulnerability (Afro-Ecuadorian and indigenous communities), determined by the intersection of high exposure, historical marginality, and eroded adaptive capacities; 2) Moderate</description>
+      <pubDate>Thu, 03 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eco-feminism in the modern world: Gender, environment and social transformation</title>
+      <link>https://doi.org/10.33545/26648717.2026.v8.i10a.922</link>
+      <guid>doi:10.33545/26648717.2026.v8.i10a.922</guid>
+      <description>International Journal of Research in English — Eco-feminism is an interdisciplinary intellectual and social movement that connects gender equality, environmental sustainability and social justice. It examines how systems of patriarchy, economic exploitation, unequal resource distribution and environmental degradation can reinforce one another. Emerging prominently during the 1970s and 1980s, eco-feminism has developed from an early emphasis on the symbolic relationship between women and nature toward broader approaches involving environmental justice, political ecology, intersectionality and sustainable development. Contemporary environmen</description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Unraveling Urban Inclusion: A Study on Accessibility to Place Types and Social Satisfaction for Individuals With Disabilities</title>
@@ -46,6 +256,13 @@
       <link>https://openalex.org/W7204014718</link>
       <guid>https://openalex.org/W7204014718</guid>
       <description>Digital Commons - East Tennessee State University (East Tennessee State University) — Background: Systemic lupus erythematosus (SLE) disproportionately affects African American women and contributes to racial health disparities in the United States. Although genetic susceptibility influences disease risk, growing evidence suggests that social determinants of health (SDOH), including neighborhood conditions, structural racism, and socioeconomic disadvantage, contribute to disease development and progression. Epigenetic mechanisms may provide a biological pathway linking adverse social conditions to chronic disease disparities. This dissertation examined the influence of SDOH on </description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Decolonizing ecocriticism: Climate justice, Indigenous knowledge, and more-than-human agency in contemporary Anglophone literature</title>
+      <link>https://doi.org/10.33545/26648717.2026.v8.i10a.927</link>
+      <guid>doi:10.33545/26648717.2026.v8.i10a.927</guid>
+      <description>International Journal of Research in English — Contemporary climate fiction increasingly challenges the assumption that ecological crisis can be understood exclusively through universalized narratives of environmental degradation. Such narratives often obscure the historical inequalities through which ecological harm is produced and unevenly distributed. This article proposes a decolonizing approach to ecocriticism through a comparative reading of Imbolo Mbue’s How Beautiful We Were (2021) and Amitav Ghosh’s Gun Island (2019). While existing criticism has productively examined environmental injustice, climate migration, coloniality, and mu</description>
       <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -84,417 +301,200 @@
       <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Effects of longitudinal gradient on vehicle-emitted gaseous pollutant transport and near-ground accumulation in long highway tunnels</title>
-      <link>https://doi.org/10.1016/j.csite.2026.108733</link>
-      <guid>doi:10.1016/j.csite.2026.108733</guid>
-      <description>Case Studies in Thermal Engineering — To elucidate the effects of longitudinal gradients on the along-tunnel transport and near-ground retention of gaseous pollutants in extra-long highway tunnels, scaled-model experiments and numerical simulations were conducted to investigate the spatial distribution characteristics of gaseous pollutants under horizontal, unidirectional-slope, and symmetric-slope configurations. Ten combinations of slope types and gradients were examined in the scaled-model experiments. The experimental results show that uphill gradients significantly weaken the longitudinal transport of pollutants. Under a 3% u</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Quaternary adsorption of cadmium(II)/chromium(III)/copper(II)/lead(II) ions from simulated and real wastewater by residual fennel seeds (Foeniculum vulgare) as a removal tool</title>
+      <link>https://doi.org/10.12911/22998993/235955</link>
+      <guid>doi:10.12911/22998993/235955</guid>
+      <description>Journal of Ecological Engineering — Proper management of wastewater contaminated with heavy metals through biosorption supports climate change mitigation, green growth, and the circular bioeconomy by generating innovative, biodegradable biosorbents.In this study, lignocellulosic materials derived from residual fennel seeds (Foeniculum vulgare), in both virgin (FS) and modified (MFS) forms, were employed for the simultaneous adsorption of Cd, Cr, Cu, and Pb ions from simulated and real wastewaters, for the first time.Physicochemical and instrumental characterisations confirmed the presence of diverse functional groups, high catio</description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Art Welcome. Artists Denied. How the visa regime shapes the mobility of Global South artists and the production of cultural diversity in Switzerland.</title>
-      <link>https://doi.org/10.13140/rg.2.2.30820.74886</link>
-      <guid>doi:10.13140/rg.2.2.30820.74886</guid>
-      <description>Graduate Institute Geneva Institutional Repository (Graduate Institute of International and Development Studies) — Switzerland champions cultural diversity and international artistic exchange, yet artists from the Global South routinely struggle to enter its territory.This research examines how the Swiss short-term (Schengen) visa regime shapes their access to professional opportunities in Switzerland, and affects collaborations with Swiss cultural institutions and broader processes of cultural exchange.Drawing on interviews and testimonies from 39 participants (mostly artists and culture professionals), Swiss and European visa statistics, sectoral reports and legal and policy documents, it analyses the re</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Ecological and geochemical monitoring of the soil–surface water system in the impact zone of the thermoelectric power station</title>
+      <link>https://doi.org/10.12911/22998993/237566</link>
+      <guid>doi:10.12911/22998993/237566</guid>
+      <description>Journal of Ecological Engineering — This study examined spatial patterns of chemical elements in soils within the potential impact zone of the Burshtyn Thermal Power Plant and compared the soil results with non-synchronous published surface-water data.Instrument screening reported 30 components; quantitative interpretation used ten variables with complete results for 19 sites, while Pb was quantified at 12 sites.Soil conditions were assessed using concentration factors, Al-normalized enrichment factors, the geoaccumulation index, Spearman correlations with Benjamini-Hochberg false-discovery-rate control, and exploratory principa</description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Malaria in urban Ethiopia: anthropological insights for prevention and control in Jimma City, Ethiopia</title>
-      <link>https://doi.org/10.1186/s12936-026-06245-9</link>
-      <guid>doi:10.1186/s12936-026-06245-9</guid>
-      <description>Malaria Journal — Urban malaria is a rising public health threat driven by rapid urbanization and structural inequalities. However, little is known about the lived, socio-environmental dimensions of urban malaria in Jimma City. This study examines the socio-environmental and institutional factors influencing malaria prevention and control in Jimma City, southwest Oromia, Ethiopia. An ethnographic study was conducted with 56 participants (aged 19–56), including malaria-affected households, community leaders, and health professionals. Data were collected through participant observation, in-depth interviews, key i</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Semiotic Consumption and Hybridity among the Urban Middle Class</title>
+      <link>https://doi.org/10.67147/literariness.v2i1.001</link>
+      <guid>doi:10.67147/literariness.v2i1.001</guid>
+      <description>Literariness Journal — Consumption is a central organizing principle of social life that shapes our everyday lives. It not only means the use of commodities for the satisfaction of needs and desires (including material goods, services and a variety of social experiences); but it is a process of identity construction, involving semiotics and symbolism, different from purely biological survival. Today our experiences and identities are hybridised as they are drawn from multiple global sources. With rapid urbanization, globalization and digitalization, everyday experiences and consumption practices among India’s urban </description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>‌ Beyond the shortest path: Identifying optimal walkable routes using a street walkability index derived from deep learning and micro-scale pedestrian environment features</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11639030/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11639030/v1</guid>
-      <description>Research Square — Abstract Urban streets are fundamental public spaces that underpin residents’ daily non-motorized travel, and their on-street pedestrian environment and walkability directly shape people’s walking mode decisions and walking experiences. However, few existing studies have systematically examined street-level walkability from the perspective of micro-scale pedestrian environment features—particularly its critical role in identifying the truly optimal walkable routes. This study develops a Street Walkability Index (SWI) based on street view image data, deep learning and seven specific street micr</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Hydrological Functioning of a Bromeliad Green Roof: Interception Capacity and Evapotranspiration</title>
+      <link>https://doi.org/10.13044/j.sdewes.d14.0745</link>
+      <guid>doi:10.13044/j.sdewes.d14.0745</guid>
+      <description>Journal of Sustainable Development of Energy Water and Environment Systems — This work presents an analysis of the contributions of plant interception and evapotranspiration to the water balance of a bromeliad green roof, based on experimental tests conducted in a prototype. The objective is to calculate the volume of water intercepted by bromeliads and the volume of water that undergoes evapotranspiration, and to compare these volumes with the volume precipitated over the green roof and the volume retained, to improve understanding of the mechanism of interaction among the parts. The main purpose is to improve the efficiency of compensatory techniques in urban drainag</description>
+      <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Patterns of HIV Care and Livelihood Experiences among People Living with HIV following Flood Events in Rural KwaZulu-Natal, South Africa</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11001916/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11001916/v1</guid>
-      <description>Research Square — Abstract Background KwaZulu-Natal (KZN) has experienced recurrent floods, with the April 2022 floods regarded as among the most devastating in South Africa’s recorded history. We examined how flood-related extreme weather events shaped healthcare utilisation, HIV treatment continuity and livelihood experiences among people living with HIV (PLHIV) in rural KwaZulu-Natal. Methods We conducted an exploratory qualitative descriptive study in Hlabisa, uMkhanyakude District, KwaZulu-Natal. We conducted individual in-depth interviews with 26 PLHIV and four key informants. Six of the interviewed PLHIV</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>A Deep Learning-based Feature-level Privacy-preserving and Intrusion Detection Framework for Intelligent Cybersecurity Using Blockchain</title>
+      <link>https://doi.org/10.22266/ijies2026.1130.73</link>
+      <guid>doi:10.22266/ijies2026.1130.73</guid>
+      <description>International journal of intelligent engineering and systems — The advent of the fast growth of interconnected digital infrastructures has increased the necessity of privacyconserving cybersecurity solutions that can detect network intrusions without revealing sensitive traffic data.Traditional intrusion detection systems (IDSs) typically analyse raw network traffic in a centralized manner, a practice that heightens the risk of data leakage and privacy breaches.This study proposes an IDS that preserves privacy at the feature level by coupling deep representation learning with encrypted, blockchain-based storage.The architecture suggested uses a hybrid Con</description>
+      <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Legal Aspects of Climate Adaptation and the Economics of Resilience</title>
-      <link>https://doi.org/10.68018/jsshe.2026.011</link>
-      <guid>doi:10.68018/jsshe.2026.011</guid>
-      <description>Preprint / source unavailable — Climate adaptation has moved from the margins of environmental policy to the centre of public law, economic gov ernance and human-rights protection. Mitigation determines the magnitude of future change; adaptation determines how institutions, infrastructure, ecosystems and communities withstand change that can no longer be avoided. The legal challenge is distinctive because adaptation has no single metric equivalent to tonnes of greenhouse gases. Its effectiveness depends on place, timing, distribution, uncertainty and the avoidance of maladaptation. This study de velops an integrated account </description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Identifying Regional Heterogeneity and Priority Factors for Infrastructure in Indonesia Using FIMIX-PLS and Importance-Performance Map Analysis</title>
+      <link>https://doi.org/10.18860/cauchy.v11i2.45621</link>
+      <guid>doi:10.18860/cauchy.v11i2.45621</guid>
+      <description>CAUCHY Jurnal Matematika Murni dan Aplikasi — Infrastructure development is important for reducing regional disparities, but Indonesian provinces differ in economic conditions, human resources, and regional characteristics. This study examines the relationships between the Economy, Human Resources, and Regional Characteristics and Infrastructure in the 38 provinces of Indonesia, based on secondary data from Statistics Indonesia (BPS) for 2024 and 2025. To examine the structural relationships, Partial Least Squares Structural Equation Modeling (PLS-SEM) was employed, and to investigate unobserved heterogeneity, Finite Mixture PLS (FIMIX-PL</description>
+      <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Data-Intensive and Ai-Mediated Anticipatory Governance: A Functional Typology of Institutional Capacity, Decision-Making, and Governance of Expertise</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11273200/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11273200/v1</guid>
-      <description>Research Square — Abstract Anticipatory Governance (AG) has emerged as a strategic approach for addressing uncertainty, systemic risk, and complexity in contemporary socio-technical systems. Governments and universities increasingly rely on Big Data, Data Science, and Artificial Intelligence (AI) to support future-oriented public decision-making, yet the institutional and societal implications of these technologies remain conceptually fragmented. This article addresses this gap through a Systematic Literature Review (SLR) that examines how data-intensive and AI-enabled capabilities become embedded across foresi</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>MVID: Feed-Forward Multi-View Intrinsic Image Decomposition</title>
+      <link>https://doi.org/10.1145/3829340.3842210</link>
+      <guid>doi:10.1145/3829340.3842210</guid>
+      <description>SIGGRAPH Asia Conference Papers — Intrinsic image decomposition aims to recover material and illumination factors from RGB observations, but real-world images entangle reflectance with illumination, visibility, shadows, and non-diffuse appearance. Recent single-image methods address this entanglement with a residual image formation model, decomposing RGB into albedo, diffuse shading, and a non-diffuse residual. However, applying such decomposition independently to consecutive frames lacks scene-level context, leading to inconsistent factor assignments, albedo drift, and leakage across views. Meanwhile, multi-view inverse-rende</description>
+      <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Health and social impacts of relocation to alternative housing areas in Egypt: changes in health expenditures and healthcare service quality</title>
-      <link>https://doi.org/10.3389/fpubh.2026.1964132</link>
-      <guid>doi:10.3389/fpubh.2026.1964132</guid>
-      <description>Frontiers in Public Health — Introduction This study assessed changes in health and social outcomes associated with the relocation of families from informal settlements to alternative housing areas in Egypt, with a particular focus on changes in healthcare expenditure and evaluation of health-service availability. Methods A stratified random sample of 1,139 households was selected from three alternative housing areas: Al-Mahrousa ( n = 757), Ard El-Khayala ( n = 235), and Rawdat Al-Sayeda ( n = 147). Data were collected using a purpose-designed questionnaire that captured demographic characteristics, household health cond</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss</title>
+      <link>https://doi.org/10.1145/3829340.3842244</link>
+      <guid>doi:10.1145/3829340.3842244</guid>
+      <description>SIGGRAPH Asia Conference Papers — We present SiZeUp, a fast and scalable approach for constructing large-scale 3D urban proxy models directly from calibrated oblique aerial imagery. Our method adopts a height-from-footprint representation, reducing 3D building abstraction to a low-dimensional optimization problem in which building footprints are extruded by a single height parameter. To enable efficient and robust height estimation, we introduce an ordinal depth consistency loss that enforces agreement between the relative depth ordering of rendered proxies and depth priors predicted by a monocular depth model. This is realize</description>
+      <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Evidence of sex disparity in non marital sexual partnership in Nigeria from the 2024 NDHS</title>
-      <link>https://doi.org/10.1186/s12982-026-03183-4</link>
-      <guid>doi:10.1186/s12982-026-03183-4</guid>
-      <description>Discover Public Health — Risky sexual behaviours, like non-spousal/non-cohabiting multiple partnerships (NSNCMP), increase the risk of STIs, HIV, and unintended pregnancies in Nigeria, especially among youth. Using the 2024 Nigeria Demographic and Health Survey, this study quantifies state-level sex differences in NSNCMP. We analysed responses from 39,050 women and 10,927 men aged 15–49 drawn from the 2024 NDHS (stratified two-stage sampling; ~42,000 households). We quantified stratified differences in prevalence age, marital status, residence, education, wealth, geopolitical zone, and state/FCT. Sex differences were </description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Spatial Classification Modelling of Imbalanced Response Using Firth Penalized Class-Weighted Geographically Weighted Logistic Regression</title>
+      <link>https://doi.org/10.18860/cauchy.v11i2.45533</link>
+      <guid>doi:10.18860/cauchy.v11i2.45533</guid>
+      <description>CAUCHY Jurnal Matematika Murni dan Aplikasi — Binary regional classification of food security is often complicated by class imbalance and spatially heterogeneous predictoroutcome relationships. This study applies Firth Penalized Class-Weighted Geographically Weighted Logistic Regression (Firth CW-GWLR), which combines geographically weighted estimation, class weighting, and Firth's penalty on each local likelihood to reduce small-sample bias and protect against separation. The model is applied to the 2025 food security status of the 22 regencies/cities of East Nusa Tenggara (NTT), Indonesia (18 food insecure and 4 food secure), using the </description>
+      <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Rethinking environmental justice through behavioural opportunity: developing a relational territorial vulnerability framework from IPSA-derived behavioural evidence</title>
-      <link>https://doi.org/10.1016/j.eiar.2026.108817</link>
-      <guid>doi:10.1016/j.eiar.2026.108817</guid>
-      <description>Environmental Impact Assessment Review — Environmental justice research has primarily explained health inequalities through environmental risks and resource distribution. Public spaces have similarly been assessed through quantity and accessibility, with planning interventions focused on optimizing resource allocation. However, this provision-oriented paradigm overlooks the behavioural dimension of spatial equity: health benefits depend on whether residents can translate public-space resources into stable, sufficient, and demand-responsive opportunities for health-supportive everyday activities. This limitation is particularly pressi</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Negative Binomial Modeling of District-Level Diarrhea Incidence in West Java Province</title>
+      <link>https://doi.org/10.18860/cauchy.v11i2.42057</link>
+      <guid>doi:10.18860/cauchy.v11i2.42057</guid>
+      <description>CAUCHY Jurnal Matematika Murni dan Aplikasi — This study investigated district-level diarrhea incidence in West Java Province during 2022–2024 and identified an appropriate count-data regression model for longitudinal epidemiological data. The response variable was the annual number of diarrhea cases, while explanatory variables included sanitation access, inpatient health centers, community health workers, nutritional indicators, drinking water facilities, and households implementing clean and healthy living behavior (PHBS). A population offset term was incorporated to account for differences in population exposure across districts/citie</description>
+      <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Malaria among the population associated with illegal mining in the Yanomami Indigenous Land in Roraima, Brazil: challenges and perspectives</title>
-      <link>https://doi.org/10.3389/fmala.2026.1852795</link>
-      <guid>doi:10.3389/fmala.2026.1852795</guid>
-      <description>Frontiers in Malaria — Introduction This study examines malaria epidemiology among populations engaged in illegal gold mining in Roraima, Brazil, to inform public health policy. Methods A retrospective, cross-sectional study. Analysis was conducted using secondary surveillance data (SIVEP-Malaria) from 2015 to 2024. Results Between 2015 and 2024, autochthonous malaria cases in Roraima surged from 6,176 to over 30,000 annually. Among these cases, the proportion linked to illegal gold-mining activity rose sharply from under 3% before 2019 to a peak of 46% in 2022, then fell to 4.3% in 2024 (p&lt;0.0001). Among autochthon</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Quantifying urban heat: A spatiotemporal study of climate change and population growth in Ikorodu, Lagos, Nigeria</title>
+      <link>https://doi.org/10.5897/ajest2026.3491</link>
+      <guid>doi:10.5897/ajest2026.3491</guid>
+      <description>African Journal of Environmental Science and Technology — Climate change and rapid urban growth are increasingly altering local climatic conditions in cities across the Global South.One important manifestation is the urban heat island (UHI) effect, whereby built-up urban areas experience higher temperatures than surrounding less-developed areas.This study examines the relationship between climate change, urban growth, and rising temperatures in Ikorodu, a rapidly expanding peri-urban area of Lagos State, Nigeria.Using simulated but realistic datasets derived from Nigerian Meteorological Agency (NIMET) records, Intergovernmental Panel on Climate Chang</description>
+      <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Prevalence of anemia and associated dietary practices, socioeconomic, and educational factors among pregnant women in Meerut City</title>
-      <link>https://doi.org/10.1186/s12982-026-03341-8</link>
-      <guid>doi:10.1186/s12982-026-03341-8</guid>
-      <description>Discover Public Health — Anemia during pregnancy remains a critical public health concern in low- and middle-income countries, contributing heavily to adverse maternal and neonatal outcomes. This study assessed the prevalence of anemia and its associated socioeconomic, dietary practices, and educational correlates among pregnant women registered for antenatal care (ANC) across government Urban Primary Health Centers (UPHCs) in Meerut City, India. A cross-sectional study was executed among 210 pregnant women systematically sampled across all 28 functional government UPHCs. Data covering sociodemographic profiles, resid</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Ferry transport services as an international tourism booster for the islands: assessing the challenges of achieving optimal service efficiency and safety</title>
+      <link>https://doi.org/10.1108/mabr-03-2026-0033</link>
+      <guid>doi:10.1108/mabr-03-2026-0033</guid>
+      <description>Maritime Business Review — Purpose Ferry transport is vital for island economies, yet persistent operational challenges threaten service reliability and sustainability. This study aims to systematically prioritise key challenges in Langkawi's ferry services to guide targeted improvements. Design/methodology/approach An exploratory sequential mixed-method approach was used. Content analysis first identified the key operational challenges, which were then ranked using the analytic hierarchy process (AHP) based on stakeholder perceptions. Findings High operating costs, ferry system failures and management inefficiencies em</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spatio-temporal modeling of dengue in Argentina (2009–2025): factors associated with reported incidence, spatial patterns, and implications for prevention planning</title>
-      <link>https://doi.org/10.1186/s12942-026-00513-2</link>
-      <guid>doi:10.1186/s12942-026-00513-2</guid>
-      <description>International Journal of Health Geographics — Abstract Background Dengue has expanded markedly in Argentina, with Aedes aegypti now established in temperate provinces and successive epidemics culminating in a record outbreak in 2024. Disentangling large-scale inter-annual climate variability from local environmental and socio-infrastructural conditions is essential for targeted prevention, yet few studies have modelled dengue determinants across Argentina’s heterogeneous transmission zones at national scale. Methods We analysed 817,699 dengue cases reported across 473 departments in northern and central Argentina from 2009 to 2025 using B</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance</title>
+      <link>https://doi.org/10.1186/s13040-026-00618-1</link>
+      <guid>doi:10.1186/s13040-026-00618-1</guid>
+      <description>BioData Mining — Background. Selective prediction systems improve the safety of clinical artificial intelligence by deferring ambiguous cases to human experts while automating high-confidence decisions. However, this safety mechanism relies entirely on the premise that uncertainty scores accurately reflect clinical ambiguity. In prognostic tasks characterized by severe class imbalance, where the clinical outcome of interest is a minority, this assumption breaks down. Standard uncertainty measures cease to capture clinically aligned ambiguity; instead, they become a proxy for class membership, systematically pe</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Predict the lane ahead: a survey of classical to deep learning approaches in 2D and 3D lane detection for autonomous vehicles</title>
-      <link>https://doi.org/10.3389/fmech.2026.1978170</link>
-      <guid>doi:10.3389/fmech.2026.1978170</guid>
-      <description>Frontiers in Mechanical Engineering — Introduction Lane detection is an essential feature of advanced driver assistance systems for reliable road scene perception. It allows the vehicle to determine the lane position and the orientation of its path within the lane. In recent years, deep learning has offered accurate approaches for lane detection in both the 2D image plane and 3D road coordinates. Methods This systematic review explores the advances in lane detection for autonomous vehicles from 2017 to 2026 using the PRISMA guidelines. Out of 2,839 records identified, 56 studies were selected based on the Critical Appraisal Skills</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Reflecting the LINE: Sketches for Organic Urbanities of the Future</title>
+      <link>https://doi.org/10.1007/978-3-032-29638-2_7</link>
+      <guid>doi:10.1007/978-3-032-29638-2_7</guid>
+      <description>Springer eBooks — This chapter explores the transformation of urban spaces through THE LINE, Saudi Arabia’s visionary city project, in contrast to organic and resilient urban paradigms. Through a literature review, it examines theoretical perspectives on urban design, questioning THE LINE’s rigid, predetermined form and its potential for organic adaptation. The discussion advances toward the concepts of the Organic City 2.0 and resilient urbanism, proposing that future cities should operate as self-organizing, adaptive systems responsive to social and environmental dynamics. Integrating biological principles wi</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Demographic ageing and household energy poverty in China: the moderating roles of digital access and social capital</title>
-      <link>https://doi.org/10.3389/fpubh.2026.1889899</link>
-      <guid>doi:10.3389/fpubh.2026.1889899</guid>
-      <description>Frontiers in Public Health — Background As demographic ageing progresses, increasing attention has been paid to ensuring access to basic energy services for households with older members and understanding their potential vulnerability. Household energy affordability is essential for maintaining basic living standards, health, and well-being. Existing studies have examined the relationships between population ageing, household life cycles, and household energy poverty. However, whether the association between demographic ageing and energy poverty varies according to household digital access, social capital, and resource co</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Nephelometer-based air sensor networks systematically underestimate PM2.5 in dust-influenced West Africa</title>
+      <link>https://doi.org/10.1038/s44407-026-00117-x</link>
+      <guid>doi:10.1038/s44407-026-00117-x</guid>
+      <description>npj Clean Air — Particulate matter air pollution is a major public health burden in West Africa, a region impacted by long-range transport of desert dust and local emissions. Most recent measurement growth has come from optical air sensors that behave as imperfect nephelometers. We present a multi-year measurement campaign of 16 monitoring sites across four major metropolitan regions in Ghana using the QuantAQ Modulair-PM. Results indicate a north-south disparity: coastal Sekondi-Takoradi and Accra-Tema have lower concentrations and infrequent exceedance of EPA Ghana ambient air quality standards (15% of days</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microplastics affect belowground performance of winter wheat and microbial networks in the rhizosphere</title>
-      <link>https://doi.org/10.1039/d6em00205f</link>
-      <guid>doi:10.1039/d6em00205f</guid>
-      <description>Environmental Science Processes &amp; Impacts — , showed an increased degree and eigenvector centrality in the LDPE treatment, suggesting enhanced co-occurrence and higher influence within the microbial community structure. In contrast, the PES and PP treatments resulted in lower average node degree and reduced clustering. The PS treatment only had a small effect on the microbial co-occurrence networks. Overall, our data indicate that MP-induced stress can alter microbial network topology, reduce community integration, and drive shifts in ecologically important taxa in the rhizosphere, which are linked to changes in the availability of nutr</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Examining the Association between Particulate Matter (PM2.5) Exposure and Under-five Child Mortality in India Using Cluster-Level Analysis</title>
+      <link>https://doi.org/10.21203/rs.3.rs-11731419/v1</link>
+      <guid>doi:10.21203/rs.3.rs-11731419/v1</guid>
+      <description>Research Square — Background Fine particulate matter (PM 2.5 ) pollution has emerged as a major public health concern linked to several adverse health outcomes among children. Yet, limited evidence exists on its spatial association with under-five child mortality in India at the cluster level. Therefore, this study examines the association between PM 2.5 exposure and under-five mortality across India using spatial and multivariable analyses. Methods The study utilized data from the NFHS-5 (2019-21) linked to NASA’s satellite-derived global annual mean PM 2.5 concentration data at the cluster level. We used biva</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Digital economy and urban green development in China: spatial spillovers and spatiotemporal heterogeneity</title>
-      <link>https://doi.org/10.3389/fenvs.2026.1943202</link>
-      <guid>doi:10.3389/fenvs.2026.1943202</guid>
-      <description>Frontiers in Environmental Science — China’s transition toward a green economy remains constrained by rising energy consumption and persistently high carbon emissions. As a transformative force reshaping production processes and resource allocation, the digital economy (DE) is increasingly regarded as an important contributor to green development. Using panel data for 284 Chinese cities from 2011 to 2021, this study applies a spatial Durbin model (SDM) and a geographically and temporally weighted regression (GTWR) model to examine the direct and spatial spillover effects of DE and its key dimensions on urban green development, as</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Convergence in access to clean cooking fuels across selected African economies: implications for health and environmental sustainability</title>
+      <link>https://doi.org/10.1057/s41599-026-09673-9</link>
+      <guid>doi:10.1057/s41599-026-09673-9</guid>
+      <description>Humanities and Social Sciences Communications — This study investigates convergence in access to clean cooking fuels across twelve African economies which include Ghana, Nigeria, Kenya, Ethiopia, Cameroon, DR Congo, South Africa, Botswana, Morocco, Egypt, Mauritius, and Madagascar between 2000 and 2022. Using Phillips and Sul’s club convergence approach with World Bank World Development Indicators data, the results show a positive and statistically significant β coefficient (0.3965), confirming a shared long-run convergence toward improved access to clean cooking fuels across twelve African economies, albeit at varying speeds. Trend plots a</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>PPCS-YOLO: a lightweight multiscale feature fusion network for forest fire detection in satellite imagery</title>
-      <link>https://doi.org/10.3389/fpls.2026.1979529</link>
-      <guid>doi:10.3389/fpls.2026.1979529</guid>
-      <description>Frontiers in Plant Science — Introduction Forest fire detection in satellite imagery remains challenging because of substantial target-scale variations, weak visual features of small fire regions, complex background interference, and the need for lightweight deployment. Methods We propose PPCS-YOLO, a lightweight forest fire detection model based on YOLOv11n. The proposed CSS-CA-PConv module combines channel splitting and shuffling, Coordinate Attention, and Partial Convolution to improve feature representation while reducing redundant computation. A Pixel-attention-guided Fusion Module (PagFM) adaptively integrates shall</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Air-quality changes during games-period traffic management in Guangzhou: comparative interrupted time-series evidence from China’s 15th National Games</title>
+      <link>https://doi.org/10.1016/j.trip.2026.102370</link>
+      <guid>doi:10.1016/j.trip.2026.102370</guid>
+      <description>Transportation Research Interdisciplinary Perspectives — Evaluating the environmental performance of mega-event transport management requires linking mobility policy with atmospheric processes and comparative analysis. We examined Guangzhou’s 6–20 November 2025 transport-management package using hourly observations from seven monitors inside and fourteen outside the passenger-car control zone. A calendar-date-aligned comparative interrupted time series combined 2024 and 2025 observations during 08:00–19:00, with meteorological adjustment, calendar-day-clustered inference and falsification tests. The main sample contained 477 hourly contrasts across </description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>The critical public-private challenges in planning electric vehicle charging infrastructure for cities</title>
-      <link>https://doi.org/10.1088/2634-4505/aebbee</link>
-      <guid>doi:10.1088/2634-4505/aebbee</guid>
-      <description>Environmental Research Infrastructure and Sustainability — NA - editorial team requested we remove the abstract upon resubmission.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Implementation of the reduced complexity model InMAP at urban scale using a high-resolution WRF-Chem simulation</title>
+      <link>https://doi.org/10.5194/gmd-19-11019-2026</link>
+      <guid>doi:10.5194/gmd-19-11019-2026</guid>
+      <description>Geoscientific model development — Most of the population globally lives in areas exceeding prior and current WHO guidelines for fine particulate matter (PM 2.5 ), highlighting the persisting need for implementing emission reduction strategies. Given the complex transport and transformation processes that airborne species undergo in the atmosphere, chemical transport models can aid in designing and prioritizing air pollution mitigation actions. However, detailed chemical transport models often require substantial computational power and expertise. For that reason, reduced complexity models have emerged as an alternative, incorp</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Human-computer interaction for recursive prompt and image generation on media narratives of violence in Mexico</title>
-      <link>https://doi.org/10.3389/fcomp.2026.1877314</link>
-      <guid>doi:10.3389/fcomp.2026.1877314</guid>
-      <description>Frontiers in Computer Science — Introduction This study explores media narratives of violence in Mexico through a hybrid human-computer interaction workflow combining computational analysis, human interpretation and generative artificial intelligence. Methods A non-probability corpus of 105 news items was analyzed to identify recurring terms, actors, locations and semantic relationships. Corpus summaries informed a workshop with 15 participants, who developed definitions and recursively refined text prompts and AI-generated images across five iterations. Textual and visual changes were analyzed, and experts supported their s</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Contributions of structure and biomass burning to PM2.5-related mortality during the 2025 Los Angeles Fires</title>
+      <link>https://doi.org/10.31223/x5924d</link>
+      <guid>doi:10.31223/x5924d</guid>
+      <description>EarthArXiv (California Digital Library) — The January 2025 Los Angeles (LA) fires caused severe air pollution across the South Coast Air Basin in California, exposing millions of residents to elevated fine particulate matter (PM2.5)concentrations.In this study, we integrated 1 km high-resolution chemical transport model simulations with dense sensor observations to generate bias-corrected PM2.5 concentrations and estimated fire-attributable PM2.5 exposure and associated mortality.The results show that bias correction substantially improved model agreement with ground-based observations.During the fire active periods (January 7-12, 202</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Green innovation diffusion in firm populations: an agent-based model with a dual-dimensional knowledge landscape and networked learning</title>
-      <link>https://doi.org/10.3389/fphy.2026.1963277</link>
-      <guid>doi:10.3389/fphy.2026.1963277</guid>
-      <description>Frontiers in Physics — Introduction Understanding why green innovation diffuses unevenly across firm populations requires a model that separates the structure of firms’ knowledge from the networks through which they learn. Methods We develop an agent-based model in which heterogeneous firms search a dual-dimensional NK landscape comprising conventional and green knowledge, acquire external knowledge through a learning network constructed relative to a competition-reference topology, and respond to carbon pricing, green R&amp;D subsidies, and targeted learning-edge additions. The cross-domain parameter C specifies a one-</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Health management under PM2.5 pollution: perspectives of patients, families, communities, and health-care providers in Northern Thailand</title>
+      <link>https://doi.org/10.3389/fpubh.2026.1990972</link>
+      <guid>doi:10.3389/fpubh.2026.1990972</guid>
+      <description>Frontiers in Public Health — Background Seasonal air pollution in Northern Thailand (January–April) poses significant physical and mental health burdens. Elevated fine particulate matter (PM2.5) levels stem from agricultural burning, forest fires, mountainous atmospheric stagnation, and transboundary haze. While physical impacts—including COPD, cardiopulmonary diseases, and respiratory exacerbations—are well documented, PM2.5 as a social and psychological stressor remains understudied, particularly regarding how residents across varied geographic and socioeconomic contexts perceive and adapt to exposure. Methods This stud</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Participation without power: urban biodiversity plans exclude the communities most affected by biodiversity loss</title>
-      <link>https://doi.org/10.3389/fevo.2026.1923739</link>
-      <guid>doi:10.3389/fevo.2026.1923739</guid>
-      <description>Frontiers in Ecology and Evolution — Urban biodiversity loss is increasingly framed as a governance challenge with intertwined ecological and social dimensions, yet little is known about who participates in local biodiversity planning, what authority that participation carries, and whether plans recognize and address disproportionate harms. This study presents the first comparative analysis at this scale of participation in Local Biodiversity Strategies and Action Plans (LBSAPs), examining 98 plans from 98 municipalities across 26 countries. Using a hybrid methodology combining large language model-assisted verbatim extraction wi</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>MIGRATION-INDUCED FERTILITY DYNAMICS AMONG WOMEN OF REPRODUCTIVE AGE IN SELECTED RURAL SOUTH EAST NIGERIA: STOCHASTIC MODELLING</title>
+      <link>https://doi.org/10.52417/ojmr.v7i2.1179</link>
+      <guid>doi:10.52417/ojmr.v7i2.1179</guid>
+      <description>Open Journal of Medical Research — Migration and mobility increasingly influence reproductive behaviour and fertility transitions in developing countries, particularly in rural Nigeria, where fertility patterns remain heterogeneous and dynamic. Existing fertility studies in Nigeria predominantly employed deterministic approaches and rarely integrated stochastic migration processes into fertility modelling. This study used a stochastic model to investigate migration-induced fertility dynamics among women of reproductive age in selected rural South-East Nigeria. The study adopted a quantitative stochastic demographic modelling ap</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Emotional Dynamics of Online Protest Communication: A Sentiment Analysis of the #StopGalamseyNow Environmental Demonstrations in Ghana</title>
-      <link>https://doi.org/10.5539/nct.v10n2p1</link>
-      <guid>doi:10.5539/nct.v10n2p1</guid>
-      <description>Network and Communication Technologies — Environmental concerns have become increasingly prominent in public discourse, with social media platforms providing important spaces for collective action and public engagement. In Ghana, the #StopGalamseyNow protests emerged in September and October 2024 in response to environmental degradation caused by illegal mining, commonly known as galmasey. This study examined emotional sentiments expressed on X (formerly Twitter) during and after the demonstrations. Guided by Emotional Contagion Theory, sentiment analysis was used to examine posts and mentions associated with major protest-related ha</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Optimization of Emergency Bus Bridging under Unplanned Disruptions of Urban Rail Transit</title>
+      <link>https://doi.org/10.1061/9780784486948.387</link>
+      <guid>doi:10.1061/9780784486948.387</guid>
+      <description>COTA International Conference of Transportation Professionals (CICTP) — With the rapid expansion of urban rail transit networks, their role in urban mobility has become more crucial. However, unplanned incidents like equipment failures, external intrusions, and extreme weather frequently cause service disruptions, leading to passenger stranding and surface traffic congestion, thereby weakening system resilience. This study addresses the scheduling of emergency bus bridging under metro disruptions and proposes a network-based bridging strategy that leverages the residual accessibility of rail networks to coordinate emergency resources and enhance evacuation efficie</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Dynamic Graph and Multi-Stage Mamba Fusion for Multimodal Survival Prediction</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11124211/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11124211/v1</guid>
-      <description>Research Square — Abstract Multimodal survival prediction using whole-slide images (WSIs) and genomic profiles is important for cancer prognosis; however, integrating gigapixel histopathology with high-dimensional molecular data remains challenging. Existing methods often rely on dense or fixed fusion strategies that may introduce redundant interactions and inadequately capture patient-specific pathology--molecular associations. We propose a sample-adaptive WSI-omics framework that constructs sparse pathway--patch interactions and combines graph-based refinement with selective state-space aggregation for patien</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Global Surface Coal Mine Segmentation with Multi-Spectral Sentinel-2 Imagery: Overcoming Spectral Dilution using Geospatial Foundation Models</title>
+      <link>https://doi.org/10.31223/x5jj99</link>
+      <guid>doi:10.31223/x5jj99</guid>
+      <description>EarthArXiv (California Digital Library) — Surface coal mines are a diffuse, undermonitored source of methane, whose reduction could deliver measurable near-term climate benefit. A lack of precise spatial boundaries and reliance on global emission inventories (based on point coordinates with kilometer-scale spa- tial uncertainty), limit their continuous spaceborne attribution and monitoring. To bridge this gap, we introduce the Global Surface Coal Mine (GSCM) Polygons dataset, obtained by spatially match- ing the Global Coal Mine Tracker to the Global Mining Footprint and linking candidate polygons to cloud-free Sentinel-2 imagery. We </description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Neural dynamics of temporal-order errors despite preserved identity in rapid visual sequences</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11765230/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11765230/v1</guid>
-      <description>Research Square — Abstract Preserving the order of visual events is fundamental to understanding a rapidly changing environment, yet successful identification does not guarantee accurate order reporting. We recorded electroencephalography from 27 adults during rapid serial visual presentation, comparing correct- and reversed-order reports when both target identities were correctly reported. N2pc, P3b, pretarget phase, and phase–amplitude coupling measures did not support the tested theoretical predictions. Correct-order trials showed a more negative posterior event-related potential around 400 ms after the firs</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Sustainable port-city connectivity using remote gates and battery-electric truck operations</title>
+      <link>https://doi.org/10.1016/j.trd.2026.105749</link>
+      <guid>doi:10.1016/j.trd.2026.105749</guid>
+      <description>Transportation Research Part D Transport and Environment — Growing maritime trade has intensified congestion and environmental pressures in port cities. Existing approaches primarily focus on port efficiency or promote alternative freight transport modes; however, road transport remains dominant, resulting in persistent congestion and emissions on port-access-road. This study proposes a network-oriented strategy combining a chassis-based remote gate (CRG) at the urban periphery with battery-electric trucks (BET) for low-emission port-CRG transport. A comparative framework is developed to assess the alignment and misalignment of port-handling capacity </description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pretreatment Upper Esophageal Sphincter Opening Diameter on Water-Soluble Contrast Esophagography: Differences by Tumor Site and Swallowing-Related Symptom Documentation</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11454766/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11454766/v1</guid>
-      <description>Research Square — Abstract This study compared maximum upper esophageal sphincter (UES) opening diameter across tumor locations and pretreatment swallowing-related symptom-documentation categories to explore the clinical relevance of this measurement in routine pretreatment esophagography. Diameter was measured on pretreatment water-soluble iodinated contrast esophagrams from 168 patients with hypopharyngeal, laryngeal, or esophageal cancer. UES opening diameter differed across four primary tumor-site groups ( H = 38.12, P &lt; 0.001) and eight detailed locations ( H = 47.79, P &lt; 0.001), with the lowest median in </description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Visible light-responsive green synthesized Chromium-bismuth mixed ferrites for organic pollutant remediation and hydrogen generation</title>
+      <link>https://doi.org/10.1186/s11671-026-05040-4</link>
+      <guid>doi:10.1186/s11671-026-05040-4</guid>
+      <description>Discover Nano — Water is necessary to support all forms of life on Earth. However, the ongoing contamination of water bodies by anthropogenic activities poses an emerging threat to life. Therefore, the development of efficient photocatalysts for pollutant degradation is a widely studied approach. In addition to water pollution, air pollution from burning fossil fuels is also damaging the environment. The quest for alternative, environmentally friendly fuels is also being highly explored. To tackle these issues, the eco-friendly synthesis of chromium-doped bismuth ferrite (Cr/BFO) NPs at 1.25-10% doping of Cr </description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Designing a mHealth Intervention to Enhance Health, Nutrition, and Child Development for Urban Refugees and Host Communities in a Low-Resource Setting: Formative Qualitative Study</title>
-      <link>https://doi.org/10.2196/99450</link>
-      <guid>doi:10.2196/99450</guid>
-      <description>JMIR Formative Research — Background: Despite advances in addressing child health and undernutrition, low- and middle-income countries in Africa have experienced a persistently high number of children with suboptimal outcomes over the last decade. Caregivers of young children in low-resource settings have limited access to health and nutrition information to enhance child development. Digital interventions are a possible solution, although the factors for their success among urban, low-income refugee, and host communities are unclear. Objective: This study explored the perceptions of health care workers and caregivers </description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Malaria burden and care in hard-to-reach indigenous communities in the Peruvian Amazon during the COVID-19 pandemic: A mixed-methods study</title>
+      <link>https://doi.org/10.1371/journal.pntd.0014576</link>
+      <guid>doi:10.1371/journal.pntd.0014576</guid>
+      <description>PLoS neglected tropical diseases — Background The COVID-19 pandemic was associated with reported disruptions to healthcare delivery and malaria control activities in remote, malaria-endemic indigenous communities with limited access to healthcare. Such communities in the Peruvian Amazon may have been especially vulnerable due to interruptions in malaria surveillance, diagnosis, and treatment. We investigated malaria burden, healthcare access, and community perceptions during the COVID-19 pandemic in hard-to-reach indigenous communities in the Amazonas region of Peru. Methods A convergent parallel mixed-methods study was conduct</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Structural transformation and household responses to shocks in Uganda</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11279299/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11279299/v1</guid>
-      <description>Research Square — Abstract We examine the relationship between structural transformation dynamics at the household level and shock experiences (droughts and floods). We create a panel data-frame that tracks households from the Uganda National Panel Survey (UNPS) from 2001 through to 2020. We identify that droughts/floods are associated with an increase in hardship; the likelihood that a household has enough shoes and clothes for all family members decreases by 3.0 and 2.2 percentage points respectively. We further find that this negative impact is attenuated by structural transformation dynamics. The shock-driv</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The relationship between peace education and external stakeholders in Sierra Leone</title>
-      <link>https://doi.org/10.1007/s11159-026-10241-1</link>
-      <guid>doi:10.1007/s11159-026-10241-1</guid>
-      <description>International Review of Education — </description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Designing the climate agenda in the Global South: selective reconfiguration, institutional scaffolding, and policy entrepreneurship in Brazil’s National Climate Change Policy</title>
-      <link>https://doi.org/10.3389/fpos.2026.1935774</link>
-      <guid>doi:10.3389/fpos.2026.1935774</guid>
-      <description>Frontiers in Political Science — This paper examines the agenda-setting of Brazil’s National Climate Change Policy (PNMC) across its first policy cycle (2009–2020) as a case of design-led governance under conditions of complexity. Rather than treating design as a metaphor for policy architecture, it foregrounds design as situated practice: the deliberate crafting of governance arenas and instruments, the brokerage performed by policy entrepreneurs, and the selective reconfiguration of governance-design templates as they circulate from multilateral and Global North arenas into a Southern political context. Combining Kingdon’s </description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Artificial Intelligence, Machine Learning and Geographic Information Systems for Environmental Monitoring and Climate-Resilient Urban Planning</title>
-      <link>https://doi.org/10.9734/ajarr/2026/v20i121513</link>
-      <guid>doi:10.9734/ajarr/2026/v20i121513</guid>
-      <description>Asian Journal of Advanced Research and Reports — Urban climate risks are produced through interactions between changing hazards, built form, ecological conditions, infrastructure and unequal social vulnerability. Artificial intelligence (AI), machine learning (ML), geographic information systems (GIS) and Earth observation now allow these interactions to be represented at increasingly fine spatial and temporal scales. Yet improved environmental maps do not necessarily constitute reliable predictions of human exposure, defensible estimates of intervention benefits or evidence of greater urban resilience. This critical narrative review examine</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Temporal Evacuation Estimates: Insights and Mitigation Strategies for Wildfire Evacuations</title>
-      <link>https://doi.org/10.7939/85872</link>
-      <guid>doi:10.7939/85872</guid>
-      <description>ERA: Education and Research Archive (University of Alberta) — During wildfire evacuations, timely action is essential to ensure life safety and minimize risk. As climate change increases the frequency and severity of wildfires, evacuation studies become necessary to improve emergency planning and ensure community resilience. However, temporal insights are not well-defined for wildfire evacuations due to data scarcity, resulting in a lack of time-based knowledge, especially for community-wide movement patterns. This gap harms planning mechanisms, leaving communities without guidance and unprepared to handle their own evacuations. Therefore, different metr</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>An Integrated Computer Vision–Digital Twin Framework for Structural Health Monitoring and Comparative Environmental Risk Assessment of Reinforced Concrete Bridges Toward Sustainable Urban Development</title>
-      <link>https://doi.org/10.71317/kjard.2.11.2026.1065</link>
-      <guid>doi:10.71317/kjard.2.11.2026.1065</guid>
-      <description>Kashmir Journal of Academic Research and Development — The progressive deterioration of reinforced concrete (RC) bridges driven by aging, increasing traffic demands, and aggressive environmental exposure presents significant challenges to structural reliability, infrastructure resilience, and sustainable urban development. This study presents an integrated computer vision–digital twin (CV–DT) framework incorporating Mask R-CNN with a ResNet-50 feature pyramid network (FPN) for automated defect segmentation, structural condition assessment, and comparative environmental risk evaluation. A dataset comprising 6,000 annotated images collected from 12 </description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mapping wildfire risks and stewardship opportunities across North Kona and South Kohala, Hawaiʻi Island</title>
-      <link>https://doi.org/10.1002/eas2.70067</link>
-      <guid>doi:10.1002/eas2.70067</guid>
-      <description>Earth stewardship. — Abstract In Hawaiʻi, wildfires represent an escalating crisis for communities, with growing impacts to health and human safety, native ecosystems, vital watersheds, and nearshore coral reefs. Despite increased funding for prevention, suppression, and recovery, the threat continues to outpace responses, culminating over the past decade in some of the largest fires in Hawaiʻi's history. To better understand these trends, we investigated the intersection of resource planning and stewardship, urban development, and wildfire mitigation within the vulnerable North Kona and South Kohala districts of </description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Global probabilistic forecasting of air pollution at the kilometre scale</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11401322/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11401322/v1</guid>
-      <description>Research Square — Abstract Fine particulate matter (PM2.5) refers to particulate matter with an aerodynamic diameter of 2.5 µm or less. It comes from human activities, such as traffic and industry, and from wildfires, desert dust and gases emitted by vegetation. Short-term exposure to it accounts for about a million deaths a year. Operational forecasts run on grids tens of kilometres wide, which hide the pollution breathed by nearly two hundred million people a day. Machine learning has transformed weather forecasting, but data-driven forecasts of air pollution still blur extremes and lose skill as the air trav</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strategic Resilience in Rail Infrastructure: Lessons from International Resilience Initiatives</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_2</link>
-      <guid>doi:10.1007/978-3-032-36101-1_2</guid>
-      <description>Lecture notes in mobility — Abstract Climate change is escalating extreme weather, profoundly challenging global railways. UIC’s RERA (Resilient Railways) initiative addresses these threats through two reports: “Resilient Railways facing High Temperatures” and “Resilient Railways facing Heavy Rains”. While high temperatures can cause track buckling and heavy rainfall can lead to landslides, both disrupt services and compromise safety. RERA provides shareable lessons and a unified assessment methodology written by infrastructure managers. This paper examines the RERA frameworks, drawing insights from climate impact analys</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dynamic Accessibility and Resilience Assessment of Urban Transport Networks Under Flooding</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_35</link>
-      <guid>doi:10.1007/978-3-032-36101-1_35</guid>
-      <description>Lecture notes in mobility — Abstract Flooding poses a major threat to urban transport networks, disrupting connectivity and access to essential services such as hospitals, clinics, and pharmacies. Assessing resilience is complicated by the differential exposure of roads to flood hazards and variable repair times. This study develops a dynamic accessibility and resilience framework to evaluate how floods affect access to critical services and how networks recover over time. The transport system is modelled as a weighted graph, with nodes representing intersections and edges encoding travel costs based on road hierarchy an</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adaptive Centrality Measures and a Pareto-Based Approach for Transport Network Vulnerability Assessment: A Case Study of Thessaloniki</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_3</link>
-      <guid>doi:10.1007/978-3-032-36101-1_3</guid>
-      <description>Lecture notes in mobility — Abstract As cities face escalating disruptions from extreme weather and other urban hazards, strengthening transport network resilience is becoming an increasing priority. Network centrality measures are widely used to identify infrastructure components requiring priority investment; however, conventional purely topological applications often overlook traffic dynamics, which can lead to misleading results. This study proposes a transport-aware framework for Thessaloniki in which centrality measures are adapted to observed operating conditions. Street geometry is extracted from OSM and enriched</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Modeling and Quantifying Resilience in Multimodal Urban Transport Networks Under Flood Risks</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_9</link>
-      <guid>doi:10.1007/978-3-032-36101-1_9</guid>
-      <description>Lecture notes in mobility — Abstract Urban transport systems function as intricate interdependent networks encompassing road, rail, and public transit modes. Given the increasing frequency of climate-induced disruptions, particularly urban flooding, there is an urgent imperative to model and quantify the resilience of multimodal systems under stress. While extant studies have addressed resilience within individual transport modes, few have examined the integrated behavior of multimodal systems during such disruptions, and even fewer have coupled topological network metrics with dynamic performance-based evaluations. This</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assessment of Flood Impact on Emergency Accessibility in Istanbul’s Road Network</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_27</link>
-      <guid>doi:10.1007/978-3-032-36101-1_27</guid>
-      <description>Lecture notes in mobility — Abstract Floods are significant climate-induced natural disasters that frequently impact the resilience of urban areas, largely due to unplanned urbanization and increasing population density, which lead to inadequate infrastructure. This study evaluates the accessibility of emergency response services to flood-prone areas in Istanbul under 50-, 100-, and 500-year flood scenarios and assesses the vulnerability of the road network using Geographical Information Systems and machine learning techniques. Flood-related disruptions in the road network were analyzed by examining changes in travel tim</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AGORA cities: The hidden infrastructure shaping urban fragility</title>
-      <link>https://doi.org/10.1177/23998083261509701</link>
-      <guid>doi:10.1177/23998083261509701</guid>
-      <description>Environment and Planning B Urban Analytics and City Science — Urban services are unevenly distributed across the city, yet it is unclear when their joint presence signals fragility and when it instead outlines a neighbourhood’s vocation. For Bologna and Florence, we integrate Foursquare and OpenStreetMap points of interest with Sentinel-2-derived green indicators based on the 3–30–300 rule, cluster urban areas accordingly, and benchmark the clusters against the demographic, social, economic, and composite fragility indices produced by the municipal statistical offices, which are exogenous to the analysis. In both cities, we identify a subset of infrastru</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Navigating a Resilient Transition: A Conceptual Framework for Mapping Disruptions to Electrified Public Bus Transport</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_36</link>
-      <guid>doi:10.1007/978-3-032-36101-1_36</guid>
-      <description>Lecture notes in mobility — Abstract Public transport plays a key role in decarbonizing the transport sector, but in Sweden, the sector is challenged by a slow post-Covid recovery. While vehicle electrification can offer new, cross-sectoral resilience services, it may also place additional strain on the sector through new infrastructure dependencies and potentially undermine the sector’s long-term resilience. This paper explores how resilience can be conceptualized in electrified public bus transport in Sweden, maps related disruptions and identifies the most critical resilience challenges perceived by stakeholders. Draw</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mapping Forest Loss Following the August 2026 Wildfires in Jijel, Algeria</title>
-      <link>https://doi.org/10.31223/x5gr70</link>
-      <guid>doi:10.31223/x5gr70</guid>
-      <description>EarthArXiv (California Digital Library) — The August 2026 wildfires affected several provinces in northeastern Algeria, including Jijel, one of the country's most forested regions. This study maps and quantifies the resulting forest loss using Sentinel-2 imagery and deep learning. Median composites from before (12-22 August 2026) and after (1-10 September 2026) the fires are compared using NDVI and NBR. A U-Net model, trained mainly on Sentinel-2 data from El Tarf with ESA WorldCover labels and supplemented by additional private data, is then applied unchanged to both composites, and forest loss is defined as pixels that are forest be</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Designing Resilience: Transforming Residual Spaces Within Informal Settlements</title>
-      <link>https://doi.org/10.54508/archex.2.03</link>
-      <guid>doi:10.54508/archex.2.03</guid>
-      <description>Preprint / source unavailable — Informal settlements emerge in contexts of rapid urbanisation, rural-to-urban migration, socioeconomic inequality, and environmental and political vulnerabilities and are characterised by spatial segregation, inadequate infrastructure, and limited access to services.Addressing these challenges requires innovative approaches that go beyond conventional urban planning, emphasising strategies that integrate ecological, social, and cultural dimensions of the built environment.This paper explores regenerative design strategies for built environments and urban voids within informal settlements, with</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>A systematic review of disaster education programs incorporation of social vulnerability</title>
-      <link>https://doi.org/10.1007/s44475-026-00086-5</link>
-      <guid>doi:10.1007/s44475-026-00086-5</guid>
-      <description>Discover Hazards — Abstract Education is an empirically supported strategy for disaster risk reduction and for developing human capital to enhance resilience. A focused emphasis on education for socially vulnerable populations is particularly important for addressing equity and improving disaster outcomes, as the knowledge, skills, and abilities gained help protect and empower those at the highest risk. Although prior reviews address specific vulnerable populations, a comprehensive review is needed that centers on disaster-related educational interventions targeting socially vulnerable populations or concepts. F</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Global overview on vehicular emission control: current strategies, effectiveness, challenges, and future research priorities</title>
-      <link>https://doi.org/10.1007/s10098-026-03642-1</link>
-      <guid>doi:10.1007/s10098-026-03642-1</guid>
-      <description>Clean Technologies and Environmental Policy — Controlling vehicle emissions remains a critical challenge for improving urban air quality. Although multiple emission control strategies have been adopted worldwide, their main characteristics and outcomes remain scattered, hindering a systemic understanding of what works, where, and under which conditions. This structured narrative review combines a structured literature search with an original regulatory maturity matrix, which scores programs to control vehicle emissions in 18 countries and regions and groups them by cluster analysis. The literature indicates a global convergence toward int</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Empirical analysis and adaptive policy control for air quality governance in Delhi NCR</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11385727/v1</link>
-      <guid>doi:10.21203/rs.3.rs-11385727/v1</guid>
-      <description>Research Square — Abstract Persistent atmospheric pollution across the National Capital Region of Delhi continues to impose severe public health burdens and economic costs despite repeated emergency regulatory interventions. This study evaluates the empirical determinants of public compliance, behavioral adaptation, and enforcement friction using primary multi-stakeholder surveys and field environmental audits across five representative geographic zones. Statistical analysis reveals that policy awareness alone does not drive individual protective behavior. Rather, institutional trust serves as the primary behav</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Limited transportability of a deep learning grading model for severe lumbar neural foraminal stenosis: external validation in two public cohorts</title>
-      <link>https://doi.org/10.3389/fmed.2026.1965964</link>
-      <guid>doi:10.3389/fmed.2026.1965964</guid>
-      <description>Frontiers in Medicine — Background Aggregate accuracy and discrimination can remain acceptable even when an artificial intelligence system misses severe disease at its applied decision rule. We tested whether a locked lumbar magnetic resonance imaging (MRI) pipeline retained severe neural foraminal stenosis sensitivity and its development-defined safety operating point in an independent public cohort. Methods A two-stage ConvNeXt-Tiny pipeline was developed using LumbarDISC sagittal T2-weighted examinations. It localized eight level-by-side targets from L2–L3 to L5–S1 and graded each as normal/mild, moderate, or seve</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cargo Bikes as a Resilient Transport Mode in Emergency Scenarios</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_34</link>
-      <guid>doi:10.1007/978-3-032-36101-1_34</guid>
-      <description>Lecture notes in mobility — Abstract In crises such as power outages, natural disasters, or security-related disruptions, mobility systems must function under decentralized and resource-constrained conditions. Cargo bikes offer a promising yet underexplored contribution to resilience. They require no fuel or license, involve relatively low costs, and can be operated without specialized training, which makes them accessible to both emergency services and communities. E-cargo bikes equipped with energy recuperation further increase their usability when infrastructures fail. This study examines the resilience potential of c</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Employing BIM Based IFC to Develop Digital Twin Models for Intelligent Bridge Operation and Maintenance</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_42</link>
-      <guid>doi:10.1007/978-3-032-36101-1_42</guid>
-      <description>Lecture notes in mobility — Abstract Railway assets such as bridges are important for the transport sector. Although railway bridge infrastructure across Europe has been operating for decades. The operation and maintenance of bridges are dependent on available data from official records and Internet of Things (IoT). Thus, as part of the EU-RAIL FP1 MOTIONAL project a prototype is implemented in Python programming based on Building Information Modeling (BIM) in Industry Foundation Classes (IFC) by seamlessly extracting data collected by IoT sensors for bridge operation. Additionally, this paper contributes to enhance brid</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Designing Climate Resilience: A Policy Lab Approach to Climate Adaptation in Swedish Transport Systems</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_8</link>
-      <guid>doi:10.1007/978-3-032-36101-1_8</guid>
-      <description>Lecture notes in mobility — Abstract Climate change increasingly challenges transport infrastructure, demanding adaptive governance across administrative levels. This project examines a design-driven policy lab involving four Swedish municipalities, a regional municipal association, and a reference group representing local, regional, and national authorities. Through facilitated exercises and tailored manuals, local officials identified barriers, mapped stakeholders, and jointly developed actionable adaptation strategies. The policy lab generated ten policy recommendations spanning national, regional, and local levels, a</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Operational Resilience of Road Systems When Disruptions Arise</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_28</link>
-      <guid>doi:10.1007/978-3-032-36101-1_28</guid>
-      <description>Lecture notes in mobility — Abstract Climate change driven hazards, including intense rainfall, flooding, and heatwaves, increasingly threaten road transport, disrupting mobility. As infrastructure age faster than they can be upgraded, the inability to respond swiftly to emerging threats results in cascading risks across the interdependent services like emergency response and healthcare. This research adopts a systems thinking approach to investigate how operational resilience of the road systems can be enhanced during such disruptions. While previous studies have examined transport resilience to hazards, few have consid</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Resilient Urban Logistics for Disaster Response: Evaluating the Valencia Living Lab in the DISCO Project</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_10</link>
-      <guid>doi:10.1007/978-3-032-36101-1_10</guid>
-      <description>Lecture notes in mobility — Abstract The València Living Lab was established in response to the flash floods of 29 October 2024, which caused 230 fatalities and severe disruption across key municipalities in the province of València. Developed under the EU-funded DISCO project, the Living Lab aimed to test a scalable, sustainable logistics model for crisis response through a combination of infrastructure reuse, digital coordination, and green last-mile distribution. This paper presents an evaluation of the Living Lab’s approach considering three key aspects: a temporary logistics hub in Alcàsser, repurposing an unused wa</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Simulation Framework to Evaluate Link Criticality in Multimodal Freight Transport Networks Using Operational Metrics</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_13</link>
-      <guid>doi:10.1007/978-3-032-36101-1_13</guid>
-      <description>Lecture notes in mobility — Abstract Growing geopolitical risks and climate extremes have renewed interest in strengthening the resilience of transport networks to safeguard economic competitiveness and stability. A key step in network resilience planning is identifying critical components. While link criticality has been widely studied, freight networks present challenges due to their multimodal, multi-commodity nature. This study introduces a simulation framework to evaluate link criticality in multimodal freight networks at a transnational scale, balancing accuracy with computational efficiency. The framework integrat</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intelligent UAV technologies for public safety applications: a structured narrative review and future research directions</title>
-      <link>https://doi.org/10.1007/s44163-026-02678-y</link>
-      <guid>doi:10.1007/s44163-026-02678-y</guid>
-      <description>Discover Artificial Intelligence — The rapid advancement of Intelligent Unmanned Aerial Vehicle (UAV) technologies has significantly expanded their role in modern public safety and security operations within emerging smart city ecosystems. Advances in Artificial Intelligence (AI), the Internet of Things (IoT), edge computing, autonomous navigation, swarm intelligence, and next-generation wireless communications have enabled UAVs to evolve from conventional aerial surveillance platforms into intelligent cyber-physical systems capable of real-time sensing, analytics, and decision support. This study presents a structured narrativ</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cross-attention Guided CNN-Transformer-GNN Architecture for Multi-class Disaster Image Classification</title>
-      <link>https://doi.org/10.22266/ijies2026.1231.40</link>
-      <guid>doi:10.22266/ijies2026.1231.40</guid>
-      <description>International journal of intelligent engineering and systems — Disaster image classification emerged as an important research area for supporting rapid disaster assessment, situational awareness, and emergency response operations.Nevertheless, accurately distinguishing among different disaster categories remains challenging due to large intra-class variations, complex backgrounds, and the limited capability of existing approaches to simultaneously capture local visual patterns, global contextual dependencies, and inter-feature relationships.To tackle these challenges, this study proposes a hybrid Convolutional Neural Network (CNN)-Transformer-Graph Neural</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Contribution of Cross-Analysis of Crowdsourcing Geospatial Data, Photographic Data, and Satellite Image to a Road Maintenance Strategy</title>
-      <link>https://doi.org/10.1007/978-3-032-36101-1_114</link>
-      <guid>doi:10.1007/978-3-032-36101-1_114</guid>
-      <description>Lecture notes in mobility — Abstract In low-income countries such as Madagascar, road infrastructure management is hindered by the absence of comprehensive databases and limited access to modern monitoring tools. This study addresses this challenge by assessing the quality of a main road network at the scale of a rural municipality in order to ensure territorial accessibility. The approach combines participatory science, Geographic Information Systems (GIS), and Remote Sensing to identify both the extent and condition of the road network. The methodology integrates standardized data from OpenStreetMap (OSM) to delineate </description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Health impacts of water risks through water-borne and vector-borne diseases in informal settlements in the Global South and India</title>
-      <link>https://doi.org/10.1186/s12982-026-03244-8</link>
-      <guid>doi:10.1186/s12982-026-03244-8</guid>
-      <description>Discover Public Health — Abstract Informal settlements concentrate overlapping water risks that undermine health, well-being and livelihood security. This review synthesizes evidence on how water scarcity, poor water quality, flooding, infrastructure deficits and governance gaps interact to shape health outcomes in informal urban communities, with particular attention to water- and vector-borne diseases. The review argues that water risk in informal settlements is not limited to absent supply; it is produced through the co-occurrence of intermittent service, unsafe storage, exposed wastewater, weak drainage, informal </description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Towards multi-hazard assessment: a score-based framework for screening and ranking Italian municipalities</title>
-      <link>https://doi.org/10.1080/19475705.2026.2738978</link>
-      <guid>doi:10.1080/19475705.2026.2738978</guid>
-      <description>Geomatics Natural Hazards and Risk — Identifying natural hazard hotspots is essential for disaster risk reduction, yet comparing and aggregating heterogeneous hazards remains challenging due to differences in metrics, spatial-temporal scales, and data availability. This study proposes a transparent, index-based framework for ranking single and multiple natural hazards and identifying multi-hazard hotspots at national and sub-national scales without relying on data-intensive risk modelling. Single-hazard scores are derived by normalising open-source hazard indicators, while multi-hazard scores are obtained by aggregating the indiv</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <title>How does urban form shape spatial and demographic inequalities in compound heat–ozone exposure? — Evidence from Guangzhou and Shenzhen, China</title>
+      <link>https://doi.org/10.21203/rs.3.rs-11441053/v1</link>
+      <guid>doi:10.21203/rs.3.rs-11441053/v1</guid>
+      <description>Research Square — Compound heatwave and ozone pollution (CHOP) events have emerged as a critical environmental health threat in rapidly urbanizing regions, yet how their fine-scale spatial heterogeneity differs between megacities sharing a common climatic background has received limited attention. Taking Guangzhou and Shenzhen, two megacities of China's Greater Bay Area, this study maps CHOP exposure on a unified 100 m grid, compares its spatial pattern and population burden between the two cities, and identifies the urban-form factors that explain their divergence with SHapley Additive exPlanations (SHAP) inte</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
