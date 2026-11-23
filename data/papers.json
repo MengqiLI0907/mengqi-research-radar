@@ -1,42 +1,30 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T18:36:08Z",
+    "generated_at": "2026-11-23T22:45:45Z",
     "mode": "openalex_sync",
     "source": "OpenAlex",
     "query_count": 12,
     "failed_queries": 0,
     "new_ids": [
-      "doi:10.1371/journal.pone.0362587",
-      "doi:10.12911/22998993/240351",
-      "doi:10.1007/978-3-032-36098-4_112",
-      "doi:10.1186/s40580-026-00589-3",
-      "doi:10.1111/ecca.70081",
-      "doi:10.21203/rs.3.rs-11486706/v1",
-      "doi:10.1057/s41599-026-09624-4",
-      "doi:10.1371/journal.pclm.0001033",
-      "doi:10.21203/rs.3.rs-11655791/v1",
-      "doi:10.1075/wlp.11.refs",
-      "doi:10.5194/egusphere-2026-7101",
-      "doi:10.1093/9780197923139.003.0004",
-      "doi:10.1080/20964471.2026.2759382",
-      "doi:10.1201/9781003773511-11",
-      "doi:10.1007/978-3-032-36098-4_85",
-      "doi:10.21203/rs.3.rs-11577297/v1",
-      "doi:10.1007/s44327-026-00428-4",
-      "doi:10.1007/s11270-026-10197-w",
-      "doi:10.1007/978-3-032-36019-9_3",
-      "doi:10.1038/s41598-026-81205-6",
-      "https://openalex.org/W7222991373",
-      "doi:10.1007/s10207-026-01360-9",
-      "doi:10.1007/s10479-026-07484-4",
-      "doi:10.1038/s41598-026-80019-w",
-      "doi:10.1016/j.trt.2026.100036",
-      "doi:10.68609/reimagining-community-health-systems-2026",
-      "doi:10.3389/frsus.2026.1894183",
-      "doi:10.51244/ijrsi.2026.1311000026",
-      "doi:10.66104/p9bp2v26",
-      "doi:10.58088/x8hp-k605",
-      "doi:10.1016/j.ijdrr.2026.106566"
+      "https://openalex.org/W7237377850",
+      "doi:10.4324/9781003633938-2",
+      "doi:10.1016/j.healthplace.2026.103763",
+      "doi:10.1007/s44327-026-00431-9",
+      "doi:10.1016/j.trip.2026.102361",
+      "doi:10.1016/j.jag.2026.105683",
+      "https://openalex.org/W7238699784",
+      "doi:10.59490/jcrfr.2026.0026",
+      "doi:10.1002/sd.71945",
+      "doi:10.1007/s12132-026-09574-9",
+      "doi:10.1016/j.urbmob.2026.100319",
+      "doi:10.1007/s10113-026-02719-3",
+      "doi:10.46409/sr./hebb9492",
+      "doi:10.1016/j.envsci.2026.104535",
+      "doi:10.1038/s41467-026-79586-3",
+      "doi:10.1057/s41599-026-09688-2",
+      "doi:10.21203/rs.3.rs-11115094/v1",
+      "doi:10.13140/rg.2.2.28540.09602",
+      "doi:10.5812/healthscope-174347"
     ]
   },
   "papers": [
@@ -4517,6 +4505,28 @@
       "first_seen": "2026-11-22"
     },
     {
+      "id": "doi:10.59490/jcrfr.2026.0026",
+      "title": "Three roles of evacuation simulation in life-safety-oriented flood disaster management",
+      "authors": [
+        "Tomoyuki Takabatake"
+      ],
+      "journal": "Journal of Coastal and Riverine Flood Risk",
+      "date": "2026-11-21",
+      "doi": "10.59490/jcrfr.2026.0026",
+      "url": "https://doi.org/10.59490/jcrfr.2026.0026",
+      "oa_url": "https://journals.open.tudelft.nl/jcrfr/article/download/9028/6714",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Evacuation simulation links physical hazard analysis with human response by assessing whether populations exposed to coastal and riverine flood hazards can reach safety within the available time. However, because evacuation is a collective process emerging from individual decisions made during infrequent and rapidly evolving events, behavioral realism, validation, and transferability remain challenging. These challenges can foster skepticism about the reliability of evacuation simulation and constrain its broader application. This Short Communication argues that such limitations do not diminish the value of evacuation simulation, but instead clarify the conditions under which it can be applied responsibly. To support this broader use, the paper identifies three complementary roles. In the diagnostic role, evacuation simulation represents current, intended, or likely behavior, informed by surveys, interviews, and participatory methods, and reveals outcomes such as congestion, shelter overcrowding, and difficult-to-evacuate areas. In the experimental role, it serves as a planning laboratory for evaluating alternative scenarios and interventions. By maintaining consistent behavioral assumptions across communities, it can also assess the structural escapability of communities, defined as the capacity of urban form, including street networks, topography, population distribution, and shelter placement, to enable exposed populations to reach safety in time. In the optimization role, it supports the identification of safer routes, shelter allocation, and information strategies, provided that guidance is fair, understandable, and robust to partial compliance. Together, these roles complement predictive applications by supporting risk diagnosis, scenario comparison, and the design of safer evacuation systems for life-safety-oriented flood disaster management.",
+      "categories": [
+        "mobility",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.1038/s41598-026-75956-5",
       "title": "DFlee: a scalable agent-based framework for simulating flood-induced population displacement across multiple flood scenarios",
       "authors": [
@@ -4971,6 +4981,35 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-20"
+    },
+    {
+      "id": "https://openalex.org/W7237377850",
+      "title": "Beyond Environmental Awareness: Community Resilience and the Social Dimensions of Wildfire Risk Mitigation in Eastern Indonesia",
+      "authors": [
+        "Benico Ritiauw",
+        "Hendra Suhry",
+        "Geane Jelitha Rante Tondok",
+        "Jekunda Adriana Emola",
+        "Gabrielle A. Latusuay",
+        "Gratia Stefany Latuputty",
+        "Gracia Nadine Tuanakotta",
+        "Surya Sanjaya"
+      ],
+      "journal": "Jurnal Penelitian dan Pengabdian kepada Masyarakat",
+      "date": "2026-11-18",
+      "doi": null,
+      "url": "https://openalex.org/W7237377850",
+      "oa_url": "https://ejournal.selectaedukasi.id/index.php/jppm/article/download/82/66",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Wildfire risk mitigation is frequently framed through environmental education and institutional intervention, although access to information does not necessarily translate into collective capacity for protection. This study examines how community resilience is socially constituted through the interplay of environmental knowledge, social relations, and institutional engagement in Eastern Indonesia. Using JAGA LESANE, an educational initiative involving university students, local government representatives, and residents in Lesane, Masohi, Maluku, as an empirical point of departure, the study adopts an interpretive qualitative case study design. Data will be generated through in-depth interviews, focus group discussions, field observations, and documentary analysis, and examined using reflexive thematic analysis. The analysis will explore how local knowledge, social trust, community networks, and institutional relationships enable or constrain collective responses to wildfire-related environmental and health risks. Rather than treating environmental awareness as an immediate pathway to preparedness, the study conceptualizes community resilience as a relational process shaped by the mobilization of bonding, bridging, and linking social capital alongside institutional support. By situating this inquiry in Eastern Indonesia, the study seeks to extend environmental sociology and community-based disaster research beyond individual awareness and technical approaches, foregrounding the social conditions under which environmental knowledge can be translated into collective protective capacity.",
+      "categories": [
+        "smoke",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
     },
     {
       "id": "doi:10.1007/s44163-026-02678-y",
@@ -6510,6 +6549,28 @@
       "first_seen": "2026-11-20"
     },
     {
+      "id": "https://openalex.org/W7238699784",
+      "title": "Contribution of agricultural cooperatives and humanitarian assistance on food security resilience and rural development in Mali",
+      "authors": [
+        "I Mumararungu"
+      ],
+      "journal": "ORBi (University of Liège)",
+      "date": "2026-12-07",
+      "doi": null,
+      "url": "https://openalex.org/W7238699784",
+      "oa_url": "https://orbi.uliege.be/bitstream/2268/350878/1/Contribution%20of%20agricultural%20cooperatives%20and%20humanitarian%20assistance%20on%20food%20security%20resilience%20and%20Rural%20development%20in%20Mali.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "dissertation",
+      "abstract": "Mali, located in the Sahel region, experiences a persistent food security crisis driven by climate variability, recurrent conflict, displacement, market disruptions, and structural weaknesses in rural systems. The agricultural sector, which supports the majority of households, is highly vulnerable to droughts, erratic rainfall, flooding, and insecurity. These factors undermine agricultural production, food access, and community resilience. The convergence of these stressors restricts rural development and underscores the necessity for evidence-based strategies that integrate immediate assistance with long-term resilience-building measures. This doctoral thesis, structured as a series of publishable articles, examines agricultural cooperatives and humanitarian assistance in separate studies and considers their possible complementarity for food security resilience and rural development in Mali. The research is guided by three interrelated questions: (i) whether cooperative membership enhances household resilience and reduces vulnerability compared to non-membership; (ii) how emergency cash transfers affect coping strategies, resilience outcomes, and participation in agricultural and cooperative activities; and (iii) the extent to which in-kind food assistance improves food availability and access while supporting long-term resilience. A mixed-methods approach forms the methodological foundation of the three articles. The research employed quantitative household surveys, focus group discussions, and key informant interviews, engaging a total of 638 participants across all studies. The cooperative study, conducted in Kita and Yanfolila, surveyed 84 households (56 members and 28 non-members) and included focus groups with 65 participants. The cash transfer study surveyed 157 beneficiary households, selected using a sample-size calculation with a finite-population correction from an enrolment list of approximately 2,850. The food assistance study in Bandiagara surveyed 295 beneficiary households and interviewed 37 key informants. Participant accounts associate cooperative membership with access to agricultural inputs, markets, knowledge and mutual support. These descriptive findings identify plausible resilience mechanisms rather than a causal membership effect. However, the effectiveness of cooperatives is limited by governance challenges, gender inequality, and unequal resource distribution. Cash recipients reported short-term support for food access and engagement in agricultural activities. The beneficiary-only design does not establish how their outcomes would have differed without assistance or whether benefits persisted after transfers ended. Food recipients reported improved meal frequency and perceived meal quality and quantity, alongside concerns about ration adequacy and delivery. The designs do not establish durable resilience effects, behavioural dependency, or the comparative effectiveness of integrated versus separate interventions. Recommended strategies include strengthening cooperative governance and gender equity, integrating humanitarian assistance with cooperative-led development initiatives, enhancing targeting and transparency in aid delivery, and implementing phased interventions that connect emergency support with capacity building and rural livelihood recovery. The thesis concludes",
+      "categories": [
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.65835/aph.2026.2.11",
       "title": "Comparative Framework of Vulnerability in Coastal Communities of the Ecuadorian Tropics",
       "authors": [
@@ -6578,6 +6639,56 @@
       "first_seen": "2026-11-22"
     },
     {
+      "id": "doi:10.1016/j.jag.2026.105683",
+      "title": "Delineate anything flow: fast, country-level field boundary detection from any source",
+      "authors": [
+        "Микола Сергійович Лавренюк",
+        "Nataliia Kussul",
+        "Андрій Юрійович Шелестов",
+        "Yevhenii Salii",
+        "Volodymyr Kuzin",
+        "Sergii V. Skakun",
+        "Zoltan Szantoi"
+      ],
+      "journal": "International Journal of Applied Earth Observation and Geoinformation",
+      "date": "2026-11-22",
+      "doi": "10.1016/j.jag.2026.105683",
+      "url": "https://doi.org/10.1016/j.jag.2026.105683",
+      "oa_url": "https://doi.org/10.1016/j.jag.2026.105683",
+      "is_oa": true,
+      "citations": 2,
+      "type": "article",
+      "abstract": "Accurate satellite data-based field boundary delineation is essential for land management and agricultural statistics, but integrating tile-level predictions into continuous large-area vector products introduces topological errors and computational challenges. We present Delineate Anything Flow (DelAnyFlow), a framework for scalable field instance mapping that integrates the YOLOv11-based DelAny model with structured post-processing, cross-tile instance unification, vectorization, and topology-consistent simplification. DelAny is trained on the Field Boundary Instance Segmentation-22 M (FBIS-22M) dataset, containing 672,909 multi-resolution patches from 0.25 to 10 m and 22.9 million field instances. It achieves the mean average precision with the intersection over union (IoU) threshold set at 0.5 (mAP@0.5) of 0.720 and mAP@0.5:0.95 of 0.477, while providing substantially faster inference than the zero-shot segment anything model (SAM2). Component-level evaluation shows that cross-tile unification reduces seam-induced field fragmentation by a factor of 4–6, while anchor-guided simplification reduces separated neighbouring fields from about 20% to 0.2% at comparable geometric compression. Demonstrating operational scalability, DelAnyFlow mapped Ukraine’s entire 603,000 km2 territory in 5.4 h on a single workstation. Quantitative comparisons with independent operational products show larger IoU values and small-object recall (producer accuracy), particularly for fragmented agricultural landscapes; DelAnyFlow reaches an IoU of 0.971 and a small-object recall of 0.878, compared with 0.926 and 0.405 for the best operational product. The framework therefore provides a reproducible pathway from tile-level GeoAI predictions to spatially continuous, topologically consistent field-boundary products at regional and national scales. Code, models, the dataset, and national vectors are available at https://lavreniuk.github.io/Delineate-Anything/ .",
+      "categories": [
+        "geoai",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1057/s41599-026-09688-2",
+      "title": "From financial difficulty to financial resilience: the role of financial inclusion, gender, and geography in Saudi Arabia",
+      "authors": [
+        "Fatma Mabrouk"
+      ],
+      "journal": "Humanities and Social Sciences Communications",
+      "date": "2026-11-22",
+      "doi": "10.1057/s41599-026-09688-2",
+      "url": "https://doi.org/10.1057/s41599-026-09688-2",
+      "oa_url": "https://www.nature.com/articles/s41599-026-09688-2_reference.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Financial resilience has become an increasingly important dimension of financial wellbeing, reflecting individuals’ capacity to cope with financial shocks and maintain economic stability over time. This study examines financial difficulty and financial resilience as interconnected positions along a financial wellbeing continuum and investigates how socio-demographic characteristics and multidimensional financial inclusion are associated with resilience outcomes in Saudi Arabia. Using microdata from the Global Findex Database 2025, the analysis employs ordered logistic and multinomial logistic regression models to examine factors associated with short, mid, and long-term financial resilience. The results indicate that financial inclusion is multidimensional, with access, use, and digital financial engagement exhibiting distinct associations with resilience outcomes. Saving behavior is consistently associated with lower perceived financial difficulty and a greater likelihood of achieving mid-term financial resilience, while long-term resilience is more strongly associated with higher income, tertiary education, urban residence, and digital financial engagement. Women are more likely to report financial difficulty than men, even after controlling for socioeconomic characteristics, although evidence regarding the interaction between gender and urbanicity is limited and should be interpreted cautiously. Income remains a significant correlate of resilience across all model specifications. The findings suggest that account ownership alone is an incomplete indicator of financial resilience. Instead, effective financial behaviors, human capital, and broader socioeconomic conditions appear to play important roles in shaping resilience pathways. Rather than implying causal relationships, the results should be interpreted as associations derived from cross-sectional data. By providing recent micro-level evidence from Saudi Arabia, this study contributes to the literature on financial inclusion and financial wellbeing and offers policy insights relevant to Vision 2030 initiatives aimed at promoting inclusive and resilient financial systems. The study’s contribution lies in distinguishing among the access, use, and digital engagement dimensions of financial inclusion and examining their associations with different resilience horizons rather than proposing a new theory of financial resilience.",
+      "categories": [
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.1007/s10207-026-01360-9",
       "title": "Profiling privacy preservation against gradient inversion attacks in tabular federated learning",
       "authors": [
@@ -6590,7 +6701,7 @@
       "date": "2026-11-21",
       "doi": "10.1007/s10207-026-01360-9",
       "url": "https://doi.org/10.1007/s10207-026-01360-9",
-      "oa_url": "https://doi.org/10.1007/s10207-026-01360-9",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10207-026-01360-9.pdf",
       "is_oa": true,
       "citations": 0,
       "type": "article",
@@ -6971,6 +7082,35 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-21"
+    },
+    {
+      "id": "doi:10.4324/9781003633938-2",
+      "title": "The Built Environment",
+      "authors": [
+        "Salvatore Carlucci",
+        "Georgios Artopoulos",
+        "Manfred A. Lange",
+        "Margarita-Niki Assimakopoulos",
+        "Shady Attia",
+        "Elie Azar",
+        "Erdem Cüce",
+        "Ali Hajjiah"
+      ],
+      "journal": "Routledge eBooks",
+      "date": "2026-11-18",
+      "doi": "10.4324/9781003633938-2",
+      "url": "https://doi.org/10.4324/9781003633938-2",
+      "oa_url": "https://orbi.uliege.be/bitstream/2268/350908/1/The%20Built%20Environment_26_11_21_10_47_13.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "book-chapter",
+      "abstract": "This chapter summarizes current knowledge on climate-related risks affecting the built environment in the Eastern Mediterranean and Middle East (EMME) region to identify possible pathways to address the climate crisis with coordinated action at a regional level. Urban vulnerability stems from a combination of climate exposure, geographic and morphological features, and limited adaptive capacity influenced by social and economic conditions. Rapid urbanization, unplanned development, and rising energy demand exacerbate greenhouse gas emissions, intensifying the region's exposure to climate impacts. The complexity of the built environment that encompasses buildings, infrastructure, and urban systems necessitates localized strategies for climate adaptation. Cities, as economic and innovation hubs, are critical to achieving global goals such as the Paris Agreement and the United Nations 2030 Agenda. However, limited resources often constrain local authorities' ability to implement effective measures. Despite emerging adaptation actions across EMME urban areas, progress remains uneven. High-quality, locally relevant data are urgently needed to inform robust vulnerability assessments and guide sustainable urban transformation. As cities continue to grow – they are projected to host 70 percent of the global population by 2050 – their capacity to respond to climate change will be crucial to safeguarding both regional development and global economic stability.",
+      "categories": [
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
     },
     {
       "id": "doi:10.1186/s12982-026-03244-8",
@@ -8234,6 +8374,35 @@
       "first_seen": "2026-11-16"
     },
     {
+      "id": "doi:10.1016/j.healthplace.2026.103763",
+      "title": "Climate change, place, and mental health in sub-Saharan Africa: A multi-country analysis of lived experiences following extreme weather events",
+      "authors": [
+        "Chanelle Mulopo",
+        "Sithembiso Ndlovu",
+        "Lucy Jilly Akinyi",
+        "Alberto Muanido",
+        "Wendinmaneguede Kabre",
+        "Moussa Ouédraogo",
+        "Catija MJ Maivasse",
+        "Simao Francisco Jose"
+      ],
+      "journal": "Health & Place",
+      "date": "2026-11-01",
+      "doi": "10.1016/j.healthplace.2026.103763",
+      "url": "https://doi.org/10.1016/j.healthplace.2026.103763",
+      "oa_url": "https://doi.org/10.1016/j.healthplace.2026.103763",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background Climate change is an escalating global health threat, with sub-Saharan Africa disproportionately affected due to entrenched spatial inequalities, high exposure to environmental hazards, and limited adaptive capacity. Increasingly frequent extreme weather events (EWEs), including floods and cyclones, are reshaping the material and social conditions of place, with implications for mental health and wellbeing. However, evidence remains limited, particularly multi-country qualitative research that examines how mental health impacts are produced through lived experiences of place in contexts of recurring environmental disruption and structural vulnerability. This study explored the mental health and wellbeing impacts of EWEs among individuals with lived experience of such events in Mozambique, Burkina Faso, South Africa, and Kenya, using participatory methods that centred community narratives and place-based accounts of everyday life. Methods This qualitative study employed digital storytelling as a participatory visual method to examine how EWEs are experienced and narrated across diverse socio-spatial contexts. A total of 37 participants (8-10 per country) were recruited from rural, peri-urban, and informal urban settlements with recent exposure to flooding or cyclone events. Participants produced digital stories during facilitated five-day workshops. These narratives were analysed using inductive and deductive thematic analysis informed by Braun and Clarke's framework, with attention to the spatial and relational production of distress and coping. Results Across Mozambique, Burkina Faso, South Africa, and Kenya, findings show that the mental health impacts of EWEs are deeply embedded in place-based conditions and are cyclical, cumulative, and relational rather than confined to discrete disaster events. Participants described how repeated environmental disruptions reconfigured everyday life in place, generating ongoing uncertainty, anticipatory anxiety during rainfall periods, and acute fear during floods and cyclones. Loss of housing, livelihoods, infrastructure, and social anchors of place contributed to enduring psychological distress, which was frequently reactivated by subsequent environmental cues such as heavy rain, wind, and deteriorating physical environments. Persistent anxiety, hypervigilance, sleep disturbance, and emotional distress were reported across all sites. While social and community networks constituted critical infrastructures of care within place, these were often simultaneously overwhelmed as entire communities experienced shared disruption. Limited and delayed institutional responses further compounded spatial and social precarity. Conclusions This study provides a comparative participatory account of how EWEs shape mental health through their embeddedness in place across diverse sub-Saharan African contexts. The findings demonstrate that psychological distress is produced through the interaction of repeated environmental exposure, structural inequality, and disrupted place-based infrastructures of daily life, rather than emerging solely as a post-disaster outcome. These results underscore the need for climate-responsive mental health and psychosocial support that",
+      "categories": [
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.1017/gmh.2026.10337",
       "title": "Associations between extreme weather events and resource insecurities with depression and anxiety symptoms among older adults in Moshi, Tanzania: Cross-sectional analyses",
       "authors": [
@@ -8786,6 +8955,28 @@
       "first_seen": "2026-11-22"
     },
     {
+      "id": "doi:10.1016/j.urbmob.2026.100319",
+      "title": "Toward a hybrid digital twin of society: Quantifying cognitive–spatial linkages through online–offline feedback networks",
+      "authors": [
+        "Rafiazka Millanida Hilman",
+        "Julia Koltai"
+      ],
+      "journal": "Journal of Urban Mobility",
+      "date": "2026-11-22",
+      "doi": "10.1016/j.urbmob.2026.100319",
+      "url": "https://doi.org/10.1016/j.urbmob.2026.100319",
+      "oa_url": "https://doi.org/10.1016/j.urbmob.2026.100319",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Digital platforms increasingly shape how people experience and navigate cities, creating a link between virtual information seeking and physical mobility. Despite this growing interdependence, online and offline activities are often studied separately in urban mobility research. This paper proposes the concept and computational framework of the Feedback Network to capture the continuous interaction between cognitive activity in digital environments and behavior in physical space. Using Google Search and Location History data of the same people collected through a data donation framework in Budapest, Hungary about the period, between 2018 and 2022, it examines how online search patterns and offline visitation behavior co-evolve over time. To investigate these dynamics, semantic and spatial analytical approaches are combined. Radius of gyration is adapted to measure the variation in both geographic mobility and semantic exploration, enabling comparison between physical movement and online cognitive dispersion. In parallel, a Feedback Network is developed to model transitions between search related and location related activity clusters. The framework is evaluated with Concentration Entropy , which measures the extent to which interconnected behavioral flows are concentrated around routine pathways or distributed across exploratory transitions. The results indicate that online exploration is systematically more concentrated than offline mobility, suggesting that digital behavior is shaped by narrower and more repetitive semantic interests, whereas physical movement remains relatively more diverse. Persistent linkages are observed between search and visitation activities associated with retail as well as business and professional services, highlighting the presence of stable cognitive-spatial behavioral loops. The analysis also shows that the COVID-19 pandemic disrupted spatial routines more strongly than cognitive exploration, temporarily widening the gap between digital engagement and realized movement. Overall, the findings demonstrate that urban mobility relies on the interaction between informational exposure and spatial encounter rather than through physical movement alone. The proposed Feedback Network offers a foundation for future behavioral Digital Twin frameworks capable of integrating mobility and digital behavior into a unified representation of urban dynamics, conceptualized as a Hybrid Digital Twin of Society .",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.1186/s40580-026-00589-3",
       "title": "From isolated component failure to coupled degradation networks in proton exchange membrane fuel cells",
       "authors": [
@@ -8805,13 +8996,88 @@
       "oa_url": "https://link.springer.com/content/pdf/10.1186/s40580-026-00589-3.pdf",
       "is_oa": true,
       "citations": 0,
-      "type": "article",
+      "type": "review",
       "abstract": "Proton exchange membrane fuel cells (PEMFCs) are among the most promising energy conversion technologies for achieving sustainable and carbon-neutral energy systems. Despite remarkable advances in catalyst and membrane materials, the limited durability of membrane electrode assemblies (MEAs) remains a major barrier to large-scale commercialization. Unlike previous studies that treated individual component degradation as isolated failures without adequate mitigation strategies, growing evidence shows these processes are highly interconnected. Chemical, electrochemical, mechanical, thermal, and mass-transport phenomena interact across multiple length scales, triggering cascading failure pathways that ultimately govern system-level durability. In this review, we move beyond conventional component-by-component descriptions and present an integrated perspective on coupled degradation networks in PEMFCs. We systematically analyze degradation mechanisms, highlighting how catalyst dissolution, chemical decomposition, carbon corrosion, ionomer degradation, interfacial delamination, water/heat management, contaminants, and flow-field nonuniformity mutually accelerate one another. Furthermore, we critically review recent advances in operando characterization, mechanistic evaluation, artificial intelligence (AI)-assisted diagnostics, and degradation modeling to highlight emerging strategies for identifying coupled pathways and predicting long-term durability. This review provides a comprehensive framework for designing durable, next-generation PEMFCs by treating degradation as an interconnected network of failures rather than isolated component issues, while proposing key design principles across materials, diagnostics, and systems.",
       "categories": [
         "mobility"
       ],
       "source": "openalex",
       "first_seen": "2026-11-22"
+    },
+    {
+      "id": "doi:10.1007/s44327-026-00431-9",
+      "title": "Traffic safety effects of congestion pricing in New York City",
+      "authors": [
+        "Nikhil Shanbhag",
+        "Xuan Sharon Di"
+      ],
+      "journal": "Discover Cities",
+      "date": "2026-11-21",
+      "doi": "10.1007/s44327-026-00431-9",
+      "url": "https://doi.org/10.1007/s44327-026-00431-9",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44327-026-00431-9.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "This paper studies whether New York City’s Central Business District Tolling Program changed the incidence and composition of traffic injuries in exposed neighborhoods. The safety effects of congestion pricing are ambiguous: reduced vehicle entry may lower motorist exposure, while changes in travel behavior may alter the incidence and composition of injuries across road users. Existing evidence remains limited on whether congestion pricing changes injury incidence differently across motorists, cyclists, and pedestrians. Using reported motor vehicle collision records from January 2023 through June 2026, we construct a weekly neighborhood-level panel of crashes and injuries disaggregated by road user type. Treated neighborhoods are defined by geographic overlap with the Congestion Relief Zone, and counterfactual safety outcomes are estimated using a generalized synthetic control model with interactive fixed effects. The model accounts for observed environmental conditions, recurring temporal patterns, and latent neighborhood-specific safety trends. We find limited evidence of changes in aggregate crashes or total injuries, but substantial heterogeneity across road users. Motorist injuries decline in treated neighborhoods, while cyclist injuries increase; pedestrian injuries also increase overall, although by a smaller magnitude than cyclist injuries. Additional temporal and compositional analyses show broadly similar differences across road-user groups, with fewer motorist injuries and more cyclist injuries after implementation. These findings highlight the importance of evaluating congestion pricing using disaggregated injury incidence rather than aggregate safety outcomes alone.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1016/j.trip.2026.102361",
+      "title": "When goals collide: National-level practitioner perspectives on traffic safety and other transport-policy objectives",
+      "authors": [
+        "Matilda Magnusson",
+        "Hanna Wennberg",
+        "Aliaksei Laureshyn",
+        "Tor‐Olav Nævestad",
+        "Rune Elvik"
+      ],
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "date": "2026-11-21",
+      "doi": "10.1016/j.trip.2026.102361",
+      "url": "https://doi.org/10.1016/j.trip.2026.102361",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2590198226005269/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "This study examines how national-level practitioners perceive synergies and tensions between traffic safety and other transport-policy objectives in Sweden. Although the burden of traffic accidents in Sweden has decreased, the decline has plateaued in recent years. To maintain momentum towards the 2030 interim targets and Vision Zero—the ambition that no one should be killed or seriously injured within the transport system—it may be necessary to utilise a more integrated approach and emphasise traffic safety’s potential to contribute to broader societal challenges, such as climate and equality. Seventeen strategists and experts at the Swedish Transport Administration were interviewed, representing traffic safety, health, mobility, environmental sustainability, social sustainability, and national planning. The interviews were analysed using qualitative content analysis, with the conflict-management triangle applied to interpret the substantive, procedural, and relational dimensions of the tensions. Participants generally supported a more integrated approach but raised questions about its reciprocity and implications for traffic safety’s established focus. The analysis identified interactions that were described as predominantly synergistic, broadly compatible desired outcomes with implementation tensions, and persistent measure-specific trade-offs. Many tensions arose not from incompatible goals but from how broadly supported objectives were operationalised through measures, standards, evidence requirements, appraisal practices, and the distribution of benefits and disadvantages. The findings show that traffic safety’s alignment with sustainability and mobility depends on how it is operationalised. Advancing a more integrated approach requires distinguishing between tensions that may be addressed through changes in implementation and persistent trade-offs that need to be recognised and managed transparently.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1038/s41467-026-79586-3",
+      "title": "Landscape fire sourced PM2.5, cause-specific paediatric hospitalisations, and the role of tree cover",
+      "authors": [
+        "Shuang Zhou",
+        "Zhihu Xu",
+        "Zhengyu Yang",
+        "Wenhua Yu",
+        "Wenzhong Huang",
+        "Éric Lavigne",
+        "Michael John Abramson",
+        "Lídia Morawska"
+      ],
+      "journal": "Nature Communications",
+      "date": "2026-11-21",
+      "doi": "10.1038/s41467-026-79586-3",
+      "url": "https://doi.org/10.1038/s41467-026-79586-3",
+      "oa_url": "https://www.nature.com/articles/s41467-026-79586-3_reference.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Landscape fire smoke threatens child health, but tree cover’s role is unclear. We analyse 67.9 million hospitalisations among children aged 0-19 years in 1012 communities across seven countries/territories during 2000-2019 using time-series models and meta-analysis. Here we show that each 10 µg/m 3 increase in daily landscape fire-sourced fine particulate matter is associated with a 1.4% increase in all-cause hospitalisation risk (95% confidence interval 1.2-1.6%) with low tree cover versus 0.5% (0.2-0.8%) with high tree cover. Differences are significant in communities with low or middle gross domestic product, with similar patterns for respiratory, infectious, neurological and digestive hospitalisations. Under a counterfactual 10% increase in tree cover, attributable fractions decrease significantly for all-cause (−0.03%, 95% confidence interval −0.05% to −0.01%), respiratory (−0.05%, −0.09% to −0.01%) and infectious (−0.04%, −0.07% to −0.01%) hospitalisations, with significant reductions in communities with low gross domestic product. These findings support considering tree cover alongside broader smoke-protection strategies.",
+      "categories": [
+        "smoke"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
     },
     {
       "id": "doi:10.1108/mabr-03-2026-0033",
@@ -8853,7 +9119,7 @@
       "url": "https://doi.org/10.55056/jec.1157",
       "oa_url": "https://acnsci.org/journal/index.php/jec/article/download/1157/1025",
       "is_oa": true,
-      "citations": 1,
+      "citations": 2,
       "type": "article",
       "abstract": "Wildfires cause severe ecological and economic damage, and limiting it requires rapid and accurate detection. This study presents an image classification framework for wildfire detection in RGB images from the FLAME 3 dataset, captured by an unmanned aerial vehicle. The preprocessing pipeline applies gamma correction, sharpening, contrast-limited adaptive histogram equalisation (CLAHE) and class-balanced data augmentation. The proposed model combines a vision transformer (ViT) and MobileNetV2 in parallel branches, fusing global contextual features with local spatial features. Explainable artificial intelligence techniques (Grad-CAM, Grad-CAM++ and LIME) are used to visualise the image regions that influence the predictions. The model is compared with nine convolutional and five transformer-based baselines and evaluated with accuracy, Cohen’s κ, the Matthews correlation coefficient (MCC), the critical success index (CSI) and related metrics. Trained with the AdamW optimiser, the ViT–MobileNetV2 model achieves a test accuracy of 98.44%, a macro-average F1-score of 0.984 and a recall of 1.000 for the fire class on the FLAME 3 RGB classification subset. Inference takes 10–15 ms per image on an NVIDIA T4 GPU in half precision and 50–70 ms on an x86 CPU with INT8 quantisation. The results apply to the evaluated dataset and experimental protocol.",
       "categories": [
@@ -10678,6 +10944,29 @@
       "first_seen": "2026-11-19"
     },
     {
+      "id": "doi:10.5812/healthscope-174347",
+      "title": "Impact of Air Pollutants on Respiratory Diseases During Smog Periods in Lahore, Pakistan",
+      "authors": [
+        "Muhammad Maaz Arif",
+        "Sajid Rashid Ahmad",
+        "Muhammad Arif Butt"
+      ],
+      "journal": "Health Scope",
+      "date": "2026-11-11",
+      "doi": "10.5812/healthscope-174347",
+      "url": "https://doi.org/10.5812/healthscope-174347",
+      "oa_url": "https://brieflands.com/journals/healthscope/articles/174347.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background: Smog during winter (November–January) poses a major health risk in Lahore, Pakistan, and is strongly linked to respiratory diseases. Objectives: The study aimed to assess air pollutants in Lahore, Pakistan, during and after smog periods and compared it with the respiratory disease data among hospitalized cases. Methods: This was a retrospective hospital-record study involving ecological comparisons of monthly AQI and respiratory cases. The smog period for Lahore was defined as November to January, as reported in the previous literature. From Nov-2022 to May-2024 (19 months), 578 daily AQI readings (497 valid) from Punjab Air Quality Monitoring Reports (AQMR) and a sample of 2663 records of respiratory disease cases classified according to the “ICD-10 classification: Diseases of the Respiratory System (J00-J99)” were obtained from a hospital in Lahore. Results: From Nov 1, 2022, to May 31, 2024, data on the obtained AQI readings and the number and types of respiratory cases according to the ICD-10 classification were collected from hospital records (2663 cases). Daily AQI readings confirmed that air pollutant levels were highest during the winter smog period. The average AQI level during the non-smog period was 125.5 (categorized as Unhealthy for Sensitive Groups), whereas it increased considerably to 240.3 (categorized as Very Unhealthy) during the smog period. Regarding respiratory diseases, most cases were recorded in Jan-2023 (331), Dec-2022 (330), and Nov-2022 (319), with more than 2-fold increase in the monthly rate of respiratory cases during the smog period. According to the ICD classification, acute upper respiratory infections (J06,52.89%), acute nasopharyngitis or common cold (J00,10.45%), and influenza due to other identified influenza viruses (J10,10.03%) were the most common types of respiratory diseases during the smog period, whereas acute upper respiratory infections (J06,53.34%), acute nasopharyngitis or common cold (J00,8.88%), and asthma (J45,7.90%) were the most common types during the non-smog period. Comparison of air pollutant exposure and the number of respiratory cases showed a high correlation and a positive association (Pearson’s r = 0.60, P = 0.007). Conclusions: In Lahore, Pakistan’s most polluted city, winter smog was correlated with increased air pollution and respiratory illnesses, underscoring the need for stronger preventive measures.",
+      "categories": [
+        "smoke"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.64898/2026.11.09.26367581",
       "title": "Displaced by a Volcano: Adolescent Well-Being in Uncertain Times in Iceland, 2023–2026",
       "authors": [
@@ -10850,7 +11139,7 @@
         "Jize Jiang",
         "Shixian Zhai"
       ],
-      "journal": "Preprint / source unavailable",
+      "journal": "ESS Open Archive",
       "date": "2026-11-06",
       "doi": "10.22541/essoar.15011825/v1",
       "url": "https://doi.org/10.22541/essoar.15011825/v1",
@@ -11660,6 +11949,126 @@
       "first_seen": "2026-11-21"
     },
     {
+      "id": "doi:10.1007/s12132-026-09574-9",
+      "title": "What Replaces the State? Waste Governance Beyond Municipal Failure in Makana, South Africa",
+      "authors": [
+        "Marc Kalina",
+        "Ncebakazi Makwetu",
+        "Rinie Schenck"
+      ],
+      "journal": "Urban Forum",
+      "date": "2026-11-23",
+      "doi": "10.1007/s12132-026-09574-9",
+      "url": "https://doi.org/10.1007/s12132-026-09574-9",
+      "oa_url": "https://doi.org/10.1007/s12132-026-09574-9",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Across South Africa, local municipalities responsible for basic service delivery face growing financial, technical, infrastructural, and institutional strain. In many towns and rural municipalities, waste collection has become intermittent, uneven, and uncertain. Yet waste does not disappear when municipal systems weaken. This article examines how waste management is organised under conditions of sustained municipal service failure in Makana Local Municipality. Drawing on 55 qualitative interviews across the waste system, it moves beyond accounts of service delivery breakdown to examine what replaces the state. Findings show that declining municipal waste services do not produce a governance vacuum, but a fragmented assemblage of municipal actors, private providers, informal workers, and community initiatives that sustain waste management in practice. However, these arrangements remain unstable, shifting labour, cost, and risk onto households and under-resourced communities, with important consequences for inequality, responsibility, and local service provision.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1002/sd.71945",
+      "title": "Toward a Renewed and Broader Pro‐Climate Alliance?",
+      "authors": [
+        "Gonéri Le Cozannet",
+        "Valérie Masson‐Delmotte",
+        "Roland Smith",
+        "Maisa Rojas"
+      ],
+      "journal": "Sustainable Development",
+      "date": "2026-11-21",
+      "doi": "10.1002/sd.71945",
+      "url": "https://doi.org/10.1002/sd.71945",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71945",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "After decades of increasing greenhouse gas emissions, climate policies, though fragile and hesitant, have finally started producing substantial effects in the late 2010s. These policies had internal weaknesses regarding governance, inequalities, and biodiversity, but the backlash that followed is also the result of deliberate obstruction. In this perspective, we argue that the convergence between anti‐climate and anti‐democratic actors might be sufficiently concerning to stimulate a response involving a broader alliance of actors concerned with preserving decent living conditions on Earth for all.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1007/s10113-026-02719-3",
+      "title": "Demographic and socioeconomic gradients of projected heat exposure across contrasting European regions: a paired census-tract analysis of outermost and metropolitan territories",
+      "authors": [
+        "Francisco Armas",
+        "Alejandro Herrera",
+        "Paula Sosa",
+        "Juan P. Díaz",
+        "Serafin Corral"
+      ],
+      "journal": "Regional Environmental Change",
+      "date": "2026-11-21",
+      "doi": "10.1007/s10113-026-02719-3",
+      "url": "https://doi.org/10.1007/s10113-026-02719-3",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10113-026-02719-3.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Climate-adaptation planning across the European Union assumes that projected heat exposure follows comparable demographic and socioeconomic gradients in outermost-region archipelagos and in continental metropolitan regions, a transferability assumption rarely tested at fine spatial resolution. We apply an identical statistical pipeline to harmonised census-tract data for two structurally contrasted Spanish regions: the Canary Islands (1388 tracts; 2.10 million inhabitants; WRF 3-km dynamical downscaling) and the Madrid metropolitan area (3117 tracts; 4.29 million inhabitants; ADAPTECCA ESD-RegBA 5-km statistical downscaling), both with 2022 census-tract income and demographic indicators, under CMIP6 SSP1-2.6 and SSP5-8.5 for mid- and end-century horizons. Inference rests on percentile-based heat indices (days above the local historical 95th percentile of maximum temperature, heatwave days and warm-spell duration in the continental case), which are computed against each product’s own historical distribution and are therefore robust to the level bias that we document for absolute-threshold indices in both legs. Because the two climate products differ in downscaling method, resolution and baseline, cross-case inference is restricted to the sign, existence and geography of the social gradients. The two regions load on distinct axes of vulnerability, with asymmetric evidence for each. In the archipelago, the gradient is demographic: the elderly population share carries a standardised coefficient of + 0.283 [0.235, 0.332] on projected P95-day change and + 0.295 [0.247, 0.342] on heatwave-day change (both p < 0.001), is positive and significant in four of the five islands estimable separately and retains its sign and significance in all ten robustness variants tested (+ 0.131 to + 0.295, all p < 0.001). A deprivation index built from the low-income share and mean income is an order of magnitude weaker (+ 0.086 and + 0.069), changes sign across variants and vanishes under the reference pathway (+ 0.010, p = 0.60), so the insular economic null is scenario-dependent rather than general. In the metropolitan area, the gradient is economic and the demographic one is absent: deprivation carries + 0.256 [0.227, 0.285] on warm-spell duration and the elderly share + 0.033, with the economic coefficient rising to + 0.353 [0.310, 0.395] within the central municipality and remaining between + 0.205 and + 0.423 in nine of the ten variants tested, the exception being a night-time percentile index on which it is absent. A stacked model with case-by-axis interactions tests the contrast formally: the demographic coefficient differs between cases by − 0.262 [− 0.428, − 0.095] and the difference survives a wild cluster bootstrap over the fourteen analytical units ( p = 0.012), whereas the + 0.187 difference in the economic",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.46409/sr./hebb9492",
+      "title": "Access to Athletic Training Services for Collegiate Cheer Teams",
+      "authors": [
+        "Charity McCright"
+      ],
+      "journal": "Preprint / source unavailable",
+      "date": "2026-11-21",
+      "doi": "10.46409/sr./hebb9492",
+      "url": "https://doi.org/10.46409/sr./hebb9492",
+      "oa_url": "https://soar.usa.edu/cgi/viewcontent.cgi?article=1040&context=dissertations",
+      "is_oa": true,
+      "citations": 0,
+      "type": "dissertation",
+      "abstract": "Collegiate cheerleaders frequently encounter systemic barriers to equitable athletic training care despite experiencing high rates of catastrophic injuries and complex metabolic vulnerabilities. Because cheerleading is often excluded from Title IX varsity sport recognition, its administrative classification remains fragmented, leaving critical gaps in medical oversight, staffing, and institutional resource allocation. The purpose of this descriptive quantitative dissertation was to evaluate how collegiate cheerleading coaches perceive their athletes’ access to athletic training services. This study applied a modified version of Penchansky’s (1981) Theory of Access to evaluate six dimensions of healthcare fit: accessibility, availability, acceptability, adequacy, awareness, and affordability (opportunity cost). To gather data, a modified 23-item Perceived Access to Health Care Questionnaire was distributed via SurveyMonkey to collegiate cheer coaches at National Collegiate Athletic Association (NCAA), the National Association of Intercollegiate Athletics (NAIA), and the National Junior College Athletic Association (NJCAA) institutions using a total-population sampling approach. Data were analyzed using a series of Kruskal-Wallis tests, given a violation of the assumption of normality, to identify significant differences in perceived access to care by the cheer program’s administrative classification, overall athletic training staffing levels, and access equality relative to recognized varsity sports. By quantifying structural and organizational disparities in collegiate athletic training, this dissertation provides empirical evidence to drive policy reform. This data can help institutions mitigate risk and ensure non-traditional college athletes receive equitable athletic training care.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1016/j.envsci.2026.104535",
+      "title": "Beyond connectivity: Ecological corridors as socio-ecological governance arrangements",
+      "authors": [
+        "Diego Gomiero Cavalheri",
+        "Luciana Cezarino",
+        "Lara Liboni",
+        "Lucas Cavicchioli",
+        "Marcela Brasil-Godinho",
+        "Ricardo J. Sawaya",
+        "Sandro Paulino de Faria"
+      ],
+      "journal": "Environmental Science & Policy",
+      "date": "2026-11-21",
+      "doi": "10.1016/j.envsci.2026.104535",
+      "url": "https://doi.org/10.1016/j.envsci.2026.104535",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S1462901126002315/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Ecological corridors are among the most adopted environmental policies to address habitat fragmentation and biodiversity loss, yet the research supporting them is uneven. Spatial and biophysical questions dominate, while the governance, organizational, and distributive processes that determine whether corridors work in practice remain underexplored. Drawing on a social-ecological systems lens, we systematically review 1871 peer-reviewed studies published between 2000 and 2025, coded across six analytical dimensions. Two asymmetries stand out. Corridor scholarship advances faster in modeling potential connectivity than in validating realized ecological outcomes, so a mapped corridor is a hypothesis rather than evidence. And only 1.6% of the corpus engages with equity, justice, or gentrification, leaving the question of who gains and who bears the costs largely unasked. We propose a three-dimensional framework linking biophysical and territorial conditions, governance and implementation, and socio-environmental outcomes, and disaggregate the third dimension into distribution, procedure, and recognition. Corridors emerge not as ecological design problems but as socio-ecological arrangements whose effectiveness depends on coordination across actors, institutions, and scales, and whose benefits and burdens fall unevenly. For territorial management and urban planning, the framework supports a sequential prioritization that distinguishes protecting intact linkages, restoring degraded bottlenecks, and creating new connections in urbanized landscapes.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.1186/s13040-026-00618-1",
       "title": "When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance",
       "authors": [
@@ -11962,6 +12371,28 @@
       "first_seen": "2026-11-22"
     },
     {
+      "id": "doi:10.21203/rs.3.rs-11115094/v1",
+      "title": "MammoInsight: A Unified Multi-Task Deep Learning Framework for Mammography Analysis",
+      "authors": [
+        "Gaurav Bhole",
+        "Nita Parekh"
+      ],
+      "journal": "Research Square",
+      "date": "2026-11-20",
+      "doi": "10.21203/rs.3.rs-11115094/v1",
+      "url": "https://doi.org/10.21203/rs.3.rs-11115094/v1",
+      "oa_url": "https://www.researchsquare.com/article/rs-11115094/latest.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "preprint",
+      "abstract": "Background Mammography interpretation requires simultaneous assessment of multiple clinical attributes such as cancer status, breast density, BI-RADS score, abnormality type, and molecular subtype. The existing AI systems generally address these tasks in isolation, limiting clinical utility and generalizability. Methods We present MammoInsight, a unified multi-task deep learning framework built on MedImageInsight foundation model backbone, incorporating SAM-Med2D-guided region-of-interest pooling, cross-view attention fusion across both standard mammography views, weighted ordinal regression for ordered clinical labels, DHN-NCE contrastive regularisation, and homoscedastic uncertainty weighting for automatic task balancing. MammoInsight is trained and evaluated on ~ 65K images collated from nine geographically diverse resources, and compared against four large-scale foundation model baselines, viz. , MedImageInsight, BiomedCLIP, MedGemma-4B, and MedGemma-27B. We also propose MammoBench2, a curated multi-task mammography dataset comprising 16,010 images with harmonised annotations for five clinical tasks and lesion segmentation, providing a robust benchmark for training AI models. Results MammoInsight achieves state-of-the-art performance on cancer status prediction (Accuracy = 0.800, weighted F1 = 0.787), breast density classification (Accuracy = 0.767, weighted F1 = 0.765), BI-RADS scoring (Accuracy = 0.661, weighted F1 = 0.646, and lesion segmentation (DSC = 0.804, IoU = 0.786), while achieving a comparable accuracy (0.752) and weighted F1 (0.757) on abnormality classification. Conclusions A unified multi-task framework trained with ordinal regression and joint segmentation supervision achieves comparable or superior performance across all five mammography clinical tasks compared to foundation models that are ~ 74⋅ larger in parameter count, while simultaneously localising lesions with state-of-the-art accuracy. MammoBench2 and MammoInsight together provide the first open benchmark and unified framework for comprehensive multi-task mammography AI evaluation.",
+      "categories": [
+        "geoai"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
+    },
+    {
       "id": "doi:10.1371/journal.pntd.0014576",
       "title": "Malaria burden and care in hard-to-reach indigenous communities in the Peruvian Amazon during the COVID-19 pandemic: A mixed-methods study",
       "authors": [
@@ -12119,6 +12550,34 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-21"
+    },
+    {
+      "id": "doi:10.13140/rg.2.2.28540.09602",
+      "title": "EgoWitness: Benchmarking Instance-Level Spatial Memory and Reasoning in Egocentric Video Streams",
+      "authors": [
+        "Zhengru Fang",
+        "Zehao Liu",
+        "Mingyu Tsoi",
+        "Yaoyu Zhu",
+        "Junlong Li",
+        "Fengmao Lv",
+        "Sijie Cheng",
+        "Yuanliang Sun"
+      ],
+      "journal": "arXiv (Cornell University)",
+      "date": "2026-11-19",
+      "doi": "10.13140/rg.2.2.28540.09602",
+      "url": "https://doi.org/10.13140/rg.2.2.28540.09602",
+      "oa_url": "https://arxiv.org/pdf/2611.25849",
+      "is_oa": true,
+      "citations": 0,
+      "type": "preprint",
+      "abstract": "Recalling where and when an object was last seen and who saw it requires recognizing it across days and people. Existing long-video benchmarks focus on events, object categories, or relative locations, leaving instance-level spatial memory largely untested in multimodal models. To address this gap, we present EgoWitness, a benchmark for instance-level spatial memory and reasoning in egocentric video. Its 8,453 human-verified questions span approximately 324 hours of week-long and short-horizon recordings and test seven abilities, from recognizing an object or room to recalling who saw it and reasoning about room visits. Over one million reviewed masks of 34 registered landmarks and 21 movable-object labels are linked through room timelines. Among twelve direct vision-language models (VLMs), open-weight models reach at most 46.97% accuracy, and none exceeds 35% on identifying who saw an object last. We therefore propose EgoClue, a spatial-memory agent that retrieves candidate intervals, verifies instance identity, and computes spatial and temporal relations with five tools. Two-stage training with supervised fine-tuning (SFT) and Group Relative Policy Optimization (GRPO) raises its 4B controller from 23.64% to 72.65% accuracy on 1,320 held-out questions. Evidence-trace synthesis matches the best direct VLM at 74.85% on week-long questions and achieves 80.56% in environments excluded from training.",
+      "categories": [
+        "geoai"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-23"
     },
     {
       "id": "doi:10.3389/fpubh.2026.1964132",
@@ -13296,469 +13755,6 @@
       "abstract": "OBJECTIVE: This study investigates the established associations between neighbourhood socioeconomic deprivation, household income, and depressive symptoms in Germany, and assesses whether these associations differ across settlement structures. Building on the person-in-environment framework, we understand mental health as an emergent outcome of the interplay between individuals and their environments. METHOD: We analysed cross-sectional data from the nationally representative German Health Update 2019/2020 wave of the European Health Interview Survey (GEDA 2019/2020-EHIS) ​ (N = 20,773). Depressive symptoms were measured using Patient Health Questionnaire-8 (PHQ-8). Polynomial regression models tested linear and quadratic associations of neighbourhood deprivation (German Index of Socioeconomic Deprivation, GISD) with depressive symptoms, and their interaction with household income quintiles. Whether settlement type (cities, urban, rural and sparsely populated counties) moderated these associations was tested explicitly using nested interaction models. RESULTS: Higher neighbourhood deprivation was associated with increased depressive symptoms, with a significant quadratic term indicating disproportionately higher symptom severity in highly deprived areas. Household income was inversely associated with depressive symptoms, though its moderation of the deprivation association was only partially supported. Settlement type significantly moderated the deprivation-depression association: the quadratic association was strongest in cities and attenuated, or shifted towards a concave pattern, in less densely populated settlement types. This settlement-related moderation was additionally associated with income, particularly in urban and rural counties, and less consistently in sparsely populated areas. CONCLUSIONS: The psychological burden of socioeconomic deprivation is not uniform, but differs systematically by settlement context and, less consistently, by individual income. These associations were most pronounced, and most clearly evident, in major cities. Addressing mental health inequalities linked to neighbourhood deprivation may therefore benefit from strategies tailored to settlement-specific conditions, alongside broader efforts aimed at individual socioeconomic resources.",
       "categories": [
         "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1007/s11524-026-01195-8",
-      "title": "Adolescent Exposure to Deadly Neighborhood Gun Violence and Asthma Burden in Early Adulthood",
-      "authors": [
-        "Connor D. Martz",
-        "Aledie A. Navas Nazario",
-        "Lauren Gaydosh"
-      ],
-      "journal": "Journal of Urban Health",
-      "date": "2026-11-14",
-      "doi": "10.1007/s11524-026-01195-8",
-      "url": "https://doi.org/10.1007/s11524-026-01195-8",
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11524-026-01195-8.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Gun violence is a pervasive yet understudied neighborhood stressor that may shape chronic disease risk via inflammatory pathways. This study examined whether residential exposure to deadly neighborhood gun violence in adolescence is associated with asthma incidence, hospitalization, and functional limitation in early adulthood. Data are from the Future of Families and Child Wellbeing Study, a birth cohort across 20 U.S. cities (N = 1936 without prior asthma at age 15). Prior-year exposure to deadly gun violence within 1600 meters of participants' homes at age 15 was measured using Gun Violence Archive data linked to residential addresses. Logistic, Firth penalized logistic, and linear regression estimated associations with incident asthma diagnosis, hospitalization, and functional limitation at age 22. At age 15, nearly half of participants (48.8%) were exposed to a nearby fatal shooting. In fully adjusted models, each 1-SD increase in annual exposure rate (SD = 4.9 incidents) was associated with 25% higher odds of incident asthma by age 22 (OR = 1.25, 95% CI: 1.06-1.49). Exploratory analyses suggested stronger associations among males, but this difference was limited to the highest exposure levels. Among those newly diagnosed, exposure was associated with greater functional limitation (β = 0.25, 95% CI: 0.06-0.44) and higher odds of hospitalization (OR = 2.53, 95% CI: 1.37-5.33), although the latter was based on few events. These findings suggest neighborhood gun violence exposure during adolescence may contribute to incident asthma or clinical manifestation of previously subclinical airway vulnerability. Future research should investigate biological mechanisms and identify intervention targets.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1016/j.cacint.2026.100537",
-      "title": "Comparative screening of heat, proxy transit access, and social vulnerability across five U.S. regions",
-      "authors": [
-        "Linzheng Yu"
-      ],
-      "journal": "City and Environment Interactions",
-      "date": "2026-11-14",
-      "doi": "10.1016/j.cacint.2026.100537",
-      "url": "https://doi.org/10.1016/j.cacint.2026.100537",
-      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2590252026002473/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Urban heat, transit access, and social vulnerability are often screened separately, limiting consistent prioritization across regions. This study applies a common block-group framework across five U.S. anchor-city regional study areas. Transit-stop extents define 2093 block groups, and eight variables combine summer land-surface temperature (LST), canopy, proxy transit access, and social vulnerability. Transit provision is represented by Euclidean stop proximity and distinct scheduled trips serving each block group on July 7, 2026. Pooled robust normalization and equal domain coefficients yield a heat-exposed access score (HEACS) and its equity extension ( E -HEACS), available for 2081 and 2046 units. This multi-year planning screen combines 2023 environmental observations, 2020–2024 American Community Survey estimates, and July 2026 schedules. Tucson-Pima contributes 188 of 205 pooled E -HEACS priorities, whereas within-region classification identifies relative priorities in every region. Priority membership depends on analytical choices: administrative boundaries yield full-universe Jaccard overlap 0.199; population-weighted normalization yields 0.814; removing proxy access yields 0.306 despite rank correlation 0.794. Conditional measurement-error propagation identifies uncertain membership near the cutoff. The social domain agrees more closely with tract-level scores from the Social Vulnerability Index (SVI) than E -HEACS does. In Richmond, 2023 LST correlates with the 2021 modeled morning heat index (rho = 0.693). The framework makes comparison scale and indicator choices explicit and supplies continuous scores, local priorities, and membership uncertainty for further planning assessment.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.1016/j.atech.2026.102744",
-      "title": "Simultaneous hyperspectral classification of soil nitrogen and phosphorus using multitask deep learning across VNIR and SWIR spectral regions",
-      "authors": [
-        "Niharika Vullaganti",
-        "Xiaomo Zhang",
-        "William Aderholdt",
-        "Paul Overby",
-        "Xin Sun"
-      ],
-      "journal": "Smart Agricultural Technology",
-      "date": "2026-11-14",
-      "doi": "10.1016/j.atech.2026.102744",
-      "url": "https://doi.org/10.1016/j.atech.2026.102744",
-      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2772375526009688/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Rapid and scalable assessment of soil nutrient variability is critical for precision nutrient management but remains constrained by conventional laboratory methods. This study investigates whether multitask deep learning can simultaneously classify soil nitrogen (N) and phosphorus (P) from hyperspectral data, and whether task-specific expert gating improves performance over shared representations. Six models combining three backbone architectures (CNN, ResNet-18, DenseNet) with shared-backbone multitask and multi-gate mixture-of-experts (MMoE) frameworks were evaluated using 284 samples from two agricultural sites in North Dakota, scanned in the laboratory with VNIR (400–1000 nm) and SWIR (900–1700 nm) cameras. Models were compared with repeated stratified 5-fold cross-validation at the sample level, and the final model was evaluated on a second set of cross-validation splits of the same samples that was not used for model selection. The VNIR, SWIR and fused inputs and the six architectures performed similarly, with no statistically significant differences, and the MMoE framework did not improve on the standard multitask models. Spectral preprocessing and feature selection also did not improve classification. This simplest configuration, a multitask CNN with VNIR data, achieved sample-wise accuracies of 0.53 ± 0.07 for N and 0.50 ± 0.05 for P with most errors falling into an adjacent class (within-one-class accuracy of 0.85 and 0.92), and performed as well as separate single-task models. When the model was trained on one site and tested on the other, accuracy fell to 0.37 for N and 0.15 for P. The model therefore learned relationships that held within the sampled fields but did not transfer to a new site. Validation across more sites and under field conditions is required before practical use.",
-      "categories": [
-        "geoai"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.3389/fpubh.2026.1991406",
-      "title": "Spatial matching between urban green-space services and older adults’ potential health-support needs: a community-scale assessment",
-      "authors": [
-        "Wenjia Bai",
-        "Xinkai Liao",
-        "Mingyu Chen",
-        "Xinyi Li",
-        "Xin Zheng",
-        "Aomei Guan"
-      ],
-      "journal": "Frontiers in Public Health",
-      "date": "2026-11-13",
-      "doi": "10.3389/fpubh.2026.1991406",
-      "url": "https://doi.org/10.3389/fpubh.2026.1991406",
-      "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1991406/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Introduction Urban green space provision may not match the needs of aging populations. Methods To evaluate this mismatch, this study used 486 communities in Fuzhou, China as samples, integrating park accessibility, street-level visible greenery, and neighborhood vegetation exposure into a community green-space service index (C-GSI). Concurrently, the aging rate, floor-area ratio, housing price, and other contextual factors were grouped into a contextual support-need vulnerability index (C-HVI), with the ratio of these two indices forming the community green-space health-support equity index (C-GHEI). Building upon this, methods including quartile classification, Local Moran’s I, and Getis-Ord Gi* were employed to characterize the spatial pattern of relative matching between green-space services and needs. Results The results indicate 122 high-relative-deprivation communities in the study area, with spatial analysis identifying 33 high-high clusters and 70 cold spots. Through multidimensional screening, 62 communities were classified as Priority I, 68 as Priority II, 113 as Priority III, and 243 for general maintenance. Furthermore, park accessibility exhibited the strongest individual explanatory power for the matching degree (q=0.734), and its joint explanatory power with the aging rate increased to 0.817. Discussion This framework effectively identifies key areas with mismatches between environmental support and the needs of the elderly population, providing a spatial screening tool for planning-oriented green space optimization.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.53330/vcfg6432",
-      "title": "Partisan Demographics",
-      "authors": [
-        "Klaus F. Zimmermann",
-        "Damilola Afolabi"
-      ],
-      "journal": "Preprint / source unavailable",
-      "date": "2026-11-13",
-      "doi": "10.53330/vcfg6432",
-      "url": "https://doi.org/10.53330/vcfg6432",
-      "oa_url": "https://doi.org/10.53330/vcfg6432",
-      "is_oa": true,
-      "citations": 0,
-      "type": "report",
-      "abstract": "This paper defines and reviews partisan demographics as an emerging field at the intersection of political demography, political economy, and population economics. Whereas political demography examines how population change affects politics, partisan demographics studies how political events, party control, political climates, and policy regimes influence demographic behavior in ways that vary with the partisan alignment of individuals, households, or local populations. The chapter asks under what conditions partisan events become demographic shocks and organizes the evidence around five mechanisms: economic expectations, policy anticipation, affective identity, social matching and sorting, and risk perception and health behavior. The strongest evidence currently concerns fertility and reproductive behavior, including conceptions and abortions, while studies of marriage, partnership formation, residential sorting, health behavior, wellbeing, and mortality extend the field with varying degrees of empirical support. Evidence on migration, integration, and naturalization remains more limited. Particular attention is given to empirical credibility, including the timing of political shocks and demographic responses, the distinction between behavior and attitudes, the measurement of partisan exposure, and the separation of partisan effects from pre-existing demographic differences. The chapter concludes by identifying the conditions under which partisan politics becomes a consequential determinant of demographic behavior and by outlining priorities for future research.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1002/aocs.70179",
-      "title": "Lubricant Oil Degradation, Condition Monitoring, and Service Life Estimation: A Review",
-      "authors": [
-        "Laith Shatnawi",
-        "Niels Ockert",
-        "Sebastian Lenz",
-        "Patrick Harfmann",
-        "Markus Kley",
-        "Steffen Schwarzer"
-      ],
-      "journal": "Journal of the American Oil Chemists Society",
-      "date": "2026-11-13",
-      "doi": "10.1002/aocs.70179",
-      "url": "https://doi.org/10.1002/aocs.70179",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aocs.70179",
-      "is_oa": true,
-      "citations": 0,
-      "type": "review",
-      "abstract": "ABSTRACT Lubricant oil is often changed on fixed time schedules, even though its real condition depends on load, temperature, and contamination, so good oil is discarded in some cases and degraded oil stays in service in others, which adds cost and waste and raises the risk of gearbox and hydraulic system failures. Degradation, monitoring, and life prediction are usually reviewed separately, so the links between them remain unclear. This review summarizes how oil type, including mineral, synthetic, bio‐based, nano‐, and ionic‐liquid lubricants, and operating loads cause degradation, including thermal‐oxidative degradation, additive depletion, viscosity breakdown, acid number increase, and water and particle contamination. It compares offline monitoring methods such as viscometry, Fourier‐transform infrared spectroscopy (FTIR), ferrography, particle counting, elemental analysis, and online methods such as dielectric, capacitive, inductive, optical, and multi‐sensor fusion by what they measure and where they can be used. It also assesses health index and RUL models, including machine learning, deep learning, fuzzy logic, stochastic degradation models, and digital twins, regarding how they support oil change decisions within one life cycle framework. The literature, which comprises about 230 sources from 2017 to the present, was collected from Scopus, IEEE Xplore, and SpringerLink. No single method, sensor, or model captures lubricant degradation under real operating conditions. Condition monitoring is shifting from laboratory analysis to integrated online multi‐sensor systems, and predictive models must balance accuracy, interpretability, data demand, and industrial readiness. The main gap is the limited integration across degradation, sensing, and prediction, together with the lack of standardized benchmarking and laboratory‐to‐field validation. Hybrid physics‐informed and data‐driven models, virtual sensors, and digital twins are promising routes to condition‐based and predictive maintenance and to optimizing oil change intervals, additives, and formulations, with potential environmental and economic benefits.",
-      "categories": [
-        "geoai"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.12688/f1000research.184631.1",
-      "title": "Expanding the Boundaries of Climate Adaptation: Evidence from a Participatory Case Study in an Italian Military Prison",
-      "authors": [
-        "Mattea Tampone",
-        "Madeline Baldelli",
-        "Elisabetta Dall’Ò",
-        "Antonella Mele",
-        "Alfredo Reder",
-        "Arianna Acierno",
-        "Marta Ellena",
-        "Paola Mercogliano"
-      ],
-      "journal": "F1000Research",
-      "date": "2026-11-13",
-      "doi": "10.12688/f1000research.184631.1",
-      "url": "https://doi.org/10.12688/f1000research.184631.1",
-      "oa_url": "https://f1000research.com/articles/15-1907/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Background Climate change is intensifying existing social and environmental inequalities, disproportionately affecting populations with limited access to resources, decision-making processes, and adaptive capacity. While climate adaptation governance emphasizes inclusive approaches, prison populations remain systematically excluded, despite their structural dependence on total institutions and heightened exposure to climate risks. Moving beyond a purely educational framework, the study explores two central research questions: how does the condition of confinement, characterized by near-zero environmental agency, shape the perception of global climate risks? And what can carceral facilities teach us about limits and possibilities of inclusive adaptation? Methods Building up on the Adaptation AGORA approach the study was conducted through an informal guided discussion, and a qualitative survey with twelve incarcerated participants explored the condition of confinement in relation to climate change perception. Results The research reveals that climate change is perceived as an immediate, physical threat, mediated by infrastructural rigidity and institutional dependency. Findings indicate that participants act as “territorial witnesses”, leveraging memories of environmental degradation from their regions of origin to validate climate data. Notably, their responses highlight a profound link between social dignity and climate engagement, where the desire for “institutional responsibility” reflects a demand for recognition as human subjects. Furthermore, concern for “future generations” emerges as a form of paternal generativity, through which incarcerated individuals exercise engaged agency—reconnecting with the outside world by advocating for the protection of their offspring. Despite its exploratory nature and small sample size, this methodological pilot demonstrates the feasibility of participatory dialogue in highly constrained environments. Conclusions The study contributes empirical evidence to the field of carceral geography and climate justice, arguing that extending adaptation processes to prisons is not only a technical necessity but a crucial step toward inclusive citizenship and social rehabilitation.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.3389/fcdhc.2026.1818448",
-      "title": "Diabetes mortality in Mexico: socioeconomic and contextual gaps",
-      "authors": [
-        "Oswaldo Sinoé Medina-Gómez"
-      ],
-      "journal": "Frontiers in Clinical Diabetes and Healthcare",
-      "date": "2026-11-13",
-      "doi": "10.3389/fcdhc.2026.1818448",
-      "url": "https://doi.org/10.3389/fcdhc.2026.1818448",
-      "oa_url": "https://www.frontiersin.org/journals/clinical-diabetes-and-healthcare/articles/10.3389/fcdhc.2026.1818448/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Background Type 2 diabetes mellitus (T2DM) is one of the leading causes of mortality in Mexico and exhibits marked territorial disparities. While socioeconomic gradients in diabetes outcomes are well documented at the individual level, limited evidence from the sociology of stratification quantifies the extent to which mortality inequalities are structured by state-level institutional and governance contexts beyond municipal socioeconomic composition. This study examines territorial heterogeneity in T2DM mortality using a multilevel analytical framework grounded in social epidemiology and Latin American social medicine. Methods An ecological study with cross-sectional structural covariates was conducted using municipal-level data from Mexico. Mortality data correspond to deaths registered in 2024 (ICD-10 E11–E14, INEGI); structural municipal indicators derive from the most recent available the most recent available CONEVAL municipal poverty measurement (2020). The analytical sample comprised 2,454 municipality observations nested within 32 federal states, selected as the second level of analysis given their constitutional autonomy over health system organization, expenditure allocation, and social protection policy. The standardized mortality ratio (SMR) of diabetes mellitus (ICD-10 E11–E14) was calculated by indirect standardization by age, as the ratio of observed to expected deaths in each municipality, using the Mexican population of 2024 as the reference population. Following the social epidemiology framework, the design distinguishes compositional effects (municipal socioeconomic characteristics) from contextual effects (unobserved state-level institutional environments). Mortality counts among individuals aged ≥20 years were modeled using multilevel mixed-effects Poisson and negative binomial regressions with state-level random intercepts and a log population offset. Structural municipal indicators included income vulnerability, educational marginalization, food vulnerability, health service access, mean age, and demographic composition. Collinearity was assessed through variance inflation factors (VIF; all <5). Contextual heterogeneity was quantified using the intraclass correlation coefficient (ICC), median rate ratio (MOR), and proportional change in variance (PCV). Results The null model showed substantial contextual heterogeneity (state-level variance = 0.134), with 51.6% of unexplained variability attributable to differences between states. The median rate ratio (MOR = 1.42) indicated that municipalities with identical characteristics would differ by 42% in mortality solely due to state context. Adjustment for municipal structural variables reduced contextual variance by 38.1% (PCV; MOR = 1.32), yet substantial residual heterogeneity persisted. In the negative binomial model, food vulnerability (IRR = 1.006; p < 0.001) and mean age (IRR = 1.020; p < 0.001) remained independently associated with mortality across all specifications. State-level variance remained significant (σ² = 0.098; MOR = 1.36). Conclusion Diabetes mortality in Mexico is territorially structured and partially mediated by municipal material conditions, yet substantial residual inequality persists at the state level",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.7146/bjbs.v15i1.170524",
-      "title": "Financing Universal Sanitation: Regulation, Investibility and the Political Economy of Water Infrastructure",
-      "authors": [
-        "Charles Schramm"
-      ],
-      "journal": "Brasiliana- Journal for Brazilian Studies",
-      "date": "2026-11-13",
-      "doi": "10.7146/bjbs.v15i1.170524",
-      "url": "https://doi.org/10.7146/bjbs.v15i1.170524",
-      "oa_url": "https://tidsskrift.dk/bras/article/download/170524/213353",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Sanitation is difficult to finance for reasons that have little to do with the availability of savings. Networks absorb sunk capital, revenues are set politically, assets outlive the governments that authorise them, and universal service obliges providers to reach households whose capacity to pay is weakest exactly where unit costs run highest. Four literatures have grown around these facts and rarely speak to one another: public health and human rights, concerned with access, affordability and accountability; utility regulation, concerned with commitment, tariffs and administrative capacity; infrastructure finance, concerned with risk allocation, bankability and creditor protection; and critical political economy, which follows the financialisation of water through debt, ownership and valuation. This review integrates them around a single object: the claim on future tariff revenue, and the institutional work that manufactures, prices and enforces it. Financeability, on this reading, is produced rather than discovered. Territorial design, revenue rules, project preparation, regulatory credibility and enforceable creditor rights make an asset investible; public development banks shape that outcome through preparation and standardisation at least as much as through lending. Because the same arrangements redistribute risk and authority among users, governments and investors, the volume of capital mobilised tells us almost nothing about universalisation on its own. Brazil supplies the sharpest available test. A statutory deadline of 2033, a drive towards regionalised provision, national reference norms and a fast-growing market in infrastructure debentures now operate in a sector still marked by deep territorial inequality and uneven regulatory capacity. The review sets out what a credible research agenda must measure, and why ownership is the wrong variable to measure it with.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1038/s41598-026-79141-6",
-      "title": "Scenario-dependent projections of brown planthopper immigration intensity under CMIP6 climate pathways",
-      "authors": [
-        "Yuan Gao",
-        "Yuge Su",
-        "Yarui Xue",
-        "Yujun Lu",
-        "Yunxuan Bao",
-        "Yiyang Zhang",
-        "Jinfei Wang"
-      ],
-      "journal": "Scientific Reports",
-      "date": "2026-11-13",
-      "doi": "10.1038/s41598-026-79141-6",
-      "url": "https://doi.org/10.1038/s41598-026-79141-6",
-      "oa_url": "https://www.nature.com/articles/s41598-026-79141-6_reference.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Abstract Climate change reshapes the dynamics of agricultural pests by altering temperature, wind, vertical airflows, precipitation and humidity. Brown planthopper, Nilaparvata lugens (Stål), is among the most destructive migratory pests in Asian rice, and its dynamics are tightly coupled to climate. Clarifying how the different emission pathways affect this pest is essential for forward-looking management. We combined 2001–2023 light-trap records from 11 Chinese stations with the Norwegian Earth System Model version 2 low-resolution configuration (NorESM2-LM) from the Coupled Model Intercomparison Project Phase 6 (CMIP6) under four Shared Socioeconomic Pathways. Lower-tropospheric temperature showed the strongest marginal associations at most representative stations. Random forest (RF), k-nearest neighbors (KNN) and linear regression (LR) were compared using temporally ordered development and independent 2019–2023 validation. Source qualification retained 8,428 station-pentads. Development annual-log RMSE averaged 0.744 for LR, 0.758 for KNN and 0.807 for RF; RF300 remained the projection reference. Across 42 independent station-years, exact-grade accuracy was 92.9%, matching an always-Grade-1 baseline. Mann–Kendall tests with false-discovery-rate control identified nine significant station–scenario trends, six retained after trend-free pre-whitening; none was significant under SSP1-2.6. Projections from all 11 stations showed marked spatial heterogeneity rather than uniform northward expansion. These conditional projections support climate-adaptive monitoring.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.7235/hort.20260049",
-      "title": "Standardized Image-Based Phenotyping of Tomato Bacterial Wilt Symptom Severity using Deep Learning to Support Resistance Screening",
-      "authors": [
-        "June Sung Lee",
-        "You-Jin Lee",
-        "Ji-Su Kwon",
-        "Seon‐In Yeom"
-      ],
-      "journal": "Horticultural Science and Technology",
-      "date": "2026-11-13",
-      "doi": "10.7235/hort.20260049",
-      "url": "https://doi.org/10.7235/hort.20260049",
-      "oa_url": "https://www.hst-j.org/articles/pdf/xX95/kshs-2026-044-00-17.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Bacterial wilt, caused by the soil-borne bacterium Ralstonia pseudosolanacearum, severely limits tomato production, making objective and reproducible disease phenotyping essential for resistance breeding.In this study, a convolutional neural network (CNN) image classification model based on transfer learning with EfficientNetB0 was developed to classify tomato bacterial wilt severity under controlled inoculation and imaging conditions to support standardized resistance screening.Four susceptible tomato cultivars were inoculated with R. pseudosolanacearum strain SL341 using drench and petiole methods to generate diverse wilt symptoms.A total of 1,500 standardized multi-view images from 776 individual plants were categorized into low-severity, intermediateseverity, and severe-wilt classes.To prevent data leakage, images were partitioned at the plant level into training, validation, and independent test sets at an approximate ratio of 64:16:20.On-the-fly image augmentation was applied during training to improve generalization.The final model correctly classified 288 of 300 test images, achieving 96.0% overall accuracy.Performance was highest for severe symptoms and lowest for the intermediate class, indicating greater difficulty in distinguishing transitional disease stages.A Grad-CAM analysis showed that predictions were based on biologically relevant plant regions rather than background features.Training and validation curves also showed stable convergence without substantial overfitting.These results demonstrate that deep-learning-assisted image classification can provide an objective, reproducible auxiliary tool for standardized symptom scoring, thereby relieving the phenotyping bottleneck in tomato bacterial wilt resistance screening.",
-      "categories": [
-        "geoai"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.21203/rs.3.rs-11446550/v1",
-      "title": "Childhood Immunization Inequalities in the Horn of Africa: Long-Term Trends, Vaccine- Specific Gaps and Country-Level Disparities, 1980–2025",
-      "authors": [
-        "Fatima Abdijabbar Ibrahim",
-        "Nasra Salad Ahmed",
-        "Nur Dahir Warsame",
-        "Omar Aweis Ali Ali",
-        "Yasir Mohamed Abdinur"
-      ],
-      "journal": "Research Square",
-      "date": "2026-11-13",
-      "doi": "10.21203/rs.3.rs-11446550/v1",
-      "url": "https://doi.org/10.21203/rs.3.rs-11446550/v1",
-      "oa_url": "https://www.researchsquare.com/article/rs-11446550/latest.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Abstract Childhood vaccination coverage has improved throughout the Horn of Africa, but long-term differences in first-dose and multi-dose completion are poorly described. This study investigates trends and inequalities in immunisation in Somalia, Ethiopia, Djibouti and Eritrea from 1980 to 2025. We analysed 1,006 country–year–vaccine observations for 14 antigens/dose indicators from the 2025 revision of the WHO/UNICEF Estimates of National Immunisation Coverage. Outcomes included DTP1, DTP3, MCV1, MCV2, DTP1-derived zero-dose surrogates and DTP dropout. We used descriptive trends, Mann-Kendall tests, Sen slopes, absolute measures of cross-country inequality, country-specific segmented regressions and an exploratory repeated-measures generalised estimating equations model. Comparison of observation periods was facilitated by not imputing missing MCV2 histories or projecting indicators backward to 1980, and respecting the windows of availability of specific vaccines. The coverage of Somalia (DTP1, DTP3, MCV1 and MCV2) was 77%, 72%, 61% and 31% in 2025, respectively, and that of Eritrea was 98%, 96%, 93% and 89%. The between-country ranges were 21, 24, 32 and 58 percentage points respectively. Somalia’s DTP3 rose from 2% in 1981 to 72% in 2025 (Kendall τ=0.853; p<0.001; Sen slope=1.31 percentage points/year). Its proxy for zero-dose coverage was 23% in 2025; the DTP1–DTP3 gap was 5 percentage points. Only four-country MCV2 comparisons were available for 2021-2025. Significant gains have been made over time, but inequities persist, especially for the second dose of measles vaccination and first-dose access in Somalia. National estimates support prioritising previously unreached children and dose continuity, while subnational data are needed to localise gaps.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1038/s44400-026-00138-z",
-      "title": "Predicting ARIA incidence due to anti-amyloid therapy for Alzheimer’s disease with multimodal risk modeling frameworks",
-      "authors": [
-        "Jinchi Wei",
-        "Evan S Bloch",
-        "Michael F. Romano",
-        "Luke Bonham",
-        "Ali Shah Tejani",
-        "Lawren A. VandeVrede",
-        "Duygu Tosun",
-        "Andreas M. Rauschecker"
-      ],
-      "journal": "npj Dementia",
-      "date": "2026-11-13",
-      "doi": "10.1038/s44400-026-00138-z",
-      "url": "https://doi.org/10.1038/s44400-026-00138-z",
-      "oa_url": "https://www.nature.com/articles/s44400-026-00138-z.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Abstract Amyloid-related imaging abnormalities (ARIA) are potentially serious adverse side effects of amyloid-targeting treatment (ATT) for Alzheimer’s disease. Pre-screening patients to identify high-risk cohorts based on biological and imaging biomarkers could enable more personalized treatment plans and reduce unnecessary risk and costs. Risk factors are well-characterized from trials, and anti-amyloid therapy is increasingly recommended. There is hence a growing need for pretreatment risk stratification tools. Clinically useful tools require individualized predictive models, but existing risk modeling is limited to pharmacokinetic analyses and frameworks using a small handful of pre-specified factors. None integrate multimodal pre-treatment data, use foundation models, or show validation in real-world cohorts. We propose a framework combining multimodal foundation model architectures (imaging, tabular, vision-language) with ARIA-specific design choices, including prediction heads separating ARIA-E and ARIA-H, severity grading, time-to-event modeling, and APOE -stratified monitoring decisions, validated through real-world hospital data in patients receiving ATT.",
-      "categories": [
-        "geoai"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1186/s41182-026-01110-6",
-      "title": "Global disparities in dengue, climate, and extreme weather research: a bibliometric analysis of alignment with disease burden and climate-driven vector suitability",
-      "authors": [
-        "Chunyue Ai",
-        "Yi Teng",
-        "Guangju Mo",
-        "Wenyu Wang",
-        "Meshack Kipkogei Biwott",
-        "Jing Li",
-        "Qiyong Liu"
-      ],
-      "journal": "Tropical Medicine and Health",
-      "date": "2026-11-13",
-      "doi": "10.1186/s41182-026-01110-6",
-      "url": "https://doi.org/10.1186/s41182-026-01110-6",
-      "oa_url": "https://link.springer.com/content/pdf/10.1186/s41182-026-01110-6.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "BACKGROUND: Dengue is a climate-sensitive vector-borne disease that imposes a substantial public health burden in tropical and subtropical regions. Temperature, rainfall, and extreme weather can affect mosquito ecology, human exposure, and the environmental suitability for transmission. This study characterized the global research landscape of dengue and extreme weather and examined whether country-level research output corresponded to dengue burden and climate-driven vector suitability. METHODS: The Web of Science Core Collection was searched on 22 May 2026. Publication trends, collaboration networks, journals, authors, co-cited references, citation bursts, keyword patterns, and thematic evolution were examined using CiteSpace, VOSviewer, and the bibliometrix R package. Country-level publication output was linked to estimates from the Global Burden of Disease 2023 dataset, the socio-demographic index for 2021, and mean index-p values for 1990-2022. Associations between publication output and dengue burden were assessed using Spearman's rank correlation among countries classified as dengue-endemic. RESULTS: A total of 290 publications from 2008 to 2026 met the eligibility criteria. Annual publication output increased overall and remained comparatively high after 2020. The United States contributed the largest number of publications, followed by China, the United Kingdom, Australia, and Brazil. The literature connected tropical medicine and infectious disease epidemiology with environmental health, climate science, vector ecology, modeling, and public health. Major themes included climate change, temperature, rainfall, the El Niño-Southern Oscillation, extreme weather, Aedes vectors, transmission modeling, risk prediction, and early warning. Among 80 countries classified as dengue-endemic, publication output was positively correlated with the age-standardized incidence rate (ASIR) in 2023 (Spearman's ρ = 0.32, P = 0.004, n = 80) and the disability-adjusted life-year (DALY) rate in 2023 (ρ = 0.36, P < 0.001, n = 80). In contrast, its association with the estimated annual percentage change (EAPC) in ASIR from 1990 to 2023 was not statistically significant (ρ = 0.20, P = 0.070, n = 80). Several dengue-endemic countries with comparatively high disease burden or long-term climate-driven vector suitability had no eligible Web of Science-indexed publications in the present dataset. CONCLUSIONS: Research on dengue and extreme weather has expanded, and publication output showed modest positive associations with contemporary dengue burden among dengue-endemic countries. However, research output was not significantly associated with the long-term trend in dengue incidence, and substantial geographic disparities remained. The separate assessment of burden, research output, and climate-driven vector suitability identified geographic areas that may warrant closer consideration when research capacity, surveillance support, and equitable international partnerships are developed.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1016/j.vaccine.2026.129337",
-      "title": "COVID-19 vaccination and non-pharmaceutical interventions in selected European settings: a systematic review",
-      "authors": [
-        "Christina Maria Kravvari",
-        "Anna Tsiakiri",
-        "Spyridon Plakias",
-        "Dimitrios N. Paraskevis",
-        "Christos Kokkotis"
-      ],
-      "journal": "Vaccine",
-      "date": "2026-11-13",
-      "doi": "10.1016/j.vaccine.2026.129337",
-      "url": "https://doi.org/10.1016/j.vaccine.2026.129337",
-      "oa_url": "https://www.sciencedirect.com/science/article/pii/S0264410X26011461/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "review",
-      "abstract": "BACKGROUND: COVID-19 pandemic responses in European countries relied on both vaccination campaigns and non-pharmaceutical interventions (NPIs). While vaccination reduced severe disease, NPIs remained necessary to limit transmission, particularly during periods of variant emergence. However, the effectiveness of these strategies depended on social trust, communication clarity, and behavioural adaptation. OBJECTIVE: To synthesize empirical evidence on shared determinants of vaccination and NPI-related behaviours, behavioural relationships between these strategies, and evidence concerning their joint epidemiological effects. METHODS: PubMed and Scopus were searched on 11 February 2025 using free-text terms for COVID-19, vaccination, and social or non-pharmaceutical measures. Eligible studies were peer-reviewed, empirical (quantitative, qualitative, or mixed-methods), conducted by authors affiliated with selected European institutions, and examined relationships between vaccination and NPIs. Studies based solely on modelling or secondary data were excluded. Data were synthesized narratively due to heterogeneity of study designs and outcomes. RESULTS: Twelve studies met inclusion criteria. Trust in scientific and governmental authorities consistently predicted adherence to NPIs and willingness to vaccinate. Sweden's reliance on voluntary measures was effective where institutional trust was high. In contrast, inconsistent communication in the United Kingdom contributed to reduced adherence and public frustration. Vaccinated individuals tended to increase social contacts, an association compatible with behavioural adaptation. A conjoint experiment examined stated vaccination preferences in relation to NPI attributes. Younger populations experienced notable psychological strain during prolonged restrictions. CONCLUSIONS: The synthesis primarily informs social and behavioural relationships involving vaccination and NPIs. Shared determinants and behavioural associations should not be interpreted as evidence of synergistic effects on infection, hospitalisation, or mortality. Future pandemic preparedness should prioritize trust-building, consistent messaging, and targeted psychosocial support for vulnerable groups.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1002/nad.70021",
-      "title": "“ If You're Not Careful It'll Kill You ”: Extreme Heat and Thermal Labor in Imperial Valley, California",
-      "authors": [
-        "Viviane Kraieski de Assunção",
-        "Erika Robb Larkins",
-        "Linda Abarbanell"
-      ],
-      "journal": "Journal for the Anthropology of North America",
-      "date": "2026-11-12",
-      "doi": "10.1002/nad.70021",
-      "url": "https://doi.org/10.1002/nad.70021",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nad.70021",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "ABSTRACT Imperial Valley, California is among the poorest and hottest regions in the state, with summer temperatures routinely exceeding 100°F. For the 1000s of outdoor workers employed in agriculture, construction, and roofing, extreme heat poses a serious and often deadly risk. Climate change is projected to further intensify occupational heat stress, reducing safe work hours and increasing vulnerability for those whose labor requires prolonged exposure to extreme temperatures. While outdoor workers are widely recognized as disproportionately exposed to climate risks, existing scholarship has not adequately addressed the social and cultural practices through which workers live with and manage heat. Drawing on ethnographic fieldwork and over 100 interviews conducted in the Imperial Valley between 2022 and 2025, this article examines how outdoor workers deploy everyday thermal regulation practices to endure labor in extreme heat. We argue that outdoor work entails three interrelated forms of labor: physically demanding manual work; the largely invisibilized labor of preparing for heat exposure; and the continuous monitoring of one's body for signs of heat stress. Together, these constitute what we term thermal labor: a set of quotidian social and cultural practices aimed at managing exposure to extreme temperatures within racialized neoliberal climate regimes.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.21203/rs.3.rs-11426542/v1",
-      "title": "Residential greenness and tuberculosis incidence across 1-km grids in Beijing: non-linear exposure-response and counterfactual health impact assessment",
-      "authors": [
-        "Ze Zeng",
-        "Wenyi Zhang",
-        "Zanmei Wei",
-        "Zhidong Gao",
-        "Yuxiao Wang",
-        "Junyu He",
-        "Hengliang Lv",
-        "Yuming Guo"
-      ],
-      "journal": "Research Square",
-      "date": "2026-11-12",
-      "doi": "10.21203/rs.3.rs-11426542/v1",
-      "url": "https://doi.org/10.21203/rs.3.rs-11426542/v1",
-      "oa_url": "https://www.researchsquare.com/article/rs-11426542/latest.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Abstract In hyper-dense megacities, rapid urbanization and constrained access to nature may compound the risk of airborne infectious diseases such as tuberculosis (TB), yet fine-scale epidemiological evidence linking green space to TB incidence remains limited. We conducted a 13-year population-based panel study tracking 5,712 populated 1-km grid cells across Beijing, China (2012–2024). Using a Poisson two-way fixed-effects framework adjusting for district and temporal fixed effects, time-varying meteorology, and co-pollutants, long-term vegetation exposure (12-month moving average NDVI) showed a robust protective association, with a 43.3% risk reduction per one-IQR increase (IRR = 0.567, 95% CI: 0.557–0.578). Rather than a conventional log-linear response, we identified a pronounced non-linear, L-shaped exposure–response curve — corroborated by non-parametric decile binning —with the steepest risk reductions occurring in vegetation-deprived built environments before plateauing at higher greenness levels, consistent with biological saturation. Translating this function into three counterfactual greening scenarios showed that while universal greening (+ 0.1 NDVI city-wide) maximized absolute burden reduction, targeting dual-vulnerable grids—simultaneously high in population density and low in greenness—achieved an intervention efficiency nearly four times greater, averting over a quarter of city-wide cases (27.33%) by intervening in only 15.7% of spatial cells. These findings indicate that the health dividend of urban greening is governed as much by spatial allocation as by total quantity, providing an evidence base for integrating precision environmental health governance into municipal spatial planning.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.65864/8hp0d3ja8c",
-      "title": "Efficiency and Equity of Gasoline Taxes with Increasing Electric-Powered Vehicle Adoption",
-      "authors": [
-        "Raúl Bajo‐Buenestado"
-      ],
-      "journal": "CESifo",
-      "date": "2026-11-12",
-      "doi": "10.65864/8hp0d3ja8c",
-      "url": "https://doi.org/10.65864/8hp0d3ja8c",
-      "oa_url": "https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp13139.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "report",
-      "abstract": "Gasoline taxes can incentivize the adoption of electric-powered vehicles, but their higher upfront costs raise concerns about potential regressive effects. This paper examines the efficiency and equity of gasoline taxes in the context of Spain. Using the universe of vehicle registrations and exploiting temporal and cross-sectional variation, I find that a one-cent increase in the gasoline tax reduces the CO2 emissions rate of purchased vehicles by 0.25%, driven primarily by increased adoption of hybrid and electric-powered vehicles among higher-income households. However, wealthier households' relative tax savings are modest on average. Leveraging a tax reform that sharply increased gasoline prices in nearly half the country, I calculate CO2 savings of 31 kilotons over the vehicles' lifetimes, while the relative additional tax burden on lower-income households increased by 40€ per vehicle under a conservative calculation. A counterfactual revenue-equivalent mileage tax would be slightly less regressive but would not achieve comparable emissions reductions.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.65717/iao.2026.252225",
-      "title": "Artificial Intelligence in Otoscopy for Tympanic Membrane Pathologies: A State-of-the-Art Scoping Review",
-      "authors": [
-        "Bahaeddin Eravcı",
-        "Fakih Cihat Eravcı"
-      ],
-      "journal": "The Journal of International Advanced Otology",
-      "date": "2026-11-12",
-      "doi": "10.65717/iao.2026.252225",
-      "url": "https://doi.org/10.65717/iao.2026.252225",
-      "oa_url": "https://www.advancedotology.org/index.php/pub/article/download/2043/2224",
-      "is_oa": true,
-      "citations": 0,
-      "type": "review",
-      "abstract": "This paper aimed to conduct a systematic search within a scoping review framework and provide a critical narrative appraisal of the current literature on artificial intelligence (AI) applications for tympanic membrane (TM) image analysis in the diagnosis of ear infections, with a focus on methodological rigor, dataset characteristics, and clinical applicability. A comprehensive search was performed across various online databases (Scopus, PubMed, Google Scholar, Embase, IEEE Xplore, and SPIE Digital Library) to identify studies published up to June 30, 2024. Studies employing AI for the analysis or classification of TM images in ear disease diagnostics were included. Inclusion and exclusion criteria were predefined. Data extraction covered dataset properties, imaging modalities, AI models, validation strategies, and performance metrics. The level of evidence, potential sources of bias, and methodological rigor were assessed qualitatively. Eighty-three studies met inclusion criteria, encompassing 90 experimental results. Considerable heterogeneity was observed regarding dataset size, image quality, device types, labeling protocols, and AI models. Most studies relied on small, private datasets, limiting model generalizability. While deep learning methods-especially convolutional neural networks-achieved high classification accuracies, methodological limitations included inconsistent data augmentation, imbalanced datasets, and lack of external validation. Few studies employed multidisciplinary teams or standardized protocols. Despite notable advances in AI-driven TM image analysis, direct comparison of studies remains challenging due to substantial heterogeneity and methodological shortcomings. A meta-analysis or systematic review was not performed, as quantitative synthesis would be misleading due to substantial data and labeling heterogeneity, wide methodological diversity, and a widespread lack of external validation across the included studies. Future research should prioritize larger, diverse, and well-annotated datasets, adoption of standardized protocols, and interdisciplinary collaboration to improve the clinical translation and reliability of AI-based diagnostic tools for ear infection management.",
-      "categories": [
-        "geoai"
       ],
       "source": "openalex",
       "first_seen": "2026-11-16"
