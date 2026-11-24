@@ -1,11 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T00:22:22Z",
+    "generated_at": "2026-11-24T21:23:42Z",
     "mode": "openalex_sync",
     "source": "OpenAlex",
     "query_count": 12,
     "failed_queries": 0,
-    "new_ids": []
+    "new_ids": [
+      "doi:10.18488/90.v13i1.5364",
+      "doi:10.1111/ruso.70082",
+      "doi:10.1007/s11111-026-00545-7",
+      "doi:10.3389/frsus.2026.2014397",
+      "doi:10.3389/fenvs.2026.2003802",
+      "doi:10.1111/ppe.70211",
+      "doi:10.1002/sd.71966",
+      "doi:10.65069/ara31202751",
+      "doi:10.1079/cabicomm-62-8202",
+      "doi:10.32764/97bzwg40",
+      "doi:10.1007/s44327-026-00421-x",
+      "doi:10.1080/03031853.2026.2760344",
+      "doi:10.1016/j.cities.2026.107745",
+      "doi:10.1590/scielopreprints.18968",
+      "doi:10.1007/s44274-026-01216-y",
+      "doi:10.3310/nihropenres.14502.1",
+      "doi:10.21107/sml.v9i2.36040",
+      "doi:10.1016/j.cities.2026.107849",
+      "doi:10.3389/fsoc.2026.1885141",
+      "doi:10.21107/sml.v9i2.36210",
+      "doi:10.69739/jebc.v3i2.2558",
+      "doi:10.1016/j.jth.2026.102491",
+      "doi:10.1080/13467581.2026.2765152",
+      "doi:10.1016/j.gloepi.2026.100300",
+      "https://openalex.org/W7238562787",
+      "doi:10.1038/s43247-026-04164-w",
+      "doi:10.63189/ryre5571"
+    ]
   },
   "papers": [
     {
@@ -418,7 +446,7 @@
         "Ali Mostafavi",
         "Samuel D. Brody"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-16",
       "doi": "10.48550/arxiv.2611.21563",
       "url": "https://doi.org/10.48550/arxiv.2611.21563",
@@ -493,7 +521,7 @@
         "Ling Yin",
         "Yushi Bai"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-17",
       "doi": "10.48550/arxiv.2611.22133",
       "url": "https://doi.org/10.48550/arxiv.2611.22133",
@@ -799,6 +827,32 @@
       ],
       "source": "curated",
       "first_seen": "2026-11-13"
+    },
+    {
+      "id": "doi:10.3389/frsus.2026.2014397",
+      "title": "Optical GeoAI and spatial modeling enable urban-canopy mapping and resilience screening in Davis, California",
+      "authors": [
+        "Mohammadreza Narimani",
+        "Shreyan Mitra",
+        "Parastoo Farajpoor"
+      ],
+      "journal": "Frontiers in Sustainability",
+      "date": "2026-11-23",
+      "doi": "10.3389/frsus.2026.2014397",
+      "url": "https://doi.org/10.3389/frsus.2026.2014397",
+      "oa_url": "https://doi.org/10.3389/frsus.2026.2014397",
+      "is_oa": true,
+      "citations": 5,
+      "type": "article",
+      "abstract": "Cities need spatially explicit canopy information to connect urban greening with surface-temperature context, mobility, and neighborhood planning. We developed an optical GeoAI workflow for Davis, California, using 2022 National Agriculture Imagery Program (0.6 m RGB + NIR). DeepForest generated crown candidates, which were filtered with NDVI and non-maximum suppression, refined with box-prompted Segment Anything Model (ViT-B), and expanded with a transparent NDVI-texture infill. Analyses used the 25.92 km 2 Census TIGER municipal boundary and a 100 m grid. The workflow retained 11,741 candidate crowns and mapped 7.71 km 2 of canopy (29.8% of the city). On the identical extent, reference-relative agreement with the 2022 USDA/CAL FIRE LiDAR-assisted canopy product reached 0.804 pixel precision, 0.873 pixel recall, 0.719 intersection over union, and 0.837 Dice, while 97.4% of candidate centers coincided with reference canopy. Approximately 49% of candidates occurred within 15 m of a road. Canopy was inversely associated with land-surface temperature from the 11 May 2022 Landsat 8 scene (Spearman ρ = −0.477; partial ρ = −0.551 controlling for built probability), and spatial modeling identified neighborhood structure. Two transparent screening surfaces identified locations where canopy need, heat, and contextual indicators co-occur. The framework links open Earth-observation and urban data to reproducible, updateable, urban-informatics screening products for follow-up assessment, rather than site-level planting prescriptions.",
+      "categories": [
+        "mobility",
+        "geoai",
+        "resilience",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11345910/v1",
@@ -1723,7 +1777,7 @@
       "url": "https://doi.org/10.1002/sst3.70069",
       "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sst3.70069",
       "is_oa": true,
-      "citations": 0,
+      "citations": 1,
       "type": "article",
       "abstract": "Fire development is inherently stage‐dependent, with material responses and engineering concerns varying across fire scenarios and exposure conditions. Established fire safety engineering (FSE) and performance‐based design (PBD) approaches already connect fire development, test evidence, and mitigation strategies with defined safety objectives. Building on this foundation, this review examines the relationships among material fire behavior, testing methods, and application‐specific safety requirements across buildings, transportation, industrial processes, and energy storage systems. A stage‐dependent organization is used to examine how material properties and test results inform ignition control, fire growth suppression, smoke management, and structural stability. The discussion distinguishes burning‐behavior classifications, ignition parameters, heat and smoke release measurements, and fire‐resistance assessments based on their purposes and applicable conditions. Particular attention is given to how exposure, ventilation, geometry, scale, and system interactions influence the transfer of laboratory findings to engineering applications. The discussion also considers when additional component‐level or system‐level evidence is needed to assess safety outcomes. By considering these relationships across application sectors, this review aims to support the interpretation of materials research within established FSE and PBD practice, while clarifying the applicability and limitations of material‐level evidence in scenario‐specific fire safety assessments.",
       "categories": [
@@ -1828,6 +1882,107 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-20"
+    },
+    {
+      "id": "doi:10.21107/sml.v9i2.36040",
+      "title": "Flexible but not free: The gendered flexibility paradox in Indonesia's gig economy",
+      "authors": [
+        "Restu Khaliq",
+        "Rahmi Yuningsih Puteri",
+        "Khalisa Rahmina Suryani",
+        "Atiya Hanifa"
+      ],
+      "journal": "SIMULACRA JURNAL SOSIOLOGI",
+      "date": "2026-11-23",
+      "doi": "10.21107/sml.v9i2.36040",
+      "url": "https://doi.org/10.21107/sml.v9i2.36040",
+      "oa_url": "https://journal.trunojoyo.ac.id/simulacra/article/download/36040/12850",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Female gig workers in Indonesia face challenges underexamined in a gig economy literature centered largely on Western contexts. Domestic scholarship has tended to treat gender as a descriptive variable within male-dominated sectors. This study examines how platform algorithms, gender norms, and household responsibilities shape women’s gig work across sectors. Using a qualitative exploratory design, it draws on semi-structured interviews with fifteen women working in online transportation, food delivery, online teaching, graphic design, and content creation across six urban centers. Intersectionally informed thematic analysis identified four dimensions: the gendered flexibility paradox, cross-sector gender segregation, sector-specific harassment risks, and costly adaptation strategies. These dimensions form a connected process. Flexibility constrained by caregiving responsibilities and platform demands shapes women’s access to sectors; sectoral positioning exposes them to harassment; and these risks prompt adaptations that require sacrificing income for safety. The findings show that vulnerability varies across work settings, while gendered norms and unequal protections shape women’s experiences in the platform economy. The study contributes an intersectional, cross-sector account of women’s platform work, demonstrating how flexible work reproduces gendered constraints and transfers responsibility for managing risk from platforms to workers. It identifies an institutional protection gap that individual resilience alone cannot address.",
+      "categories": [
+        "mobility",
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.3389/fsoc.2026.1885141",
+      "title": "From ashes to agency: informal-settlement fires, intergenerational power, and democratic survival in Gauteng, South Africa",
+      "authors": [
+        "Wilfred Lunga",
+        "Kegomoditswe Mamabolo",
+        "Samantha Tshabalala",
+        "Caiphus Baloyi",
+        "Bathabile Nhleko",
+        "Fhulufhelo Tshililo",
+        "Collin Olebogeng Mongale"
+      ],
+      "journal": "Frontiers in Sociology",
+      "date": "2026-11-23",
+      "doi": "10.3389/fsoc.2026.1885141",
+      "url": "https://doi.org/10.3389/fsoc.2026.1885141",
+      "oa_url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1885141/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Introduction Recurrent fires in South Africa's informal settlements are governed as technical emergencies, despite being produced and experienced through unequal infrastructures, insecure tenure, and uneven state protection. This study examines how young and older residents of fire-prone informal settlements in the Ekurhuleni Metropolitan Municipality interpret risk, respond to emergencies, negotiate recovery, and convert disaster experience into civic action. Methods We used an interpretivist narrative design combining semi-structured interviews, focus-group discussions, participant-generated photographs, ethnographic observation, and stakeholder interviews. The focal sample comprised 22 residents aged 15–35 years or 60 years and older, recruited through an environmental citizenship programme and selected for direct experience of fire-related loss, injury, or displacement. Thematic analysis integrated deliberative-democratic criteria inclusion, reason-giving, and legitimacy with a combative account of conflict and emotion as constitutive of democratic politics. Results Across prevention, response, and recovery, residents described a consistent governance asymmetry: households and neighbors generated situated risk knowledge, evacuation plans, warning networks, bucket chains, and mutual aid, whereas formal intervention was often delayed, reactive, or insufficiently responsive to local priorities. Fire also produced a trauma-to-agency pathway. Indignation at institutional abandonment, grief over irreplaceable homes and routines, fear of recurrence, and hope for change motivated fire-safety education, environmental activism, and claims for municipal accountability. The findings challenge protectionist models that cast young and older residents as passive beneficiaries. Discussion Effective fire governance requires institutionalized co-production, accessible intergenerational preparedness, legitimate space for emotional testimony and disagreement, and sustained investment before predictable high-risk seasons. A deliberative combative model offers a more realistic basis for democratic and effective disaster governance under conditions of structural inequality.",
+      "categories": [
+        "mobility",
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.65069/ara31202751",
+      "title": "Artificial Intelligence in Urban Planning and Smart Cities: A Bibliometric Mapping and Trend Analysis of The Review-Oriented Literature",
+      "authors": [
+        "Gülay Demir"
+      ],
+      "journal": "Applied Research Advances",
+      "date": "2026-11-22",
+      "doi": "10.65069/ara31202751",
+      "url": "https://doi.org/10.65069/ara31202751",
+      "oa_url": "https://ara-journal.org/index.php/ara/article/download/51/34",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "The increasing presence of artificial intelligence (AI) is evident as a fundamental infrastructure of urban planning and smart cities management. This study presents a bibliometric mapping and trend analysis of 2,439 journal articles published between 2016 and 2026 (data collected as of October 24, 2026) that combine AI-related, urban planning/smart city, and review-focused terms. Using the Bibliometrix R package, production dynamics, citation impact, sources, authors, institutions, countries, keywords, and conceptual structure were analysed. Bradford and Lotka laws were tested. Annual output increased from 11 articles in 2016 to 548 in 2026 (as of October 24), with a compound annual growth rate of 47.8%; the logistic lifecycle model (R² = 0.969) indicates that the annual output peaks around 2028.7. The output is distributed across 845 sources and deviates significantly from both Bradford's law (D = 0.117, p < 0.001) and Lotka's law (β = 2.19). China accounts for 37.0% of author-country relationships and the largest citation total (19,812) among the top 20 countries, while smaller research systems such as Egypt and France record the highest citation averages. There are international collaborations as co-authors in 37.2% of analysed articles. With the help of keywords and factors analysis, there has been identified the technological perspective of the research field that includes deep learning in remote sensing, IoT-based smart city platforms, and learning-based prediction of mobility and energy systems. A temporal shift is observed from the IoT and big data vocabulary (average year 2021-2023) to \"city planning,\" \"artificial intelligence,\" and \"learning systems\" (average 2025). Sustainability, decision-making, and governance terms remain relatively marginal. Urban digital twins are creating a research agenda focused on explainability, data management, generative artificial intelligence, and geographic diversification.",
+      "categories": [
+        "mobility",
+        "geoai",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.63189/ryre5571",
+      "title": "International Day Against Trafficking in Persons",
+      "authors": [
+        "Kriszta Szabó"
+      ],
+      "journal": "Central European Researchers Blog",
+      "date": "2026-11-22",
+      "doi": "10.63189/ryre5571",
+      "url": "https://doi.org/10.63189/ryre5571",
+      "oa_url": "https://www.unicef.org/media/172716/file/UNICEF%E2%80%99s%20Action%20against%20Child%20Trafficking.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Strengthening systems to prevent child trafficking, protect children, and enable recovery and reintegration of survivors UNICEF's Action Against Child Trafficking ©UNICEF/UNI542715/SokhinThis photo is taken at Capeds, a state-owned transit center in Gabon which supports child victims of trafficking.UNICEF provides multidisciplinary support, including psychosocial support, legal assistance in court, social and family reintegration, and capacity building for social workers and specialized educators. Executive SummaryDespite sustained international efforts, child trafficking remains a growing concern, with children increasingly overrepresented among detected victims of trafficking in several regions.Long-standing vulnerabilities and enablers of child trafficking, including poverty, lack of access to services and weak child protection systems, harmful social norms, gender-based discrimination, and armed conflict, have been exacerbated by emerging risks.These include technology-facilitated exploitation and abuse, the expansion of transnational organized crime networks, and the impact of climate change.Child mobility has also increased in several regions, while the availability of safe and legal pathways for children to migrate or seek protection has not kept pace, increasing the risks of exploitation and trafficking.UNICEF, leveraging its global presence and mandate, is combating child trafficking through prevention, protection, response and reintegration initiatives.Partnerships with governments, UN agencies and international organizations, civil society, survivors, and the private sector are central to these efforts.The 25th anniversary of the Palermo Protocol offers not only a moment to reflect on progress and continued gaps, but also an opportunity to renew political commitment and strengthen collective action to end child trafficking. ©UNICEF/UNI491022/Vargas Understanding the Scale of Child Trafficking and the Urgency to ActChild trafficking is a serious violation of children's rights and a global crime that affects children's lives, their families, and entire communities.According to global data from UNODC's 2024 Global Report on Trafficking in Persons, between 2020 and 2023, national crime authorities detected 202,478 trafficking victims, 38 per cent of whom were children. 1 The report further highlights a 31 per cent increase of detected child victims between 2019 and 2022, higher than the overall increase detected during the same period for all age groups (25 per cent).",
+      "categories": [
+        "mobility",
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.1007/s44327-026-00428-4",
@@ -2412,7 +2567,7 @@
         "Daniel Aloise",
         "Gaétan Marceau Caron"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-10",
       "doi": "10.48550/arxiv.2611.14207",
       "url": "https://doi.org/10.48550/arxiv.2611.14207",
@@ -2708,6 +2863,32 @@
       ],
       "source": "curated",
       "first_seen": "2026-11-13"
+    },
+    {
+      "id": "doi:10.1007/s11111-026-00545-7",
+      "title": "Ambient air pollution and the sex ratio at birth: a systematic review and narrative synthesis",
+      "authors": [
+        "Ursula Gazeley",
+        "Hallie Eilerts-Spinelli",
+        "Jasmin Abdel Ghany",
+        "Ana Bonell",
+        "Joshua Wilde"
+      ],
+      "journal": "Population and Environment",
+      "date": "2026-11-23",
+      "doi": "10.1007/s11111-026-00545-7",
+      "url": "https://doi.org/10.1007/s11111-026-00545-7",
+      "oa_url": "https://doi.org/10.1007/s11111-026-00545-7",
+      "is_oa": true,
+      "citations": 0,
+      "type": "review",
+      "abstract": "Ambient air pollution is associated with adverse pregnancy outcomes including stillbirth, miscarriage, and preterm birth. However, its effects on the viability, implantation, and survival of conceptuses – largely unobserved before the clinical detection of pregnancy – remain poorly understood. Shifts in the sex ratio at birth (SRB) provide a sensitive, population-level indicator of sex-biased conception and pregnancy loss, with important demographic and societal consequences. This systematic review examined whether maternal exposure to ambient air pollution before conception and during pregnancy is associated with deviations in the SRB. We searched MEDLINE, Embase, Global Health, Web of Science and Scopus for observational studies assessing both ambient air pollution exposure and the SRB. Twelve studies met the inclusion criteria, with data from eight countries at the national ( n = 4) and subnational ( n = 8) levels spanning 1970–2023. Five studies were from East Asia, and there was no evidence from sub-Saharan Africa or South Asia. PM 10 was the most frequently investigated pollutant, followed by PM 2 . 5 . Overall, six studies reported no significant association, including three of the studies assessed as the most methodologically robust with the lowest risk of bias, indicating that evidence of null findings were among the strongest. Four studies reported a decrease in the SRB (feminisation) and two an increase (masculinisation); however, four of these six studies with at least one significant finding were less methodologically robust with a higher risk of bias. Consequently, the evidence base remains limited, heterogeneous, and inconclusive. As climate change and increasing urbanisation threaten to expose growing populations to poor air quality in many settings, more standardised research is needed to improve comparability and quantify the full impact of air pollution on reproductive outcomes at the population level.",
+      "categories": [
+        "smoke",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.1007/s11270-026-10197-w",
@@ -3058,7 +3239,7 @@
         "Xingjian Liu",
         "Harry Fung Lee"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-04",
       "doi": "10.48550/arxiv.2611.06115",
       "url": "https://doi.org/10.48550/arxiv.2611.06115",
@@ -3821,6 +4002,57 @@
       "first_seen": "2026-11-20"
     },
     {
+      "id": "doi:10.1016/j.cities.2026.107745",
+      "title": "Transferring group knowledge from LLMs: The case of urban perception",
+      "authors": [
+        "Ce Hou",
+        "Fan Zhang",
+        "Yuhao Kang",
+        "Zhuangyuan Fan",
+        "Sen Li"
+      ],
+      "journal": "Cities",
+      "date": "2026-11-23",
+      "doi": "10.1016/j.cities.2026.107745",
+      "url": "https://doi.org/10.1016/j.cities.2026.107745",
+      "oa_url": "https://www.researchsquare.com/article/rs-6351052/latest.pdf",
+      "is_oa": true,
+      "citations": 1,
+      "type": "article",
+      "abstract": "Human-centric urban planning curates environments that address behaviors, perceptions, and feelings. Conventional methods of understanding people's perceptions and feelings depend on questionnaires and surveys that are time-consuming and labor-intensive. Recent studies developed deep-learning-based computer vision tools to decipher the safety perception. Yet, this method only provides a generalized approximation of human perception and fails to incorporate personalized and local assessments.Large language models (LLM), trained with immersive human knowledge, have demonstrated the potential to simulate human understanding of images, space, and place.In view of these challenges and motivations, our study proposes an LLM-based framework that zero-shot adapts general safety perception evaluation models to specific demographics and perception scenarios. The framework first generates (1) general and (2) demographic and scenario-specific textual descriptions for street view images (SVIs) in specific areas. Then SVIs and general descriptions are used to train a safety perception model, and specific descriptions are used to fine-tune it via a pseudo-labeling strategy.To validate our method's effectiveness, we conduct experiments using individual-level safety perception data from Stockholm. The results show that general model's accuracy decreased by 19.7–25 percent when evaluating safety perception with a specific population group, while the accuracy of fine-tuned model with our method improved by 14.9–24 percent. We further employ this framework to map safety perceptions of four predefined demographic groups (middle-aged, elderly, women, and men) in Hong Kong across two perception scenarios: traffic accidents and crime.Our framework provides governments with a new tool for large-scale automated evaluation of urban perceptions across different groups.",
+      "categories": [
+        "mobility",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1016/j.jth.2026.102491",
+      "title": "Travel mode use across disability types and severity levels",
+      "authors": [
+        "Milad Mehdizadeh",
+        "Giulio Mattioli",
+        "Thomas O. Hancock",
+        "Kate Pangbourne"
+      ],
+      "journal": "Journal of Transport & Health",
+      "date": "2026-11-22",
+      "doi": "10.1016/j.jth.2026.102491",
+      "url": "https://doi.org/10.1016/j.jth.2026.102491",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2214140526002409/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Introduction Within the transport equity paradigm, the limited ability to travel can restrict participation in out-of-home activities and negatively affect well-being. Previous studies have often relied on a binary representation of disability (disabled versus non-disabled), which overlooks the heterogeneity of disability types. We contribute to the literature by investigating how different disability types and severity levels are associated with travel mode use frequency across five modes: car (as a driver/passenger), bus, train, cycling, and walking. Methods We use large-scale survey data from a recent wave (January 2023–May 2025) of the Understanding Society study in the UK (N ≈ 32,000). Survey-weighted ordered logit models examined associations between 12 disability types (i.e., functional limitation domains: mobility, lifting, manual dexterity, continence, hearing, vision, communication, cognitive, safety awareness, coordination, personal care, and other disabilities), their severity levels, and travel mode use frequency, controlling for sociodemographic and regional characteristics. Results The findings reveal heterogeneity across different disabilities and travel modes. Mobility disability shows some of the strongest associations with reduced walking and cycling frequency. Lifting/carrying and personal care disabilities are also related to reduced use of selected active and public transport modes. In contrast, sensory, communication, and cognitive disabilities show more mode-specific patterns. Notably, sight disability is associated with lower car use but higher bus use at moderate severity. Bus and train use also show distinct patterns across disability types, indicating that public transport should not be treated as a homogeneous category. Severity patterns are evident for some domains, particularly mobility-related disabilities, but are not consistent across all domains and modes. Conclusions The findings highlight the importance of distinguishing disability types, severity levels, and travel modes when considering transport equity. Accessibility planning should therefore consider the different requirements of active and public transport rather than treating disabled travellers as a homogeneous group.",
+      "categories": [
+        "mobility",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "doi:10.1007/978-3-032-36019-9_3",
       "title": "Migrant Academics: Unpacking Identity, Equity, and Diversity in Migration Discourses",
       "authors": [
@@ -4086,6 +4318,28 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-17"
+    },
+    {
+      "id": "doi:10.18488/90.v13i1.5364",
+      "title": "Beyond ninety minutes: Reflections on the FIFA World Cup through an ecotoxicological lens",
+      "authors": [
+        "Chee Kong Yap"
+      ],
+      "journal": "Journal of Sports Research",
+      "date": "2026-11-17",
+      "doi": "10.18488/90.v13i1.5364",
+      "url": "https://doi.org/10.18488/90.v13i1.5364",
+      "oa_url": "https://archive.conscientiabeam.com/index.php/90/article/download/5364/9639",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "This reflective commentary examines the FIFA World Cup through the lens of ecotoxicology and ecosystem thinking to evaluate how large-scale human celebrations, consumption patterns, and globalization interact with environmental sustainability and ecological responsibility. Adopting an ecotoxicological and conceptual framework, this paper analyzes mega-sporting events as large-scale anthropogenic disturbances. It examines the cumulative ecological stress generated beyond stadium boundaries by assessing systemic environmental drivers, including transportation, energy demand, waste production, infrastructure use, and resource consumption. While football as a sport is inherently benign, the industrial and commercial scale required to host the tournament generates substantial ecological footprints. These multifaceted environmental pressures introduce pollutants, waste streams, and emissions into surrounding ecosystems, creating local and global ecotoxicological impacts that challenge the ethical framing of global mega-events. The findings highlight a fundamental tension between collective human joy and environmental stewardship. Reconciling the FIFA World Cup with planetary health requires a shift from high-impact commercial expansion toward ecological responsibility and biosphere-conscious planning. Event organizers, host nations, and governing bodies such as FIFA must integrate ecotoxicological risk assessments and strict environmental standards into early-stage tournament planning. Practical measures include mandatory zero-waste policies, reliance on renewable energy networks, strict ecotoxicological standards for supply chains, and localized transport-mitigation strategies. This paper expands the traditional sports management and mega-event literature, which predominantly focuses on socioeconomic and political dimensions by introducing an ecotoxicological perspective. It bridges event management and ecosystem thinking, providing a novel conceptual framework for understanding the cumulative biosphere impacts of global celebrations.",
+      "categories": [
+        "mobility",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.1007/978-3-032-30069-0_4",
@@ -4461,6 +4715,55 @@
       "first_seen": "2026-11-17"
     },
     {
+      "id": "doi:10.3389/fenvs.2026.2003802",
+      "title": "Air pollution and hospital-treated otitis media: findings from a prospective cohort study",
+      "authors": [
+        "Lihong Ye",
+        "Manli Wang",
+        "Shuhui Chen",
+        "Yingying Mao"
+      ],
+      "journal": "Frontiers in Environmental Science",
+      "date": "2026-11-23",
+      "doi": "10.3389/fenvs.2026.2003802",
+      "url": "https://doi.org/10.3389/fenvs.2026.2003802",
+      "oa_url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.2003802/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Introduction The association between chronic, long‐term exposure to air pollution and the incidence of otitis media in the general adult population remains unclear. Methods We retrieved 378,408 participants free of hospital‐treated otitis media at baseline from the UK Biobank. Exposures to air pollutants (particulate matter with diameter ≤ 2.5 µm [PM 2.5 ], coarse particulate matter with aerodynamic diameters between 2.5 and 10 µm [PM coarse ], particulate matter with diameter ≤ 10 µm [PM 10 ], nitrogen oxide [NO X ], and NO 2 ) were assessed for 4 years before baseline, with consideration of residential address histories. Cox proportional hazards models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) per interquartile range (IQR) increase in pollutant concentrations. Results During a median follow‐up of 13.6 years, 1,098 incident cases of hospital‐treated otitis media were identified. Higher long‐term exposure to PM 2.5 and NO 2 was associated with increased risk of otitis media. The air pollution score (APS) was also positively associated with risk (per IQR increase: HR 1.09, 95% CI 1.01–1.17), with evidence of an exposure‐response relationship. Although no significant interaction was observed between APS and genetic risk, participants with high genetic susceptibility (highest genetic risk score [GRS] quintile) and high air pollution exposure (highest APS quintile) demonstrated the greatest risk of otitis media, with a significantly elevated hazard ratio compared with those with low genetic risk and low pollution exposure. Discussion Long‐term exposure to ambient air pollutants was associated with an elevated risk of otitis media, particularly among individuals with high genetic susceptibility.",
+      "categories": [
+        "smoke",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.32764/97bzwg40",
+      "title": "Hydrometeorological Disaster Impacts on Community Economies and Infographic-Based Recovery Policy Strategies in West Sumatra",
+      "authors": [
+        "Dian Fitriarni Sari",
+        "Yasha Langitta Setiawan",
+        "Rizky Alfadly"
+      ],
+      "journal": "MARGIN ECO",
+      "date": "2026-11-23",
+      "doi": "10.32764/97bzwg40",
+      "url": "https://doi.org/10.32764/97bzwg40",
+      "oa_url": "https://ejournal.unwaha.ac.id/margin/article/download/7560/3413",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Hydrometeorological disasters cause not only physical damage but also substantial disruptions to livelihoods and local economic activities. This study examines the economic impacts of hydrometeorological disasters and identifies priority strategies for post-disaster economic recovery in West Sumatra, Indonesia. A qualitative approach was employed through semi-structured interviews with 60 disaster-affected informants. The interview data were analyzed thematically, while the Analytic Network Process (ANP), based on assessments from five experts, was used to determine priority factors, problems, and policy alternatives. The thematic analysis revealed that 68.3% of informants experienced disruptions to electricity and/or clean water, 33.3% experienced road, bridge, or mobility disruptions, and 55.0% reported decreased or completely interrupted income. Moreover, 66.7% of informants expected productive assistance, including business capital, work equipment, and stock replacement. The ANP results identified infrastructure as the most influential recovery factor followed by economic and financial factors and human resources. Loss of productive assets and damage to road and bridge infrastructure emerged as the major recovery problems. The highest-priority policy alternatives were road and bridge infrastructure improvement, productive capital assistance, and entrepreneurship development. These findings demonstrate that effective post-disaster economic recovery requires an integrated approach combining infrastructure restoration with livelihood recovery and productive capacity development.",
+      "categories": [
+        "mobility",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "doi:10.1007/978-3-032-36098-4_85",
       "title": "Impact of Connected Vehicles on Transport Network Resilience Under Traffic Signal Attacks",
       "authors": [
@@ -4483,6 +4786,76 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-22"
+    },
+    {
+      "id": "doi:10.1111/ruso.70082",
+      "title": "Inaccessible: Weakened Social Capital and Barriers to Getting by in a New Mexico Community During the COVID ‐19 Pandemic",
+      "authors": [
+        "Morgan Montañez"
+      ],
+      "journal": "Rural Sociology",
+      "date": "2026-11-22",
+      "doi": "10.1111/ruso.70082",
+      "url": "https://doi.org/10.1111/ruso.70082",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ruso.70082",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "This qualitative, county‐level study of 58 residents of a Hispanic‐majority community in northern New Mexico (summer 2021) reveals limitations to social capital during disasters or periods of prolonged strain. While previous research demonstrates that social capital sometimes bridges gaps in access for rural residents during ordinary times, this study shows that when the social and physical field shifts—as they did during the COVID‐19 pandemic—social capital is weakened and unable to fully provide the support that policy frameworks often anticipate. These findings reinforce previous literature that shows social capital only partially helps some people bridge gaps in need and illustrates another context in which its usefulness is uneven. Findings illustrate how limited rural infrastructure, particularly transportation and internet access, creates structural barriers; how social capital previously mitigated these barriers; and how, during the pandemic, these mechanisms broke down for some under heightened need. This study offers an important case for understanding why rural aid should not rely on social capital alone to increase accessibility and highlights the infrastructural conditions necessary for equitable access in under‐resourced rural communities.",
+      "categories": [
+        "mobility",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1002/sd.71966",
+      "title": "Dynamic Relationships Among Energy, Air Transport, ICT , and Economic Growth: Evidence From Emerging Economies",
+      "authors": [
+        "Mohammad Mafizur Rahman",
+        "Kais Saidi",
+        "Ali Lamouchi"
+      ],
+      "journal": "Sustainable Development",
+      "date": "2026-11-22",
+      "doi": "10.1002/sd.71966",
+      "url": "https://doi.org/10.1002/sd.71966",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71966",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "This study examines the associations of energy use, air transport activity and information and communication technology (ICT) with gross domestic product (GDP) per capita in 14 emerging economies during 1990–2023, and whether these infrastructures complement one another. After testing cross‐sectional dependence, unit roots and cointegration, a panel autoregressive distributed lag (ARDL) model is estimated using pooled mean group (PMG) and mean group (MG) estimators. Robustness is assessed using fully modified ordinary least squares (FMOLS), dynamic ordinary least squares (DOLS), common correlated effects pooled mean group (CCE‐PMG), and cross‐sectionally augmented autoregressive distributed lag (CS‐ARDL), alongside Coronavirus disease 2019 (COVID‐19) sensitivity checks, interaction models and Dumitrescu–Hurlin predictive‐causality tests. The variables are cross‐sectionally dependent and integrated at order zero or one, but tests do not support cointegration; hence, long‐run coefficients are interpreted as conditional associations. In the baseline PMG model, energy use per capita and air passengers per capita are positively associated with GDP per capita, while mobile subscriptions and Internet use are positively and negatively associated, respectively. These relationships weaken or become insignificant after controlling for common factors, and the PMG–MG Hausman test rejects long‐run homogeneity. ICT–energy and ICT–air transport interactions are insignificant, and none of the infrastructure indicators predicts GDP growth. Infrastructure–growth associations are heterogeneous and sensitive to common shocks. Policies should be country‐specific, emphasizing reliability, resilience and effective digital use rather than uniform growth effects. The study does not establish structural causality or assess environmental or distributional outcomes.",
+      "categories": [
+        "mobility",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1007/s44327-026-00421-x",
+      "title": "Protective accessibility for resilient urban mobility under recurrent air threats",
+      "authors": [
+        "Andrii Galkin",
+        "Ganna Samchuk",
+        "Sergey Lyfenko"
+      ],
+      "journal": "Discover Cities",
+      "date": "2026-11-22",
+      "doi": "10.1007/s44327-026-00421-x",
+      "url": "https://doi.org/10.1007/s44327-026-00421-x",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44327-026-00421-x.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Recurrent air threats turn civilian protection into a continuing condition of urban mobility. This study applies GIS-based cumulative-opportunity analysis to define the Protective Shelter Accessibility Index (PSI), a spatial screening measure of the average number of designated shelters reachable from public transport stops through the pedestrian network within 2-, 5- and 15-minute planning horizons. The index is applied to 348 transport analysis zones in Kharkiv and compares a 2019 pre-invasion baseline with a 2024 wartime-adapted operational state. Of 1,212 registered structures screened for the later state, 547 met the eligibility rules used in the network analysis, compared with 87 underground facilities in the baseline. Eligible shelter density increased from 0.25 to 1.56 shelters km⁻². The share of zones with any reachable shelter rose from 28.2% to 51.1% at two minutes, from 35.3% to 54.0% at five minutes and from 45.4% to 61.2% at fifteen minutes. Nevertheless, 135 zones remained without a reachable shelter at fifteen minutes, and the median wartime-adapted zone remained below one reachable shelter per stop. Walking-speed sensitivity defines conservative and upper accessibility bounds. The findings identify critical mobility interfaces where transport, civil-protection and spatial-planning interventions should be coordinated. The analytical sequence is transferable, while warning horizons, facility eligibility and governance arrangements require local validation. The stop-origin specification distinguishes initial shelter coverage from the average availability of reachable alternatives and supports coordinated appraisal of transport and protective infrastructure. Clinical trial Not applicable.",
+      "categories": [
+        "mobility",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.59490/jcrfr.2026.0026",
@@ -5178,7 +5551,7 @@
         "Adam W. Bargteil",
         "Milton Halem"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-15",
       "doi": "10.48550/arxiv.2611.20036",
       "url": "https://doi.org/10.48550/arxiv.2611.20036",
@@ -6619,6 +6992,57 @@
       "first_seen": "2026-11-22"
     },
     {
+      "id": "doi:10.1079/cabicomm-62-8202",
+      "title": "Gendered Experiences of Crop Loss in Rice Farming, India",
+      "authors": [
+        "Kavita Mishra"
+      ],
+      "journal": "Preprint / source unavailable",
+      "date": "2026-11-23",
+      "doi": "10.1079/cabicomm-62-8202",
+      "url": "https://doi.org/10.1079/cabicomm-62-8202",
+      "oa_url": "https://doi.org/10.1079/cabicomm-62-8202",
+      "is_oa": true,
+      "citations": 0,
+      "type": "report",
+      "abstract": "This study examines the gendered impacts of rice crop loss in Odisha, India, drawing on evidence from 409 farming households across eight rice-producing districts. Using household surveys, focus group discussions, and key informant interviews, the research explores how crop loss affects livelihoods, food security, health, education, migration, and household wellbeing. The study identifies significant gender disparities in exposure to crop loss impacts and access to recovery resources, with women disproportionately affected by increased unpaid labour, food insecurity, financial stress, and limited access to insurance, compensation, and advisory services. The findings highlight the need for gender-responsive policies and interventions to strengthen resilience, improve equitable access to support systems, and promote inclusive recovery among rice-farming households.",
+      "categories": [
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.21107/sml.v9i2.36210",
+      "title": "Exclusion before displacement and the reorganization of waste access in Makassar’s waste-to-energy transition",
+      "authors": [
+        "Hariashari Rahim",
+        "Sawedi Muhammad",
+        "Novia Fridayanti",
+        "Suryanto Arifin",
+        "Andi Nurlela",
+        "Mufqi Awal Abdillah",
+        "Zahra Apriliani S",
+        "Makmur Makmur"
+      ],
+      "journal": "SIMULACRA JURNAL SOSIOLOGI",
+      "date": "2026-11-23",
+      "doi": "10.21107/sml.v9i2.36210",
+      "url": "https://doi.org/10.21107/sml.v9i2.36210",
+      "oa_url": "https://journal.trunojoyo.ac.id/simulacra/article/download/36210/12852",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Makassar’s waste-to-energy (WtE) transition is promoted as a technological response to urban waste and clean-energy challenges, yet its social consequences remain insufficiently examined. This study investigates how planned WtE development restructures power relations, access to waste resources, and livelihood security among waste-dependent communities around the Tamangapa disposal site. A qualitative case study combined in-depth interviews with eight key informants, an informal small-group discussion, participant observation, and document analysis, supported by a descriptive survey of 98 purposively selected respondents. Findings indicate that planned WtE arrangements position municipal waste increasingly as industrial feedstock alongside existing informal material-recovery practices. This creates an anticipatory mechanism of material exclusion through reduced or uncertain access to recoverable waste and procedural exclusion through unequal access to project information and environmental-risk knowledge. Survey findings show substantial livelihood vulnerability, limited understanding of WtE technology, high perceived ecological risk, and strong support for community monitoring and protection mechanisms. Conceptually, the study shows that exclusion can emerge through the reorganization of practical access before formal displacement occurs, revealing an anticipatory form of environmental inequality rather than completed displacement. A just WtE transition therefore requires livelihood safeguards, transparent and verifiable information, substantive participation, and participatory monitoring.",
+      "categories": [
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "doi:10.1016/j.jag.2026.105683",
       "title": "Delineate anything flow: fast, country-level field boundary detection from any source",
       "authors": [
@@ -6692,6 +7116,35 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-22"
+    },
+    {
+      "id": "https://openalex.org/W7238562787",
+      "title": "Weather4cast at NeurIPS 2023 – Data Fusion for Quantitative Hi-Res Rain Movie Prediction under Spatio-temporal Shifts",
+      "authors": [
+        "Aleksandra Gruca",
+        "Xavier Calbet",
+        "Pilar Rípodas",
+        "Llorenç Lliso Valverde",
+        "Federico Serva",
+        "Bertrand Le Saux",
+        "Lu Han",
+        "Xuyang Chen"
+      ],
+      "journal": "Proceedings of Machine Learning Research",
+      "date": "2026-11-21",
+      "doi": null,
+      "url": "https://openalex.org/W7238562787",
+      "oa_url": "https://raw.githubusercontent.com/mlresearch/v276/main/assets/gruca26a/gruca26a.pdf",
+      "is_oa": true,
+      "citations": 1,
+      "type": "conference-paper",
+      "abstract": "Now in its third year, Weather4cast 2023 again advanced modern algorithms in AI and machine learning through a highly topical interdisciplinary challenge at the NeurIPS Competition Track. Predicting hi-res rain radar movies from multi-band satellite sensors required data fusion of complementary signal sources and video frame prediction with super-resolution techniques. This year, quantitative prediction of rain rates was assessed using a balanced multi-class metric. Accurate rain predictions are ever more critical for everyone, with climate change increasing the frequency of extreme precipitation events. Weather4cast models thus have a particular impact for the many regions on Earth where costly weather radar data are not available. We here present highlights and insights emerging from the competition. To reward models extracting relevant mechanistic patterns reflecting the underlying complex weather systems, our evaluation tested their responses to spatio-temporal shifts. Algorithms needed to forecast 4 h or 8 h of ground-based hi-res precipitation radar from lo-res satellite spectral images in a unique cross-sensor prediction challenge, and were evaluated within and across a variety of regions on Earth with diverse climate and different distributions of heavy precipitation events. Robustness to distributional shifts over time was achieved by testing predictions on data one year after the training period. Notably, the capability of models to correctly capture spatio-temporal patterns qualitatively varied considerably and was not always in line with leaderboard scores. This suggests that more sophisticated metrics will be required to accurately reflect the effectiveness of AI models in corresponding meteorological applications. Weather4cast will continue to explore the expansive data set and advance benchmark challenges in the field en route to validated foundation models for weather.",
+      "categories": [
+        "geoai",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.32782/2523-4803/76-4-8",
@@ -7995,7 +8448,7 @@
         "Rakshith Sathish",
         "Ashwathi Nambiar"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-10",
       "doi": "10.48550/arxiv.2611.13849",
       "url": "https://doi.org/10.48550/arxiv.2611.13849",
@@ -8374,7 +8827,7 @@
       "is_oa": true,
       "citations": 0,
       "type": "article",
-      "abstract": "Background Climate change is an escalating global health threat, with sub-Saharan Africa disproportionately affected due to entrenched spatial inequalities, high exposure to environmental hazards, and limited adaptive capacity. Increasingly frequent extreme weather events (EWEs), including floods and cyclones, are reshaping the material and social conditions of place, with implications for mental health and wellbeing. However, evidence remains limited, particularly multi-country qualitative research that examines how mental health impacts are produced through lived experiences of place in contexts of recurring environmental disruption and structural vulnerability. This study explored the mental health and wellbeing impacts of EWEs among individuals with lived experience of such events in Mozambique, Burkina Faso, South Africa, and Kenya, using participatory methods that centred community narratives and place-based accounts of everyday life. Methods This qualitative study employed digital storytelling as a participatory visual method to examine how EWEs are experienced and narrated across diverse socio-spatial contexts. A total of 37 participants (8-10 per country) were recruited from rural, peri-urban, and informal urban settlements with recent exposure to flooding or cyclone events. Participants produced digital stories during facilitated five-day workshops. These narratives were analysed using inductive and deductive thematic analysis informed by Braun and Clarke's framework, with attention to the spatial and relational production of distress and coping. Results Across Mozambique, Burkina Faso, South Africa, and Kenya, findings show that the mental health impacts of EWEs are deeply embedded in place-based conditions and are cyclical, cumulative, and relational rather than confined to discrete disaster events. Participants described how repeated environmental disruptions reconfigured everyday life in place, generating ongoing uncertainty, anticipatory anxiety during rainfall periods, and acute fear during floods and cyclones. Loss of housing, livelihoods, infrastructure, and social anchors of place contributed to enduring psychological distress, which was frequently reactivated by subsequent environmental cues such as heavy rain, wind, and deteriorating physical environments. Persistent anxiety, hypervigilance, sleep disturbance, and emotional distress were reported across all sites. While social and community networks constituted critical infrastructures of care within place, these were often simultaneously overwhelmed as entire communities experienced shared disruption. Limited and delayed institutional responses further compounded spatial and social precarity. Conclusions This study provides a comparative participatory account of how EWEs shape mental health through their embeddedness in place across diverse sub-Saharan African contexts. The findings demonstrate that psychological distress is produced through the interaction of repeated environmental exposure, structural inequality, and disrupted place-based infrastructures of daily life, rather than emerging solely as a post-disaster outcome. These results underscore the need for climate-responsive mental health and psychosocial support that",
+      "abstract": "BACKGROUND: Climate change is an escalating global health threat, with sub-Saharan Africa disproportionately affected due to entrenched spatial inequalities, high exposure to environmental hazards, and limited adaptive capacity. Increasingly frequent extreme weather events (EWEs), including floods and cyclones, are reshaping the material and social conditions of place, with implications for mental health and wellbeing. However, evidence remains limited, particularly multi-country qualitative research that examines how mental health impacts are produced through lived experiences of place in contexts of recurring environmental disruption and structural vulnerability. This study explored the mental health and wellbeing impacts of EWEs among individuals with lived experience of such events in Mozambique, Burkina Faso, South Africa, and Kenya, using participatory methods that centred community narratives and place-based accounts of everyday life. METHODS: This qualitative study employed digital storytelling as a participatory visual method to examine how EWEs are experienced and narrated across diverse socio-spatial contexts. A total of 37 participants (8-10 per country) were recruited from rural, peri-urban, and informal urban settlements with recent exposure to flooding or cyclone events. Participants produced digital stories during facilitated five-day workshops. These narratives were analysed using inductive and deductive thematic analysis informed by Braun and Clarke's framework, with attention to the spatial and relational production of distress and coping. RESULTS: Across Mozambique, Burkina Faso, South Africa, and Kenya, findings show that the mental health impacts of EWEs are deeply embedded in place-based conditions and are cyclical, cumulative, and relational rather than confined to discrete disaster events. Participants described how repeated environmental disruptions reconfigured everyday life in place, generating ongoing uncertainty, anticipatory anxiety during rainfall periods, and acute fear during floods and cyclones. Loss of housing, livelihoods, infrastructure, and social anchors of place contributed to enduring psychological distress, which was frequently reactivated by subsequent environmental cues such as heavy rain, wind, and deteriorating physical environments. Persistent anxiety, hypervigilance, sleep disturbance, and emotional distress were reported across all sites. While social and community networks constituted critical infrastructures of care within place, these were often simultaneously overwhelmed as entire communities experienced shared disruption. Limited and delayed institutional responses further compounded spatial and social precarity. CONCLUSIONS: This study provides a comparative participatory account of how EWEs shape mental health through their embeddedness in place across diverse sub-Saharan African contexts. The findings demonstrate that psychological distress is produced through the interaction of repeated environmental exposure, structural inequality, and disrupted place-based infrastructures of daily life, rather than emerging solely as a post-disaster outcome. These results underscore the need for climate-responsive mental health and psychosocial support that",
       "categories": [
         "justice",
         "resilience"
@@ -8541,7 +8994,7 @@
         "Hartmut Surmann",
         "Julien Meine"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-16",
       "doi": "10.48550/arxiv.2611.21076",
       "url": "https://doi.org/10.48550/arxiv.2611.21076",
@@ -8596,7 +9049,7 @@
         "Muhammad Imran",
         "Ferda Ofli"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-09",
       "doi": "10.48550/arxiv.2611.12144",
       "url": "https://doi.org/10.48550/arxiv.2611.12144",
@@ -8701,7 +9154,7 @@
         "Salman Khan",
         "Girmaw Abebe Tadesse"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-03",
       "doi": "10.48550/arxiv.2611.04977",
       "url": "https://doi.org/10.48550/arxiv.2611.04977",
@@ -8935,6 +9388,28 @@
       "first_seen": "2026-11-22"
     },
     {
+      "id": "doi:10.69739/jebc.v3i2.2558",
+      "title": "Effect of Allocated Trading Places on the Performance of Small and Medium Enterprises in Kamwala, Lusaka, Zambia",
+      "authors": [
+        "Ireen Mubita",
+        "Peter Silwimba"
+      ],
+      "journal": "Journal of economics, business and commerce.",
+      "date": "2026-11-23",
+      "doi": "10.69739/jebc.v3i2.2558",
+      "url": "https://doi.org/10.69739/jebc.v3i2.2558",
+      "oa_url": "https://journals.stecab.com/jebc/article/download/2558/1321",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "The impact of trading place allocation on the performance of small and medium enterprises (SMEs) in Kamwala, Lusaka, is not well documented, even though allocation determines where each enterprise is located in the market. The study evaluated the influence of accessibility on sales performance, the role of strategic positioning in customer attraction, and the impact of trading place infrastructure on business development. A total of 80 SME owners/operators were surveyed using a cross-sectional survey design with both qualitative and quantitative elements. The questionnaire items were coded and analysed using descriptive statistics, a one-sample t-test, a one-factor ANOVA, and simple linear regression. Throughout, “positive” ratings combine the “significantly positive” and “major contribution” responses, and percentages are based on all 80 respondents. The mean accessibility rating was significantly different from neutral, t(79) = −5.49, p < .001: 60.0% of respondents (48 of 80) gave a positive rating to the effect of accessibility on sales, and 56.3% stated that they made 30% or more of their sales from the trading location. Strategic positioning was rated positively by 68.8% of respondents, and 45.0% rated its contribution to customer attraction as major; a one-factor ANOVA comparing the coded ratings for walk-in customer traffic and strategic positioning was significant, F(1, 158) = 10.68, p = .0013. Sixty percent of the traders rated infrastructure positively, and regression analysis revealed a moderate relationship between the share of growth attributed to infrastructure and the infrastructure rating (R² = .280, F(1, 78) = 30.32, p < .001). The findings support Central Place Theory. Clear stall allocation, a better market layout, and investment in water, sanitation, drainage, electricity, and security facilities are recommended",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "doi:10.1016/j.urbmob.2026.100319",
       "title": "Toward a hybrid digital twin of society: Quantifying cognitive–spatial linkages through online–offline feedback networks",
       "authors": [
@@ -8955,6 +9430,34 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1111/ppe.70211",
+      "title": "Ambient Air Pollution, Weather and Placental Abruption ( APWA ): Design, Data Linkage and Preliminary Findings",
+      "authors": [
+        "Cande V. Ananth",
+        "Minxiu Shi",
+        "Michelle Pearl",
+        "John L. Pearce",
+        "Zev Ross",
+        "John T. Shukle",
+        "Emily B. Rosenfeld",
+        "Vanessa Martinez"
+      ],
+      "journal": "Paediatric and Perinatal Epidemiology",
+      "date": "2026-11-22",
+      "doi": "10.1111/ppe.70211",
+      "url": "https://doi.org/10.1111/ppe.70211",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ppe.70211",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "BACKGROUND: Ambient fine particulate matter and gaseous exposures can induce oxidative stress, resulting in a pro-inflammatory response and a thrombotic state. Because these processes can occur during pregnancy, a large epidemiological study was designed to test the hypothesis that ambient air pollution and weather exposures pre-conception and in early pregnancy are associated with chronic abruptions, whereas exposures a few days prior to delivery are associated with acute abruptions. OBJECTIVES: To describe the design, methods and characteristics of the multi-state cohorts in the US, comprising the Ambient Air Pollution, Weather and Placental Abruption (APWA) project. POPULATION: All women who delivered in California, Florida, Massachusetts and South Carolina, USA, from 2000 to 2016. DESIGN: Population-based, retrospective birth cohort study. METHODS: We linked vital records data on live births and foetal deaths to delivery hospitalisations to capture abruption diagnosis. Daily air pollution and weather exposures were modelled using geocoded residence-at-delivery data from 90 days prior to the last menstrual period to 12 months after delivery. We examined ambient fine particulate matter (aerodynamic diameter of ≤ 2.5 μm) and gaseous pollutants (nitrogen dioxide and ozone). Weather-related exposures included the daily mean and maximum temperatures, relative humidity and dew point. PRELIMINARY RESULTS: Across the four states, of 14,756,201 birth records, 94% (n = 13,612,485) deliveries were linked to hospitalisations, air pollution and weather exposures. The prevalence rates of abruption were 1.0% (n = 86,803) in California, 1.0% (n = 31,500) in Florida, 1.4% (n = 16,597) in Massachusetts and 1.2% (n = 10,030) in South Carolina. The distributions of air pollutants and weather-related variables were similar between abruption and non-abruption births. However, these factors exhibited geographic heterogeneity across states and between the warm and cold seasons. CONCLUSIONS: The APWA project aims to examine how air pollution and weather affect abruption. Strong linkage rates and geographic heterogeneity in environmental exposures provide an important foundation for achieving APWA's objectives.",
+      "categories": [
+        "smoke"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.1186/s40580-026-00589-3",
@@ -11065,7 +11568,7 @@
       "authors": [
         "Vikas Sandireddy"
       ],
-      "journal": "arXiv (Cornell University)",
+      "journal": "arXiv",
       "date": "2026-11-09",
       "doi": "10.48550/arxiv.2611.11757",
       "url": "https://doi.org/10.48550/arxiv.2611.11757",
@@ -11940,7 +12443,7 @@
       "date": "2026-11-23",
       "doi": "10.1007/s12132-026-09574-9",
       "url": "https://doi.org/10.1007/s12132-026-09574-9",
-      "oa_url": "https://doi.org/10.1007/s12132-026-09574-9",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s12132-026-09574-9.pdf",
       "is_oa": true,
       "citations": 0,
       "type": "article",
@@ -11950,6 +12453,176 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1590/scielopreprints.18968",
+      "title": "MULTIDIMENSIONAL DIAGNOSIS OF THE WORK OF ARTISANAL WOMEN FISHERS IN THE PARNAÍBA DELTA",
+      "authors": [
+        "Maria Amélia Guimarães do Passo Gondolo",
+        "Danielle Sequeira Garcez"
+      ],
+      "journal": "Preprint / source unavailable",
+      "date": "2026-11-23",
+      "doi": "10.1590/scielopreprints.18968",
+      "url": "https://doi.org/10.1590/scielopreprints.18968",
+      "oa_url": "https://preprints.scielo.org/index.php/scielo/preprint/download/18968/39836/40843",
+      "is_oa": true,
+      "citations": 0,
+      "type": "preprint",
+      "abstract": "Artisanal fishing carried out by women plays a fundamental role in food security and the socioeconomic reproduction of coastal communities; however, it continues to face historical invisibility and institutional vulnerabilities. Grounded in Ostrom’s Social-Ecological Systems (SES) framework, which provides an integrated analysis of the relationships betweennatural resources, users, and the broader socio-ecological context, this study aimed to characterize the work of 126 artisanal women fishers in the Parnaíba Delta (Maranhão/Piauí, Brazil), in an area where an Environmental Protection Area (APA) overlaps with an Extractive Reserve (RESEX), and to assess the sustainability of this activity. The study adopted a mixed-methods approach, combining participant observation with the administration of a questionnaire comprising 50 attributes. The RAPFISH approach was adapted to the study context by reorganizing its components into five analytical dimensions: Environmental, Sociocultural, Recognition/Perception, Well-being/Satisfaction, and Challenges/Risks. This adaptation made it possible to address specific aspects of artisanal women fishers’ work, including domestic workload, occupational vulnerabilities, institutional recognition, and social participation. The results revealed a profile characterized by low levels of formal education, limited income, and a substantial domestic workload. The Environmental dimension achieved the highest score (4.25), indicating community engagement in conservation practices and compliance with closed-season regulations. In contrast, Challenges/Risks (2.29), Well-being (2.60), and Recognition (2.79) yielded the lowest scores, highlighting occupational vulnerability, physical strain, and limited participation in decision-making spaces. It can be concluded that the sustainability of women’s artisanal fishing cannot be understood solely in terms of ecological performance, but also depends on strengthening health and safety conditions, environmental justice, and access to social rights.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1007/s44274-026-01216-y",
+      "title": "Water stress as a pathway between climate vulnerability and fiscal sustainability in the European Union",
+      "authors": [
+        "Gheorghița Dincă",
+        "Asmaa El-Naser",
+        "Dragoș Dincă"
+      ],
+      "journal": "Discover Environment",
+      "date": "2026-11-23",
+      "doi": "10.1007/s44274-026-01216-y",
+      "url": "https://doi.org/10.1007/s44274-026-01216-y",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44274-026-01216-y.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Climate vulnerability can affect fiscal sustainability through both direct effects and environmental pressures. This study examines whether water stress provides a pathway linking climate vulnerability to fiscal sustainability in the EU-27 over 2003–2023. To the best of our knowledge, this is among the first EU-wide studies to examine water stress as a mediating mechanism between climate vulnerability and fiscal sustainability. A Fiscal Sustainability Index is constructed using Principal Component Analysis, and panel estimation methods are used to examine the main relationships while accounting for dynamic effects and potential endogeneity. Structural Equation Modeling is then used to assess whether water stress mediates the relationship between climate vulnerability and fiscal sustainability. The results show that greater climate vulnerability is associated with higher water stress, and higher water stress is associated with lower fiscal sustainability. The indirect effect of climate vulnerability on fiscal sustainability through water stress is negative and statistically significant, indicating significant mediation. However, the direct effect of climate vulnerability on fiscal sustainability is not statistically significant in the dynamic estimation. This suggests that water stress may be an important pathway through which climate vulnerability affects fiscal sustainability. The results point to the need for closer integration of climate adaptation, water management, and fiscal planning in the EU. Improving water infrastructure, increasing water-use efficiency, maintaining fiscal buffers, and accounting for climate- and water-related risks in public investment and budgeting can help strengthen fiscal sustainability, particularly in countries exposed to higher climate and water stress.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.3310/nihropenres.14502.1",
+      "title": "The Lincolnshire Unit for Mental Health Research: a programme pre-protocol for place-based, co-produced, applied mental health research",
+      "authors": [
+        "David L. Dawson",
+        "Kerstin Meints",
+        "Mike Slade",
+        "Lucy Gavens",
+        "Mark G. Gussy",
+        "Robert Dean",
+        "John Atanbori",
+        "Harriet Elizabeth Moore"
+      ],
+      "journal": "NIHR Open Research",
+      "date": "2026-11-23",
+      "doi": "10.3310/nihropenres.14502.1",
+      "url": "https://doi.org/10.3310/nihropenres.14502.1",
+      "oa_url": "https://openresearch.nihr.ac.uk/articles/6-211/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background Mental health research opportunities are unevenly distributed. Lincolnshire, a county in England, combines dispersed rural populations, coastal deprivation, and small urban areas, with substantial variation in mental health need and access to support. The Lincolnshire Unit for Mental Health Research (LUMHR) programme has received five years of foundational National Institute for Health and Care Research (NIHR) funding to establish lasting research capability and generate evidence relevant locally and beyond. Methods This programme pre-protocol describes three connected themes: Connect (access), Prevent (wellbeing), and Respond (crisis and suicide prevention), informed by previous priority-setting with 520 regional stakeholders. Their common approach combines evidence synthesis and local insight, co-design or contextual adaptation, feasibility testing, and assessment of the evidence needed for subsequent decisions. Further synthesis, primary research and externally funded definitive or multicentre evaluation will be pursued where required. A county-wide observatory will connect learning from linked health records, geospatial analysis, crisis intelligence, and the Living in Lincolnshire citizen-science panel. Public involvement, inclusion, responsible research and innovation, health economics, knowledge mobilisation, and research capacity development run throughout. Anticipated outputs and outcomes Anticipated contributions include studies and reusable and transferable methods, governed analytical infrastructure, citizen-science participation, opportunities for research progression and leadership development, follow-on funding proposals, and evidence informing service and community decisions about effectiveness, equity, and resource use. A programme logic model sets out intended achievements across research, capability, service change, population equity, and sustainability. Internal learning will be aligned with NIHR evaluation requirements. Conclusions LUMHR aims to establish enduring capability for communities and partners to shape, conduct, and use mental health research. The programme will develop nationally and internationally relevant questions and methods while retaining flexibility for co-production and study-specific protocols.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1016/j.cities.2026.107849",
+      "title": "Does urban green space spatial equity influence the respiratory health benefits of green exposure? An empirical study in Nanjing, China",
+      "authors": [
+        "Yipei Mao",
+        "Ke Li",
+        "Yan Li",
+        "Tianyuan Shou",
+        "Jieling Xiao",
+        "Jiaxing Wei"
+      ],
+      "journal": "Cities",
+      "date": "2026-11-23",
+      "doi": "10.1016/j.cities.2026.107849",
+      "url": "https://doi.org/10.1016/j.cities.2026.107849",
+      "oa_url": null,
+      "is_oa": false,
+      "citations": 0,
+      "type": "article",
+      "abstract": "",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1038/s43247-026-04164-w",
+      "title": "Adaptive responses to global food availability shocks can unintentionally amplify food inequality",
+      "authors": [
+        "Sophia Baum",
+        "Moritz Laber",
+        "Martin Brückner",
+        "Liuhuaying Yang",
+        "Stefan Thurner",
+        "Peter Klimek"
+      ],
+      "journal": "Communications Earth & Environment",
+      "date": "2026-11-23",
+      "doi": "10.1038/s43247-026-04164-w",
+      "url": "https://doi.org/10.1038/s43247-026-04164-w",
+      "oa_url": "https://doi.org/10.1038/s43247-026-04164-w",
+      "is_oa": true,
+      "citations": 5,
+      "type": "article",
+      "abstract": "Global food production and trade networks are highly dynamic, particularly when countries adjust supply strategies in response to shortages. While shock propagation on food supply networks has been studied, the adaptive potential of these networks is often omitted, which can exacerbate food insecurity. Here, we examine adjustments across 123 agri-food products from 192 countries, resulting in 23,616 shortage scenarios, and calibrate a multi-layer network model to capture shock propagation. Mitigation actions such as increasing imports, boosting production, or substituting items produce spillover effects that worsen inequality: an Indian rice shock yields a 5.8% increase in rice losses in low-Human Development Index (HDI) countries and a 14.2% decrease in high-HDI ones. Interacting shocks generate super-additive losses of up to 12% of total available food volume globally. The framework identifies shock combinations posing systemic risks and underscores the need for targeted buffering strategies in vulnerable nations.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1080/03031853.2026.2760344",
+      "title": "A quantitative analysis of determinants and severity of rural poverty: a household level cross-sectional study in Rushinga rural district in Zimbabwe",
+      "authors": [
+        "Onismo. Muzah"
+      ],
+      "journal": "Agrekon",
+      "date": "2026-11-22",
+      "doi": "10.1080/03031853.2026.2760344",
+      "url": "https://doi.org/10.1080/03031853.2026.2760344",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/03031853.2026.2760344?needAccess=true",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Alleviating all forms of poverty is a priority for developing countries like Zimbabwe, but understanding the factors driving household-level rural poverty is vital for achieving the UN SDGs. This study compares the characteristics of poor and non-poor households, estimates ward-level poverty incidence, depth and severity, and examines the household- and location-level factors associated with consumption poverty in Rushinga Rural District, Zimbabwe. Therefore, a multi-stage sampling technique was used to systematically collect cross-sectional data from 300 participants in three wards. The Foster-Greer-Thorbecke (FGT) poverty class index was used to measure the severity of poverty, and a binary logistic model, along with its associated odds ratios and marginal effects, was used to estimate the determinants of poverty based on per capita food consumption expenditure. The indices showed significant variation in incidence, gap, and inequality when aggregated at the ward level, indicating a geographical poverty trap in the district. The logistic model results further revealed that spatial location, dependency ratio, marital status, total monthly income, asset endowment, access to extension services and maize yield were significantly associated with rural poverty. The study identifies key household and location-specific socio-economic factors associated with rural poverty using household-level data and binary logit estimation.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "doi:10.1080/13467581.2026.2765152",
+      "title": "Perceptions and preferences of urban youth regarding informal green spaces",
+      "authors": [
+        "Zehuan Zhang",
+        "Boxu Sun",
+        "Zhengnan Zhong",
+        "Yukun Zhang"
+      ],
+      "journal": "Journal of Asian Architecture and Building Engineering",
+      "date": "2026-11-22",
+      "doi": "10.1080/13467581.2026.2765152",
+      "url": "https://doi.org/10.1080/13467581.2026.2765152",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/13467581.2026.2765152?needAccess=true",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "The continued provision of formal urban green spaces (UGS) is constrained by land and management conditions, while informal green spaces (IGS) can supplement residents’ everyday contact with nature. Based on a field survey in Nankai District and 116 valid questionnaires from young adults in Tianjin, this study examined perceptions of and preferences for IGS and their relationships with sociodemographic characteristics, green-space participation, residential context, and general green-space attitudes. Young adults showed high recognition of and willingness to use IGS but comparatively limited actual use. Respondents valued IGS for urban nature experiences, environmental regulation, mental restoration, and recreation, while expressing concerns about access, potential landownership conflicts, and site cleanliness. Respondents who had participated in green-space volunteering and those with more frequent personal green-space activities more often reported using IGS; a sense of community belonging associated with nearby nature was also related to recognition of IGS value. With adequate access, basic environmental conditions, and ongoing stewardship, IGS can complement formal UGS by supporting young adults’ everyday contact with nature and community-belonging-related experiences. These findings provide an empirical basis for site-specific urban green-space planning.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.1002/sd.71945",
@@ -12047,6 +12720,30 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-23"
+    },
+    {
+      "id": "doi:10.1016/j.gloepi.2026.100300",
+      "title": "Determinants of wasting among under-five children in Ethiopia using simultaneous quantile regression: EDHS 2024/25",
+      "authors": [
+        "Birhanu Betela Warssamo",
+        "Denekew Bitew Belay",
+        "Awoke Seyoum Tegegne",
+        "Aweke Abebaw Mitku"
+      ],
+      "journal": "Global Epidemiology",
+      "date": "2026-11-21",
+      "doi": "10.1016/j.gloepi.2026.100300",
+      "url": "https://doi.org/10.1016/j.gloepi.2026.100300",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2590113326000593/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background Although previous studies in Ethiopia have examined factors associated with child wasting, evidence on their distributional patterns using the most recent 2024/25 Ethiopian Demographic and Health Survey (EDHS) data remains limited. This study aimed to identify factors associated with weight-for-height z-scores (WHZ) among under-five children in Ethiopia and examine how these associations vary across the conditional WHZ distribution. Methods We analyzed data from 5884 under-five children in the 2024/25 Ethiopian Demographic and Health Survey using sampling weights. Simultaneous quantile regression was fitted at different conditional quantiles. Diagnostic tests, a joint Wald test, and the Breusch–Pagan test were conducted to assess the suitability of the approach. Results Among 5884 children considered in the study, 5.5% (95% CI: 4.0%–6.5%) of children were wasted. Children born smaller than average had lower WHZ scores across all quantiles. Recent fever was associated with lower WHZ scores at lower to middle quantiles, most strongly at lower quantile (τ = 0.10: β = −0.31). Children aged 6–23 months had lower WHZ scores than those aged 0–5 months in the mean model (β = −0.37; 95% CI: −0.48, −0.26) and at τ = 0.25 (β = −0.21; 95% CI: −0.39, −0.03). Female children did not differ from males in the mean model (β = 0.03; 95% CI: −0.03, 0.09) or at τ = 0.25 (β = 0.06; 95% CI: −0.02, 0.14), but had higher WHZ scores at τ = 0.10 (β = 0.14; 95% CI: 0.03, 0.25). Conclusion Determinants of child wasting varied substantially across the WHZ scores distribution. Findings support distribution-sensitive nutrition interventions, prioritizing perinatal care and infection control for severely wasted children, alongside household socioeconomic and paternal-engagement interventions for children at less extreme risk, rather than a uniform, mean-focused strategy.",
+      "categories": [
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-24"
     },
     {
       "id": "doi:10.1186/s13040-026-00618-1",
@@ -13073,671 +13770,6 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-19"
-    },
-    {
-      "id": "doi:10.53779/mima1610",
-      "title": "Minority Vulnerability and Ethical Hope: Maus and Terezínské ghetto in Czech Holocaust Education",
-      "authors": [
-        "Milan Mašát"
-      ],
-      "journal": "Journal on Ethnopolitics and Minority Issues in Europe",
-      "date": "2026-11-17",
-      "doi": "10.53779/mima1610",
-      "url": "https://doi.org/10.53779/mima1610",
-      "oa_url": "https://www.ecmi.de/JEMIE/index.php/journal/article/download/303/131",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "This article compares two excerpts for Czech lower-secondary Holocaust education: a page from Art Spiegelman’s Maus and an excerpt from Veronika Válková and Petr Kopl’s Terezínské ghetto: Tajemný vlak do neznáma. Using comparative close reading, multimodal analysis and a minoritysensitive lens, it examines imposed Jewish visibility, racialisation, constrained agency, and ethical hope. In Maus, a disguised Vladek is publicly identified as Jewish by children and survives through performative alignment with the Nazi order; in Terezínské ghetto, Bára’s child focalisation and recognition of Terezín (German: Theresienstadt) scaffold historical concepts through an outsider perspective. The article argues for different pedagogical affordances rather than demonstrated learning effects and defines “ethical hope” as a bounded possibility for action, relation, or temporary survival that neither denies catastrophe nor produces redemptive closure. The comparison shows how literary form can support historically specific discussion of antisemitism and minority vulnerability when interpretation remains anchored in historical context and textual evidence.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "doi:10.1002/berj.70313",
-      "title": "Living with permanent temporariness: School principals' sensemaking and sensegiving under ontological uncertainty in a refugee‐receiving context",
-      "authors": [
-        "Melike Aslı Baran",
-        "Nihan Demirkasımoğlu"
-      ],
-      "journal": "British Educational Research Journal",
-      "date": "2026-11-17",
-      "doi": "10.1002/berj.70313",
-      "url": "https://doi.org/10.1002/berj.70313",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/berj.70313",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Abstract This study examines how school principals make sense of and communicate demographic change under ontological uncertainty, where it remains unclear whether change is temporary or a durable reconfiguration. Using an exploratory single‐case design, we analysed interviews with 27 principals and 20 teachers across six Turkish provinces receiving students under temporary protection. Findings reveal a four‐dimensional architecture of sensemaking leadership comprising sensemaking, sensegiving, perceived organizational consequences, and difficulties and facilitating strategies. Principals relied on enactment, selection, retention, and counterfactual scenario building, while sensemaking extended across school boundaries through informal networks. Participants retrospectively described crisis becoming routine as demographic change became embedded in everyday school life, though weak institutional support repeatedly returned interpretive responsibility to individual leaders. The study introduces ontological uncertainty as a distinct condition of educational leadership and shows how prospective sensemaking operates when the status of change remains unresolved.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "doi:10.1007/978-3-032-30069-0_1",
-      "title": "Food Security, Migration and the COVID-19 Pandemic: An Introduction",
-      "authors": [
-        "Zhenzhong Si",
-        "Sujata Ramachandran",
-        "Jonathan Crush"
-      ],
-      "journal": "Springer eBooks",
-      "date": "2026-11-17",
-      "doi": "10.1007/978-3-032-30069-0_1",
-      "url": "https://doi.org/10.1007/978-3-032-30069-0_1",
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-032-30069-0_1.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "book-chapter",
-      "abstract": "The introductory chapter outlines the context and rationale for the book. It examines how the COVID-19 pandemic led to profound food security and socioeconomic challenges for migrants and refugees while exacerbating longstanding structural inequalities. These groups were often disproportionately affected by the pandemic and excluded from, or marginalised within, relief measures. The chapter articulates the book’s overarching goal and introduces five key themes addressed across the chapters, including the ways in which the pandemic reconfigured the migration-food security nexus, the food security implications of COVID-19 policy responses, the compounded vulnerabilities of marginalised migrant groups in the informal sector, gendered differences in these impacts and vulnerabilities, and policy lessons for strengthening food security and health in future crises. For each theme, we begin with a brief review of the existing scholarship and then introduce the chapters that engage with it through their empirical analyses. The chapter concludes by outlining the book’s structure and highlighting its relevance for researchers, policymakers, and practitioners working at the intersection of migration and food security.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.1016/j.ijdrr.2026.106566",
-      "title": "Closing the Language Gap: Evaluating Earthquake Experiences and Warning Effectiveness in the County of San Diego",
-      "authors": [
-        "M. R. Brudzinski",
-        "D. F. Sumy",
-        "Shelley E. Olds",
-        "Kaily Gomez",
-        "Michael Robles",
-        "Patty Jordan",
-        "Yuliana Briceno"
-      ],
-      "journal": "International Journal of Disaster Risk Reduction",
-      "date": "2026-11-17",
-      "doi": "10.1016/j.ijdrr.2026.106566",
-      "url": "https://doi.org/10.1016/j.ijdrr.2026.106566",
-      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2212420926005789/pdf",
-      "is_oa": true,
-      "citations": 1,
-      "type": "article",
-      "abstract": "Earthquake early warning (EEW) aims to reach individuals before strong shaking to enable protective actions such as ‘Drop, Cover, and Hold On’ (DCHO). Individuals who self-identify as limited English proficient (LEP) may not respond to alerts due to language barriers. The County of San Diego (CSD), California, serves a diverse community of over 3.3 million people that speaks varied languages. Collaborating with the National Opinion Research Center, we surveyed CSD residents about their earthquake experience, alert experience, and familiarity with the CSD Office of Emergency Services SD Emergency app. We offered surveys in six languages, yet received 860 responses in English only. However, ∼30% of respondents were from LEP households (over two-thirds self-identified as LEP) that were geographically and demographically different from English-proficient (EP) households. We found statistically similar responses from LEP and EP households across nearly all topical categories, demonstrating language is a surmountable barrier for CSD alerting. Although more EP respondents felt an earthquake (91% versus 84%), more LEP respondents received an earthquake alert (38% versus 27%). Only 3-4% of both groups reported DCHO in response to shaking, which increased to 7% when receiving an alert, highlighting the importance of earthquake alerts for protective action. LEP respondents downloaded the SD Emergency app more often (65% vs. 49% for EP), but deleted the app more often (19% vs. 9%). Our findings indicate CSD has been successful in enabling similar alert experiences for LEP communities, yet opportunities remain to promote DCHO and increase how many people receive EEW.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-22"
-    },
-    {
-      "id": "doi:10.3389/fbuil.2026.1940107",
-      "title": "A description of the health-related built environment surrounding Ontario social housing sites",
-      "authors": [
-        "Gina Agarwal",
-        "Melissa Pirrie",
-        "Patrick Deluca",
-        "Manasvi Sai Vanama",
-        "Ricardo Angeles",
-        "Francine Marzanek",
-        "Homa Keshavarz"
-      ],
-      "journal": "Frontiers in Built Environment",
-      "date": "2026-11-16",
-      "doi": "10.3389/fbuil.2026.1940107",
-      "url": "https://doi.org/10.3389/fbuil.2026.1940107",
-      "oa_url": "https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2026.1940107/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Introduction The built environment is a key determinant of health, particularly for older adults living in social housing who often experience high rates of chronic disease. This study aimed to assess the health-related built environment surrounding social housing sites across Ontario, focusing on the availability and accessibility of healthcare facilities, pharmacies, grocery stores, public transit, and recreational spaces. Methods An environmental scan was conducted to identify relevant datasets describing the health-related characteristics of social housing locations. Results Findings revealed differences between Ontario health regions and between all sites (n = 2,109) and senior sites (n = 472). Social housing sites in Toronto had the greatest access to amenities within 1 kilometre (km), such as grocery stores (median = 5, IQR = 3–10), pharmacies (median = 5, IQR = 3–9), and social services (median = 12, IQR = 6–27), while sites in Central and West Ontario, despite serving larger populations, had fewer accessible services. Across all sites, the mean distances to hospitals were 3.97 km (SD = 4.15), to ambulatory care facilities were 2.09 km (SD = 3.21), and to family and community healthcare teams were 7.22 km (SD = 13.60). These distances varied across Ontario regions, with Toronto having the shortest distances, while senior sites were quite similar across all sites. Discussion Health-related amenities in the built environment should be considered in social housing planning to support health equity. Similarly, embedding services directly within or near social housing, particularly for Low-Income Naturally Occurring Retirement Communities (LI-NORCs), may improve access and outcomes.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.1111/sjtg.70097",
-      "title": "Time‐bound: Entanglements of digitalization and urbanization across global peripheries †",
-      "authors": [
-        "Ayona Datta"
-      ],
-      "journal": "Singapore Journal of Tropical Geography",
-      "date": "2026-11-16",
-      "doi": "10.1111/sjtg.70097",
-      "url": "https://doi.org/10.1111/sjtg.70097",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sjtg.70097",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "This paper addresses lacunae in critically thinking about temporal entanglements between digitalization and urbanization in global peripheries. It proposes the concept of the time‐bound as a critical lens to unpack the temporal power of digitalization and urbanization. Bringing together scholarship from postcolonial science and technology studies (STS), new materialities and the global periphery to examine the time‐bound entanglements of digitalization and urbanization, it will anchor the analysis in three temporally and geographically differentiated cases from Kenya, India and Taiwan. All three are subject to projects of land digitalization within locations that are produced through complex historical, political and structural inequalities. Drawing upon these cases, this paper argues that while digitalization flattens the periphery as a space of ‘timeless time,’ communities experience anticipation, interruption, waiting and expulsion. By tracing temporal entanglements across a diversity of spaces, scales and materialities, this paper examines the temporal boundary un/making project of digitalizing states, produced through the entanglements between digitalization and urbanization within marginal and vulnerable populations.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.54825/kbow5607",
-      "title": "Vocabularies on Climate and Housing Justice from a Landfill in Bhalswa, New Delhi, India",
-      "authors": [
-        "Rashee Mehra",
-        "Ruchika Lall"
-      ],
-      "journal": "Radical Housing Journal",
-      "date": "2026-11-16",
-      "doi": "10.54825/kbow5607",
-      "url": "https://doi.org/10.54825/kbow5607",
-      "oa_url": "https://radicalhousingjournal.org/wp-content/uploads/2026/11/RHJ_Issue-8.2_05_Long-Read_Mehra_75-92.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Cities of the Global South are at the forefront of the climate and environmental crisis, where climate change acts as a threat multiplier on existing social, economic, political and spatial inequalities. This paper asks how to frame and address the climate crisis amidst long-standing housing inequalities in the Global South, through the case of housing for waste workers adjacent to the Bhalswa landfill in Delhi, India. Various housing typologies exist adjacent to Bhalswa and are shaped by tenure precarity, inadequate basic services, and direct exposure to landfill fires, groundwater contamination and debris, even as access to the landfill remains central to residents' livelihoods. Drawing on a year-long ethnographic study of health histories with 15 waste-worker households, we argue that residents articulate climate and housing vulnerability through their own vocabulary rather than the technical language of climate science. We trace four Hindi words that recurred across our interviews-Khatā (the landfill as place), kām (work), Kirāyā (rent), and jhelnā (to endure) as an emplaced register for naming climate change, not a translation of it. The paper argues that housing and climate justice cannot be addressed separately in the Global South, and that vocabulary-building is itself a form of epistemic and political recognition.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.36956/rwae.v7i4.105677",
-      "title": "Stuck in Plantations: Why Palm Oil Investment Fails to Deliver Decentralised Inclusive Development?",
-      "authors": [
-        "Rosyadi Rosyadi",
-        "Windhu Putra",
-        "Nurul Bariyah"
-      ],
-      "journal": "Research on World Agricultural Economy",
-      "date": "2026-11-16",
-      "doi": "10.36956/rwae.v7i4.105677",
-      "url": "https://doi.org/10.36956/rwae.v7i4.105677",
-      "oa_url": "https://journals.nasspublishing.com/index.php/rwae/article/download/105677",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "This study aims to analyze four palm oil investment schemes in Meliau Subdistrict, Sanggau Regency, West Kalimantan, namely the Transmigration-People's Core Plantation/Perkebunan Inti Rakyat-Transmigrasi (PIR-Trans), People's Core Plantation-Plantation/Perkebunan Inti Rakyat-Perkebunan (PIR-Bun), Credit Cooperative for Members/Koperasi Kredit pada Anggota (KKPA), and Independent Farmers/Petani Mandiri (PR), as well as their structural implications for farmers’ socioeconomic well-being. This study employs a multiple-case qualitative method using in-depth interviews, focus group discussions (FGDs), and document analysis. Findings from the study, informed by the Collaborative Inclusive Sustainable Development-Rosyadi Model (CISD-RM), reveal significant differences in land-sharing mechanisms between corporations and landowners, with a dominant 80:20 pattern that disproportionately benefits corporations. Most plasma schemes still lack transparency regarding funding, which encourages long-term dependence among farmers. Institutional fragmentation, elite dominance, and farmers’ weak bargaining positions exacerbate inequities in the distribution of proceeds. Although employment has increased, the majority of palm oil products are still sold outside the region, so the local value added remains relatively limited. This study provides a comprehensive analysis of four oil palm investment schemes. The findings highlight weaknesses in agrarian governance and emphasize the need for more equitable and territorially integrated investment schemes through downstream development and fairer land distribution.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.21203/rs.3.rs-11010034/v1",
-      "title": "Craniofacial Growth Transformer: A Growth-Aware Framework for Longitudinal Craniofacial Analysis and Forecasting",
-      "authors": [
-        "Mostafa A. Salama"
-      ],
-      "journal": "Research Square",
-      "date": "2026-11-16",
-      "doi": "10.21203/rs.3.rs-11010034/v1",
-      "url": "https://doi.org/10.21203/rs.3.rs-11010034/v1",
-      "oa_url": "https://www.researchsquare.com/article/rs-11010034/latest.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Abstract Accurate characterization of craniofacial growth is important for orthodontic planning, craniofacial assessment, and long-term monitoring of facial development. Most existing methods rely on sparse or cross-sectional data. As a result, they do not fully capture how facial structures change over time or how different facial regions develop together.This study presents a growth-aware framework for longitudinal craniofacial analysis and forecasting. The framework is based on a dense longitudinal dataset containing nearly ten years of near-daily facial observations from three individuals. Using this dataset, we analyze temporal dependencies, age-related differences, developmental consistency across individuals, and relationships among craniofacial measurements.The results show that several craniofacial measurements follow similar developmental trajectories across individuals. This finding suggests the presence of shared growth patterns despite individual differences. The analysis also identifies stable relationships between anatomically related regions, including bilateral ocular structures and mandibular-facial dimensions. These findings indicate that craniofacial growth follows a coordinated process rather than independent changes in individual features.Based on these findings, we propose a Long Short-Term Memory–Temporal–Spatial Transformer (LSTM-TS-TF) model. The model captures temporal continuity, long-range developmental dependencies, and spatial interactions between facial measurements. Experimental results show that the proposed model improves forecasting accuracy and reduces prediction error by approximately 63--72% compared with conventional LSTM models.These findings show that dense longitudinal modeling can identify interpretable growth descriptors and coordinated developmental patterns. The results also support the use of growth-aware deep learning models for data-driven craniofacial analysis and predictive modeling in biomedical applications.",
-      "categories": [
-        "geoai"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.1002/pan3.70459",
-      "title": "Narratives of salmon production and care in indigenous hatchery programmes",
-      "authors": [
-        "Valerie Berseth",
-        "Sugeet Miglani",
-        "Tom Chance",
-        "Adrian P. Spidle",
-        "Hannah L. Harrison"
-      ],
-      "journal": "People and Nature",
-      "date": "2026-11-16",
-      "doi": "10.1002/pan3.70459",
-      "url": "https://doi.org/10.1002/pan3.70459",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.70459",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Abstract Amidst global biodiversity declines, human‐assisted reproduction programmes such as salmon hatcheries are the focus of a highly technical and often fraught debate due to concerns about genetic and ecosystem impacts. Indigenous Peoples in some parts of North America have a vital relationship with salmon, deeply connected with governance, self‐determination, and Treaty rights. However, Indigenous perspectives are largely absent in hatchery literature. We employed a narrative analysis of public‐facing materials produced by Indigenous communities and organizations with hatchery programmes in Canada and the United States, finding three narrative threads that describe: the decline of salmon from pre‐colonial abundance and the adoption of hatcheries in response; the rise of genetic concerns and public controversies; and the role of hatcheries in the context of climate change and accelerating habitat degradation. These findings support a reframing of the hatchery debate towards recognizing distinct Indigenous Knowledge and relationships to hatcheries, alongside efforts to address disparities in power and resources in salmon conservation and stewardship. Read the free Plain Language Summary for this article on the Journal blog.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.21203/rs.3.rs-11348716/v1",
-      "title": "Machine learning based Prediction of Severe Child Food Poverty and Associated Factors among Children Aged 6–23 Months in Ethiopia",
-      "authors": [
-        "Selamawite Fekadie Tewoligne",
-        "Dejen Kahsay Asgedom",
-        "Degsew Ewunetie Anteneh",
-        "Mulualem Endeshaw Zeleke",
-        "Alemken Eyayu Abuhay",
-        "Berihun Agegn Mengistie",
-        "Haymanot Nega Alemu",
-        "Kindu Yinges Wondie"
-      ],
-      "journal": "Research Square",
-      "date": "2026-11-16",
-      "doi": "10.21203/rs.3.rs-11348716/v1",
-      "url": "https://doi.org/10.21203/rs.3.rs-11348716/v1",
-      "oa_url": "https://www.researchsquare.com/article/rs-11348716/latest.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Abstract Background Severe child food poverty is a significant nutritional concern, particularly during the complementary feeding period of 6–23 months, when inadequate dietary diversity can adversely affect child growth and development. Identifying children at greater risk may support timely and targeted nutrition interventions. This study aimed to predict severe child food poverty using machine learning models and identify its associated factors among children aged 6–23 months in Ethiopia. Methods A nationally representative sample of 3,792 children aged 6–23 months from the 2024-25 Ethiopia Demographic and Health Survey was analyzed. Severe child food poverty was defined as consumption of foods from 0–2 of eight recommended food groups during the preceding 24 hours. Descriptive and inferential analyses were conducted to identify associated factors. Seven machine learning algorithms—Random Forest, XGBoost, Decision Tree, Artificial Neural Network, LightGBM, K-Nearest Neighbors, and Logistic Regression—were developed and evaluated. The training data were balanced using SMOTE, while tenfold cross-validation and RandomizedSearchCV were used for model tuning. Model performance was assessed using accuracy, precision, recall, F1-score, ROC-AUC, and PR-AUC. Results Among the 3,792 children aged 6–23 months, 1,780 (46.94%) experienced severe child food poverty. Child age, mass-media exposure, maternal education, wealth index, maternal age household size, and antenatal care attendance were significantly associated with severe child food poverty. Children aged 6–11 months, those from poorer households and larger households, and those born to younger or less-educated mothers had higher likelihood of severe food poverty. In contrast, greater maternal mass-media exposure and adequate ANC attendance were associated with lower likelihood of severe food poverty. Among the evaluated machine learning models, Random Forest showed the best predictive performance, achieving 93.54% accuracy, 93.61% precision, 93.49% recall, and 93.53% F1-score, followed by XGBoost and Decision Tree. Conclusion Severe child food poverty affected nearly half of children aged 6–23 months in Ethiopia. The strong performance of Random Forest demonstrates the potential of machine learning to identify children at high risk of severe food poverty and to capture complex relationships among maternal, household, and child-related factors. Integrating predictive approaches with targeted nutrition interventions may help improve dietary adequacy during the critical complementary feeding period.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.52324/001c.175421",
-      "title": "Housing Livability Index and County Demographic Change: A County-Level Indicator of Housing Market Health",
-      "authors": [
-        "Zheng Tian",
-        "Stephan J. Goetz"
-      ],
-      "journal": "Review of Regional Studies",
-      "date": "2026-11-16",
-      "doi": "10.52324/001c.175421",
-      "url": "https://doi.org/10.52324/001c.175421",
-      "oa_url": "https://rrs.scholasticahq.com/article/175421.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Housing conditions both affect and are affected by population dynamics in important ways. This paper develops a novel county-level housing livability index (HLI) based on three dimensions: housing cost burden, new construction activity, and housing adequacy. Using 2019–2023 American Community Survey five-year estimates and county demographic and economic changes measured between the 2009–2013 and 2019–2023 ACS periods, we examine associations between the index and population in-migration, growth in the early prime-working-age population, and growth in incomes and housing values. Results based on this index show substantial rural-urban disparities in housing livability and consistent associations with county demographic trajectories across multiple index specifications.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.65339/ijsis.v1.i4.295",
-      "title": "Cultural Alienation Among Siargao Residents Amid Rapid Tourism Development",
-      "authors": [
-        "Joseph France I. Aclo",
-        "Aiko C. Ancog",
-        "Sarah Jane C. Durero",
-        "Kayla J. Espaldon",
-        "Maria Lelanie A. Goyonan"
-      ],
-      "journal": "International Journal of Sustainable and Integrated Studies",
-      "date": "2026-11-16",
-      "doi": "10.65339/ijsis.v1.i4.295",
-      "url": "https://doi.org/10.65339/ijsis.v1.i4.295",
-      "oa_url": "https://graspepress.com/ijsis/article/download/445/410",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "This study examined the perceived effects of rapid tourism growth on residents’ daily lives and cultural identity and assessed the extent of cultural alienation across demographic groups in Siargao Island, Philippines. A mixed-methods design was employed involving 200 residents selected through convenience sampling from Dapa, General Luna, and Pilar, with 10 selected informants providing qualitative insights. Data were collected using a researcher-made questionnaire and interviews and analyzed through descriptive statistics, Mann–Whitney U tests, Kruskal–Wallis tests, and thematic analysis. Findings revealed high perceived effects of tourism growth on cost of living (M = 3.61), local culture (M = 3.59), green economy (M = 3.54), and residents’ values (M = 3.54). Cultural alienation was also high, particularly in cultural identity (M = 3.56) and manner of speaking (M = 3.55). Significant differences in cultural alienation were identified across municipalities (p < 0.05), but not according to age, sex, civil status, educational attainment, or occupation. The findings indicate that tourism development is associated with perceived cultural transformation and socioeconomic pressures that vary geographically. Strengthening municipality-specific heritage preservation, community participation, and sustainable tourism initiatives is recommended. Convenience sampling, self-reported perceptions, and limited geographic coverage constrain generalizability. The study contributes localized evidence to culturally responsive tourism planning and supports Sustainable Development Goals 8, 11, and 12 by informing approaches that balance economic development, cultural heritage protection, and environmental sustainability.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.1038/s44458-026-00194-9",
-      "title": "Climate-induced sea-level rise amplifies coastal vulnerability across West and Central Africa",
-      "authors": [
-        "Olusegun A. Dada",
-        "Rafaël Almar",
-        "Dimitri VLAHOPOULOS",
-        "Milan Kalaš",
-        "Gabriele Mantovani Banella",
-        "Peter Salamon",
-        "Evangelos Voukouvalas"
-      ],
-      "journal": "Communications Sustainability",
-      "date": "2026-11-16",
-      "doi": "10.1038/s44458-026-00194-9",
-      "url": "https://doi.org/10.1038/s44458-026-00194-9",
-      "oa_url": "https://www.nature.com/articles/s44458-026-00194-9.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Coastal Vulnerability Indices are widely applied to identify erosion, flooding, and risk hotspots, yet they are typically formulated as static metrics that overlook temporal variability and limit their utility for anticipatory risk management. Here, we demonstrate that a temporally resolved and impact-validated Coastal Vulnerability Index captures seasonal, interannual, and long-term variability in coastal risk along the West and Central African coasts from 1993 to 2020. The index integrates time-varying physical drivers with socioeconomic factors and is validated against systematically extracted media-reported flooding, population displacement, and infrastructure damage. Although vulnerability varies regionally across the northwestern and western coasts, the Bight of Benin and the Bight of Bonny, the analysis reveals increased vulnerability during the rainy season. At interannual scales, vulnerability is strongly modulated by large-scale climate modes, especially the Atlantic Meridional Mode and North Atlantic Oscillation. Over 28 years, coastal vulnerability increases by 7.6%, mainly linked to rising sea-level anomalies. This framework enables impact-based coastal risk anticipation across temporal scales. Coastal vulnerability along West and Central Africa varies seasonally and across years with large-scale climate variability, according to a temporally resolved and empirically validated Coastal Vulnerability Index.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.1371/journal.pmed.1004958",
-      "title": "Association of food consumption patterns with height growth of children and adolescents: A population-based observational study over four decades of food transitions in China",
-      "authors": [
-        "Tianze Li",
-        "Jiajia Dang",
-        "Yan Li",
-        "Wenhua Ling",
-        "Leah Li",
-        "Cunrui Huang",
-        "Yit Siew Chin",
-        "Yueqin Zhou"
-      ],
-      "journal": "PLoS Medicine",
-      "date": "2026-11-16",
-      "doi": "10.1371/journal.pmed.1004958",
-      "url": "https://doi.org/10.1371/journal.pmed.1004958",
-      "oa_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1004958&type=printable",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "BACKGROUND: Height is a key marker of early-life nutrition and health. China's four-decade food transition provides an opportunity to examine associations between food consumption and child/adolescent height. We aimed to identify food consumption patterns associated with greater height and favorable sustainability profiles and develop a score quantifying food-height associations. METHODS AND FINDINGS: We conducted an observational study using height data from ~1.7 million Chinese students aged 7-18 years in the Chinese National Survey on Students' Constitution and Health (1985-2019) and provincial food consumption data from the National Bureau of Statistics (1985-2023). Temporal trends were examined across three socioeconomic transition phases (1985-1999, 2000-2010, and 2011-2023). Elastic net regression, weighted quantile sum regression, and principal component analysis were used to identify food groups and consumption patterns associated with height, followed by assessments of environmental and economic profiles. Associations were adjusted for provincial socioeconomic and environmental factors, including per capita gross domestic product, educational attainment, sunshine duration, and temperature. A Food Consumption-Height (FCH) score was developed using machine-learning models and Shapley Additive Explanations (SHAP)-derived food-group weights to quantify each food consumption associated with height and preliminarily validated in an independent observational sample from Guangzhou. From the 1980s to the 2020s, China's food consumption became more diverse alongside increasing height. Eggs and seafood showed stable associations with height across periods, while milk and fruits became increasingly important after 2000. Nine food consumption patterns were identified across the three periods. A pattern characterized by higher consumption of fruits, nuts, eggs, and milk (FUEL) showed the strongest and most consistent association with greater height in the most recent period (ρ = 0.518, 95% CI [0.453, 0.580]; p < 0.001) and was linked to lower environmental and economic burdens. Height-associated food consumption patterns generally exhibited more favorable nutritional profiles, particularly higher calcium density and calcium-to-phosphorus ratios. Further nutrient-level analyses showed positive associations of protein, calcium, and zinc densities with height and an inverse association for carbohydrate density across all three periods. The FCH score was positively associated with height (β = 0.075, 95% CI [0.069, 0.082]; p < 0.001), and this association showed preliminary consistency in 3,917 participants aged 10-16 years from the Guangzhou Student Nutrition and Health Survey. The main limitations of this study are the observational design and reliance on population-level food consumption data, which limit causal inference between dietary patterns and height outcomes. CONCLUSIONS: The FUEL food consumption pattern was associated with greater height in children and adolescents while placing relatively low environmental and economic demands. The nutrient findings suggest nutritional quality, beyond total",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.1037/neu0001138",
-      "title": "Brain predictors of episodic memory change across race/ethnic groups: A machine learning investigation.",
-      "authors": [
-        "Evan M. Fletcher",
-        "Marianne Chanti‐Ketterl",
-        "Philippe G. Sarrazin",
-        "Brandon E. Gavett",
-        "Sarah Farias",
-        "Zvinka Z. Zlatar",
-        "Shraddha Sapkota",
-        "Pauline Maillard"
-      ],
-      "journal": "Neuropsychology",
-      "date": "2026-11-16",
-      "doi": "10.1037/neu0001138",
-      "url": "https://doi.org/10.1037/neu0001138",
-      "oa_url": "https://psycnet.apa.org/fulltext/2028-55886-001.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Objective: It is known that brain measures predict cognitive trajectories and that these predictions are not uniform across ethnoracial groups. But it remains unclear whether group differences reflect differing brain-cognition associations or similar associations but different demographic and brain health distributions. Method: We used eXtreme Gradient Boosting regression tree modeling to predict episodic memory (EM) trajectories from 64 brain measures, including regional gray matter thickness and white matter tract diffusion-tensor free water, with age, sex, education, and ethnoracial indicators in four well-established, ethnically and racially diverse U.S.-based cohorts . eXtreme Gradient Boosting combines many simple regression trees to model nonlinear relationships among predictors and outcome; predictor importance was ranked using SHapley Additive exPlanation values. Results: In a sample of 1,463 participants (mean age, 77.0 ± 8.4 years; 503 African American , 168 Asian, 289 Hispanic, and 503 White), a computationally based gray matter signature and white matter tract hippocampal cingulum free-water brain measures ranked first and second in global importance to predict EM trajectory, followed by uncinate fasciculus free water. Generalized additive model analyses by ethnoracial group and age strata showed equivalent pairwise SHapley Additive exPlanation-brain dependency curves for the top two brain measures. Mean absolute deviations were less than 5% of between-participant standard deviation for EM slope , indicating that brain-outcome SHapley Additive exPlanation dependencies were similar across age and ethnoracial groups. Conclusion: EM trajectory prediction profiles reflect different sample compositions of brain health measures rather than different brain–EM associations. This suggests that observed variability in brain-EM predictors derives from group-specific distributions of demographic predictors and brain health. Key Points Question: Are observed differences across ethnoracial groups in brain-cognition associations related to differences in underlying brain correlates of cognition or to population differences in brain health markers ? Findings: Individual mappings of brain markers onto predictive importance for longitudinal episodic memory were largely similar in three age strata and four ethnoracial groups, but group levels of brain health differed. Importance: By pointing to group-level distributions of brain health metrics as the source of observed association variance, these results may help resolve ambiguity in the interpretation of that variance while suggesting targeted population interventions to support brain health. Next Steps: This study lays out a framework for analyzing the predictive importance of brain and life exposure predictors for cognition using machine learning, enabling detailed models tailored to individual populations.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.5526/err-00044151",
-      "title": "The role of the residential environment in ageing across the adult life span in the UK",
-      "authors": [
-        "Wen Wang"
-      ],
-      "journal": "Open Access at Essex (University of Essex)",
-      "date": "2026-11-16",
-      "doi": "10.5526/err-00044151",
-      "url": "https://doi.org/10.5526/err-00044151",
-      "oa_url": "https://repository.essex.ac.uk/44151/1/Wen%20Wang_Thesis_WANGW06905_21167854.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "dissertation",
-      "abstract": "Ageing is a multidimensional process involving biological, cognitive, functional, and subjective domains, yet evidence has largely been conducted in older age groups. This thesis examined how multidimensional ageing is measured and socially patterned by area deprivation and individual socioeconomic position across the entire adult age range. Three linked quantitative studies used data from the UK Household Longitudinal Study. Study 1 examined associations between multisystem physiological and DNA methylation measures of biological ageing and cognitive, physical, mental, and general health among adults aged 16 years and older. Study 2 examined cross-sectional and longitudinal associations between three indices of area deprivation and multidomain ageing. Study 3 used intersectional multilevel analysis of individual heterogeneity and discriminatory accuracy (I-MAIHDA) to examine inequalities across strata jointly defined by area deprivation and individual socioeconomic position. The findings show that biological ageing indicators, cognitive performance, physical functioning, and self-rated health are related but non-equivalent domains. Associations with functioning were most consistent for multisystem physiological dysregulation, PhenoAge, and DunedinPACE, whereas first-generation DNA methylation age deviations showed weaker and less consistent relationships. Area deprivation was consistently associated with less favourable outcomes across biological, cognitive, and subjective domains after adjustment for individual characteristics. Longitudinally, deprivation-related inequalities in self-rated physical functioning were persistent, with evidence of faster decline for some deprivation measures. Intersectional analyses showed substantial differences across social strata, most of which were accounted for by additive gradients, although residual heterogeneity remained for some functional outcomes. The findings support an understanding of ageing as multidimensional, socially patterned, and embedded within residential and life-course contexts. Inequalities in ageing are evident before conventional old age and cannot be understood from a single ageing measure or social dimension alone. Reducing inequalities in ageing requires interventions addressing both individual resources and the structural conditions of disadvantaged areas throughout the adult life span.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "doi:10.6093/978-88-6887-464-3",
-      "title": "Equity, access, and intersectional pedagogies in STEM education: Proceedings of the1st International Conference «Gender and Minorities in Science Education - Globalperspectives and local practices»: Napoli, October 14, 2025",
-      "authors": [
-        "Emilio Bolzano",
-        "Antonella Liccardo",
-        "Giancarlo Artiano",
-        "Chiara Boni",
-        "Angela Gargano"
-      ],
-      "journal": "Directory of Open access Books (OAPEN Foundation)",
-      "date": "2026-11-16",
-      "doi": "10.6093/978-88-6887-464-3",
-      "url": "https://doi.org/10.6093/978-88-6887-464-3",
-      "oa_url": "https://www.fedoabooks.unina.it/index.php/fedoapress/catalog/download/841/1002/4567",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "The first edition of the Gender and Minorities in Science Education conference aimed to enhance critical discussions on equity, access, and intersectional pedagogies in education—particularly STEM—for women and underrepresented minorities. Through an intercultural lens that helped compare experiences across different countries and disciplines, the initiative explored how science is defined, taught, and practiced and which obstacles prevent participation and representation. It also aimed to reflect on the current global context and its influence on educational landscapes. The contributions ranged from academic research to student-led perspectives, highlighting global patterns and local practices. By incorporating a diversity of viewpoints, the conference sought to challenge exclusionary paradigms and promote inclusive, transformative approaches to science education, ultimately amplifying the voices of those historically marginalized.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "doi:10.1002/aiv2.70021",
-      "title": "From “What Can Artificial Intelligence Do?” to “Says Who?”: Examining the Epistemic, Social, Political, and Economic Power Dynamics Shaping AI in Healthcare",
-      "authors": [
-        "Hassane Alami",
-        "Lysanne Rivard",
-        "Mariétou Niang",
-        "Mathilde Savoldelli",
-        "Elsury Johanna Pérez",
-        "Renata Pozelli Sabio",
-        "Mohamed Ali Ag Ahmed",
-        "Michel Dutech"
-      ],
-      "journal": "AI & Innovation",
-      "date": "2026-11-15",
-      "doi": "10.1002/aiv2.70021",
-      "url": "https://doi.org/10.1002/aiv2.70021",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aiv2.70021",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "ABSTRACT Artificial intelligence (AI) is widely portrayed as a transformative innovation poised to revolutionize healthcare. Heavily promoted by financial and industry actors, this forward‐looking narrative is often adopted uncritically by decision‐makers, despite limited evidence of AI's clinical effectiveness in real‐world contexts and the persistence of numerous regulatory, professional, organizational, economic, sociopolitical, ethical, and governance challenges. In healthcare systems, characterized by pluralism and complexity, the trajectory of AI solutions is shaped by the strategic decisions and actions of diverse stakeholders who mobilize their epistemic, social, political, and economic powers in an effort to influence technology development and deployment. Drawing from a curated multidisciplinary body of scholarship and several real‐life examples, this paper critically examines how such power dynamics come to shape which AI healthcare solutions are developed, how they impact care delivery, and for whom they provide care. Specifically, we focus on how market imperatives influence AI research and narratives, how quantification and statistical analysis shape care delivery, and how, together, these dynamics delimit who ultimately receives care by further marginalizing vulnerable groups. The paper ends with numerous policies and practices for equitable, just, and publicly accountable AI in healthcare.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.1186/s40798-026-01141-7",
-      "title": "Spatiotemporal Distribution and Projections to 2050 of the Disease Burden of Early-Onset Chronic Diseases Attributable to Low Physical Activity: A Global Burden of Disease Study",
-      "authors": [
-        "Yide Wang",
-        "Yidie Bao",
-        "Xinliao Deng",
-        "Hongxia Duan",
-        "Yingqi Wang",
-        "Hui Li",
-        "Jiachi Zhang",
-        "Jian Li"
-      ],
-      "journal": "Sports Medicine - Open",
-      "date": "2026-11-15",
-      "doi": "10.1186/s40798-026-01141-7",
-      "url": "https://doi.org/10.1186/s40798-026-01141-7",
-      "oa_url": "https://link.springer.com/content/pdf/10.1186/s40798-026-01141-7.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "BACKGROUND: Low physical activity is a modifiable risk factor for non-communicable diseases, but its contribution to early-onset chronic disease burden remains insufficiently quantified. We estimated global, regional, and national burdens of selected early-onset chronic diseases attributable to low physical activity from 1990 to 2021 and projected burden to 2050. METHODS: Using Global Burden of Disease (GBD) 2021 estimates for 204 countries and territories, we quantified disability-adjusted life years (DALYs) and age-standardized DALY rates (ASDRs) attributable to low physical activity for cancer, cardiovascular disease, diabetes mellitus, and chronic kidney disease among adults aged 25-49 years. Because GBD low physical activity exposure estimates are mainly modeled for adults aged ≥25 years, individuals aged 15-24 years were not included in the risk-attributable analyses. Trends, Socio-demographic Index (SDI)-related inequality, and future burden were assessed using estimated annual percentage changes (EAPCs), inequality indices, and Bayesian age-period-cohort modeling. RESULTS: Global DALYs attributable to low physical activity increased by 94.2%, from 686,847 in 1990 to 1.33 million in 2021. ASDR increased from 25.3 to 33.8 per 100,000 population (EAPC = 0.84; 95% confidence interval (CI) 0.70-0.97). Diabetes mellitus and chronic kidney disease showed the fastest ASDR increases, whereas cardiovascular disease and cancer showed no statistically robust trends. In 2021, regional ASDRs varied more than 11-fold, were highest in Oceania, and were higher among females and in middle-SDI settings. Absolute inequality widened, while relative inequality remained uncertain. By 2050, DALYs are projected to reach 1.76 million. CONCLUSION: Early-onset chronic disease burden attributable to low physical activity has increased substantially and unevenly. Targeted physical activity strategies for young and working-age adults are needed to reduce preventable future burden.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "doi:10.21664/2238-8869.2026v15i3.8839",
-      "title": "Connections between Environmental Education, Health and the Environment in the Context of Sustainable Development in Portugal",
-      "authors": [
-        "Elsa Maria Gabriel Morgado",
-        "Antonino Manuel Almeida Pereira",
-        "Luís Borges Gouveia",
-        "Carminda Moura Carvalho",
-        "Levi Fernandes Leonido"
-      ],
-      "journal": "Fronteiras Journal of Social Technological and Environmental Science",
-      "date": "2026-11-14",
-      "doi": "10.21664/2238-8869.2026v15i3.8839",
-      "url": "https://doi.org/10.21664/2238-8869.2026v15i3.8839",
-      "oa_url": "https://periodicos.unievangelica.edu.br/index.php/fronteiras/article/download/8839/6379",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Sustainable development, as a political and pedagogical project, requires a critical articulation between environmental education, health, and public policies, understood as inseparable dimensions of social and environmental justice. In the Portuguese context, this articulation has been progressively incorporated into normative and strategic frameworks, in line with global sustainability agendas. This article presents a narrative literature review of a descriptive and interpretative nature, aiming to critically analyze the articulation between education, health, and the environment, as well as its limits and potential as a field of educational and political intervention. The results reveal a significant discursive convergence in the recognition of the interdependence among these domains, although largely confined to the normative level. A persistent dissociation between institutional discourse and the practical implementation of public policies is observed, marked by sectoral fragmentation, weak intersectoral coordination, and territorial inequalities. Environmental education emerges as a central axis in promoting critical literacies and active citizenship; however, its insufficient integration into curricula and educational policies limits its transformative potential. The study underscores the need for integrated and critical approaches oriented toward social and environmental justice.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1186/s12982-026-03269-z",
-      "title": "Environmental pollution and associated health outcomes in the Niger Delta region of Nigeria",
-      "authors": [
-        "Kesiena Efe-Eyefia",
-        "Jude Onoriode Otedo",
-        "Maureen Nneka Oshiokpu",
-        "Uduenevwo Francis Evuen",
-        "Diatachekor Oyibo",
-        "Dele Ebiowei Godwin",
-        "Ramson Elakpo Buku",
-        "Abigail Okezi Isoje"
-      ],
-      "journal": "Discover Public Health",
-      "date": "2026-11-14",
-      "doi": "10.1186/s12982-026-03269-z",
-      "url": "https://doi.org/10.1186/s12982-026-03269-z",
-      "oa_url": "https://link.springer.com/content/pdf/10.1186/s12982-026-03269-z.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Crude oil exploration, gas flaring, and artisanal refining in the Niger Delta region of Nigeria are associated with human and environmental health deterioration. Their impact on environmental health encompasses the degradation of ecosystems through pollution and loss of biodiversity. Relating to human health, several pollution-related diseases and physiological dysfunctions have been documented. Although there is extensive evidence of the effects of pollution in this area, major knowledge gaps exist in the integration of fragmented studies into practical policy and healthcare models. Thus, this narrative review aimed to synthesize the dispersed epidemiological, toxicological, and mechanistic literature on pollution-related diseases into a single framework that clarifies exposure pathways and informs health-protection measures. This was accomplished through the analysis of 136 articles and technical reports published between January 2011 and February 2026. Four fundamental areas comprising the pollution sources related to petroleum operations; epidemiological trends of some pollution-related diseases; mechanistic approaches to toxicity induced by established environmental pollutants; and evidence-based interventions and policy reforms were explored. Findings revealed that pollution-related illnesses in the Niger Delta are associated with toxicological, ecological, and socio-economic processes, with the vulnerable and agricultural/fishing populations bearing disproportionate health burdens. Furthermore, the current regulation to address these burdens is poorly enforced and the health care system is not capable of monitoring the situation comprehensively. Thus, a multi-sectoral intervention and better environmental control is required to sever the cycle of pollution, disease and marginalization, rather than relying on a singular biomedical approach.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1002/jee.70110",
-      "title": "A dual variable‐ and unit‐centered analysis of engineering enrollment trajectories in the United States from 2017 to 2024",
-      "authors": [
-        "Li Tan"
-      ],
-      "journal": "Journal of Engineering Education",
-      "date": "2026-11-14",
-      "doi": "10.1002/jee.70110",
-      "url": "https://doi.org/10.1002/jee.70110",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jee.70110",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Abstract Background Existing studies examining engineering enrollment trends predominantly report group averages, often hiding heterogeneity across intersectional populations. The COVID‐19 pandemic and recent anti‐DEI policy shifts have further complicated enrollment trends in ways that remain insufficiently documented. Purpose This study addresses these gaps by (1) moving beyond group averages to reveal heterogeneity across and within demographic groups, engineering fields, and states, while retaining smaller populations typically excluded from similar analyses; and (2) identifying distinct enrollment trajectory clusters at the unit level, defined as a demographic group within a field within a state, to uncover shared patterns of enrollment dynamics that cut across conventional categorical boundaries. Method The study is guided by intersectionality theory and integrates both variable‐centered and unit‐centered analytical lenses. It analyzes ASEE engineering enrollment data from 219 institutions across 2017 to 2024, first with a hierarchical mixed‐effects Bayesian model that decomposes enrollment trends into national, demographic‐group, field, state, and unit‐level components, followed by model‐based clustering that identifies distinct trajectory types among units defined as a demographic group within a field within a state. Results Hispanic students exhibited consistent positive growth, while Black students, particularly Black men, experienced a sharp enrollment decline in 2024 not observed in any other group. Unit‐centered analysis identified five distinct trajectory clusters with substantial heterogeneity across demographic groups, fields, and states. Conclusions The findings call for targeted, evidence‐based policy and intervention by actors operating at the unit level, and more granular demographic data collection to address uneven enrollment dynamics.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1007/s00429-026-03224-3",
-      "title": "Fixel-based analysis identifies selective vulnerability of non-dominant fiber populations in aging and mild cognitive impairment",
-      "authors": [
-        "Aditi Sathe",
-        "Ankita Chatterjee",
-        "Niranjana Shashikumar",
-        "Kimberly R. Pechman",
-        "Kurt G. Schilling",
-        "Bennett A. Landman",
-        "Leslie S. Gaynor",
-        "Corey J. Bolton"
-      ],
-      "journal": "Brain Structure and Function",
-      "date": "2026-11-14",
-      "doi": "10.1007/s00429-026-03224-3",
-      "url": "https://doi.org/10.1007/s00429-026-03224-3",
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00429-026-03224-3.pdf",
-      "is_oa": true,
-      "citations": 1,
-      "type": "article",
-      "abstract": "Fixel-based analysis (FBA) resolves fiber-specific white matter properties within crossing-fiber regions, where conventional diffusion tensor imaging is limited. We applied single-shell three-tissue constrained spherical deconvolution to diffusion MRI from 295 older adults in the Vanderbilt Memory and Aging Project cohort, quantifying fiber density (FD), fiber-bundle cross-section (FC), and their composite (FDC) across the primary (N1), secondary (N2), and tertiary (N3) fiber populations within each white matter voxel. White matter was stratified into crossing-fiber complexity strata defined by the number of distinct bundles per voxel, and covariate-adjusted models examined associations with age, cognitive status, and cognition. FC declined with age most steeply in the non-dominant fiber populations. In these populations, FC was lower in participants with mild cognitive impairment than in cognitively unimpaired participants, and higher FC was associated with better executive function. The age-related decline in non-dominant FC did not vary across crossing-fiber complexity, indicating that fiber-population identity, rather than local architecture, organizes age-related vulnerability. FD and FDC showed age associations that became more positive as complexity increased, with the N1 FD association reversing from negative in the least complex regions to positive in the most complex. This behavior is consistent with how density is estimated in multi-fiber voxels rather than with fiber loss, identifying FC as the more interpretable metric in crossing-fiber regions. These findings identify fiber cross-section in the non-dominant fiber populations as a sensitive marker of white matter aging and cognitive status and provide a framework for fiber-specific analysis in existing single-shell cohorts.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1016/j.agwat.2026.110949",
-      "title": "Natural and anthropogenic factors associated with agricultural productivity in selected Sub-Saharan African countries: The role of water resources",
-      "authors": [
-        "Mary Sanyaolu",
-        "Jagoda Zmyślona",
-        "Arkadiusz Sadowski"
-      ],
-      "journal": "Agricultural Water Management",
-      "date": "2026-11-14",
-      "doi": "10.1016/j.agwat.2026.110949",
-      "url": "https://doi.org/10.1016/j.agwat.2026.110949",
-      "oa_url": "https://www.sciencedirect.com/science/article/pii/S0378377426008310/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "This study examines the relationships between selected natural and anthropogenic factors and agricultural productivity in 18 Sub-Saharan African countries over the period 1990–2020, using panel data from the FAOSTAT database. Agricultural productivity is measured as kilocalories produced per hectare of agricultural land. The explanatory variables include fertilizer use, agricultural water withdrawal, agricultural sector contribution to water stress, population, and agricultural land per capita. The Hausman test supports the use of a fixed-effects specification. The results indicate a positive and statistically significant association between population and agricultural productivity, while agricultural land per capita is negatively associated with productivity. Fertilizer use and agricultural water withdrawal are not statistically significant. The agricultural sector's contribution to water stress exhibits a positive coefficient in the baseline model; however, this association is not statistically significant when assessed using the wild cluster bootstrap procedure (p = 0.1641). This finding should therefore be interpreted with caution and does not imply that greater water stress improves agricultural productivity. The results highlight the importance of considering demographic pressures, land availability, and water-related constraints when examining agricultural productivity in Sub-Saharan Africa. The study points to the relevance of improved water resource management, efficient land use, and sustainable agricultural practices, while recognizing the limitations of country-level aggregate data and the correlational nature of the findings.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1186/s12889-026-30396-8",
-      "title": "Perceived housing quality and emotional distress among refugees living in camps: a cross-sectional study in Eastern Germany",
-      "authors": [
-        "Soline Kulike",
-        "Lara Joanna Basekow",
-        "Carolin Schulenburg",
-        "Amand F&#xFC;hrer"
-      ],
-      "journal": "BMC Public Health",
-      "date": "2026-11-14",
-      "doi": "10.1186/s12889-026-30396-8",
-      "url": "https://doi.org/10.1186/s12889-026-30396-8",
-      "oa_url": "https://link.springer.com/content/pdf/10.1186/s12889-026-30396-8.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "BACKGROUND: Housing quality as a key social determinant of health has received growing attention in public health research. Asylum seekers and refugees in European countries are frequently housed in institutionalized, camp-like facilities. These facilities are often characterized by overcrowding and limited privacy, safety, and autonomy. Such conditions constitute an important post-migration stressor and may be a particularly relevant determinant of mental health. This study aimed to examine the association between multiple dimensions of perceived housing quality and emotional distress among refugees living in camps in Eastern Germany. METHODS: We conducted a cross-sectional study among asylum seekers and refugees living in 16 camps across three federal states in Eastern Germany. Data were collected via a multilingual online survey; fieldwork took place in June and July 2025, and the survey remained accessible until the end of August 2025. As the primary outcome, we assessed emotional distress using the cross-culturally validated Refugee Health Screener-13 (RHS-13) as an indicator of common mental disorders in refugee populations. In addition, we assessed perceived housing quality using multidimensional indicators as well as relevant sociodemographic covariates. To examine associations between housing quality and emotional distress, we fitted multivariable linear regression models with housing quality indicators as exposures and the RHS-13 sum score as the outcome. First, each housing quality indicator was included separately in single-indicator regression models, which were adjusted for prespecified sociodemographic variables. We then included multiple indicators across different housing quality dimensions simultaneously in the main model, which was also adjusted for sociodemographic variables. RESULTS: Most participants scored at or above the cutoff for emotional distress (79%; RHS-13 ≥ 11), with nearly half scoring in the severe-distress range (48%; RHS-13 ≥ 25). Most assessed housing quality indicators showed associations with emotional distress when examined separately in adjusted single-indicator regression models. When multiple indicators across multiple housing quality dimensions were included simultaneously in the adjusted main model, safety, lighting conditions, autonomy, and feelings of boredom or imprisonment within the refugee camp remained associated with emotional distress, whereas crowding, frequent transfers between camps, and region did not. CONCLUSIONS: Perceived housing quality is closely associated with emotional distress among refugees living in Eastern German camps. Psychosocial and institutional dimensions of housing quality appear particularly relevant to emotional distress. Housing policies for refugees in European countries should therefore consider not only the physical structure of housing but also its psychosocial and institutional dimensions, such as safety, autonomy, and daily-life restrictions, when addressing mental health inequalities in this population.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1186/s12889-026-30253-8",
-      "title": "The mental cost of urban living: neighbourhood deprivation, income, and depressive symptoms in Germany",
-      "authors": [
-        "Arieja Farugie",
-        "Ana Nanette Tibubos",
-        "Caroline Cohrdes",
-        "Tobias Rüttenauer"
-      ],
-      "journal": "BMC Public Health",
-      "date": "2026-11-14",
-      "doi": "10.1186/s12889-026-30253-8",
-      "url": "https://doi.org/10.1186/s12889-026-30253-8",
-      "oa_url": "https://link.springer.com/content/pdf/10.1186/s12889-026-30253-8.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "OBJECTIVE: This study investigates the established associations between neighbourhood socioeconomic deprivation, household income, and depressive symptoms in Germany, and assesses whether these associations differ across settlement structures. Building on the person-in-environment framework, we understand mental health as an emergent outcome of the interplay between individuals and their environments. METHOD: We analysed cross-sectional data from the nationally representative German Health Update 2019/2020 wave of the European Health Interview Survey (GEDA 2019/2020-EHIS) ​ (N = 20,773). Depressive symptoms were measured using Patient Health Questionnaire-8 (PHQ-8). Polynomial regression models tested linear and quadratic associations of neighbourhood deprivation (German Index of Socioeconomic Deprivation, GISD) with depressive symptoms, and their interaction with household income quintiles. Whether settlement type (cities, urban, rural and sparsely populated counties) moderated these associations was tested explicitly using nested interaction models. RESULTS: Higher neighbourhood deprivation was associated with increased depressive symptoms, with a significant quadratic term indicating disproportionately higher symptom severity in highly deprived areas. Household income was inversely associated with depressive symptoms, though its moderation of the deprivation association was only partially supported. Settlement type significantly moderated the deprivation-depression association: the quadratic association was strongest in cities and attenuated, or shifted towards a concave pattern, in less densely populated settlement types. This settlement-related moderation was additionally associated with income, particularly in urban and rural counties, and less consistently in sparsely populated areas. CONCLUSIONS: The psychological burden of socioeconomic deprivation is not uniform, but differs systematically by settlement context and, less consistently, by individual income. These associations were most pronounced, and most clearly evident, in major cities. Addressing mental health inequalities linked to neighbourhood deprivation may therefore benefit from strategies tailored to settlement-specific conditions, alongside broader efforts aimed at individual socioeconomic resources.",
-      "categories": [
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
     },
     {
       "id": "doi:10.1145/3653070",
