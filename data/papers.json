@@ -1,31 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T22:45:45Z",
+    "generated_at": "2026-11-24T00:22:22Z",
     "mode": "openalex_sync",
     "source": "OpenAlex",
     "query_count": 12,
     "failed_queries": 0,
-    "new_ids": [
-      "https://openalex.org/W7237377850",
-      "doi:10.4324/9781003633938-2",
-      "doi:10.1016/j.healthplace.2026.103763",
-      "doi:10.1007/s44327-026-00431-9",
-      "doi:10.1016/j.trip.2026.102361",
-      "doi:10.1016/j.jag.2026.105683",
-      "https://openalex.org/W7238699784",
-      "doi:10.59490/jcrfr.2026.0026",
-      "doi:10.1002/sd.71945",
-      "doi:10.1007/s12132-026-09574-9",
-      "doi:10.1016/j.urbmob.2026.100319",
-      "doi:10.1007/s10113-026-02719-3",
-      "doi:10.46409/sr./hebb9492",
-      "doi:10.1016/j.envsci.2026.104535",
-      "doi:10.1038/s41467-026-79586-3",
-      "doi:10.1057/s41599-026-09688-2",
-      "doi:10.21203/rs.3.rs-11115094/v1",
-      "doi:10.13140/rg.2.2.28540.09602",
-      "doi:10.5812/healthscope-174347"
-    ]
+    "new_ids": []
   },
   "papers": [
     {
@@ -2993,35 +2973,6 @@
       "first_seen": "2026-11-17"
     },
     {
-      "id": "doi:10.1038/s41598-026-78718-5",
-      "title": "Short term effects of ambient air pollution exposure on influenza: a multi-city study in Shandong, China",
-      "authors": [
-        "Mingxi Su",
-        "Julong Wu",
-        "Lin Sun",
-        "Qian He",
-        "Ruijie Zhang",
-        "Wei Su",
-        "Qing Duan",
-        "Yujie He"
-      ],
-      "journal": "Scientific Reports",
-      "date": "2026-11-15",
-      "doi": "10.1038/s41598-026-78718-5",
-      "url": "https://doi.org/10.1038/s41598-026-78718-5",
-      "oa_url": "https://www.nature.com/articles/s41598-026-78718-5_reference.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Ambient air pollution is a recognized risk factor for influenza-like illness (ILI). However, it remains unclear how city-specific characteristics modify these associations. This study evaluated the short-term associations between six major air pollutants and ILI incidence in Shandong Province, China, and investigated the modifying effects of seasonal, spatial, and socioeconomic factors. Daily air pollutant concentrations and ILI surveillance data from 16 cities in Shandong Province (2015–2019) were analyzed using a two-stage approach. City-specific associations were estimated using quasi-Poisson distributed lag non-linear models (DLNM), followed by a multivariate random-effects meta-analysis to calculate pooled cumulative relative risks (CRRs). Meta-regression and stratified analyses were used to assess effect modification by demographic, geographic, and macroeconomic indicators. A total of 2,145,543 ILI cases were included. Except for O 3 , short-term exposure to all evaluated air pollutants was significantly associated with increased ILI incidence. NO 2 (CRR: 1.041, 95% CI: 1.031–1.052) and SO 2 (CRR: 1.040, 95% CI: 1.023–1.058) exhibited the strongest positive associations, whereas O 3 was inversely associated with ILI. The risks were higher in children aged 5–14 years, during transition seasons (spring and autumn), and in coastal areas. Meta-regression indicated that higher gross domestic product and healthcare resource density mitigated the adverse impacts of particulate matter and carbon monoxide, whereas basin. Basin topography exacerbated pollution-induced ILI risks during severe pollution episodes. Short-term exposure to major air pollutants increases ILI risk, but the magnitude of this risk is significantly modified by city-level socioeconomic and geographic characteristics. These findings highlight the need to develop localized, resource-adjusted air quality early warning systems to protect vulnerable populations.",
-      "categories": [
-        "smoke",
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-17"
-    },
-    {
       "id": "doi:10.1016/j.jemets.2026.100055",
       "title": "EUBURN: The southern Europe biomass burning programme",
       "authors": [
@@ -3250,6 +3201,35 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-16"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-78718-5",
+      "title": "Short term effects of ambient air pollution exposure on influenza: a multi-city study in Shandong, China",
+      "authors": [
+        "Mingxi Su",
+        "Julong Wu",
+        "Lin Sun",
+        "Qian He",
+        "Ruijie Zhang",
+        "Wei Su",
+        "Qing Duan",
+        "Yujie He"
+      ],
+      "journal": "Scientific Reports",
+      "date": "2026-11-15",
+      "doi": "10.1038/s41598-026-78718-5",
+      "url": "https://doi.org/10.1038/s41598-026-78718-5",
+      "oa_url": "https://www.nature.com/articles/s41598-026-78718-5_reference.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Ambient air pollution is a recognized risk factor for influenza-like illness (ILI). However, it remains unclear how city-specific characteristics modify these associations. This study evaluated the short-term associations between six major air pollutants and ILI incidence in Shandong Province, China, and investigated the modifying effects of seasonal, spatial, and socioeconomic factors. Daily air pollutant concentrations and ILI surveillance data from 16 cities in Shandong Province (2015–2019) were analyzed using a two-stage approach. City-specific associations were estimated using quasi-Poisson distributed lag non-linear models (DLNM), followed by a multivariate random-effects meta-analysis to calculate pooled cumulative relative risks (CRRs). Meta-regression and stratified analyses were used to assess effect modification by demographic, geographic, and macroeconomic indicators. A total of 2,145,543 ILI cases were included. Except for O 3 , short-term exposure to all evaluated air pollutants was significantly associated with increased ILI incidence. NO 2 (CRR: 1.041, 95% CI: 1.031–1.052) and SO 2 (CRR: 1.040, 95% CI: 1.023–1.058) exhibited the strongest positive associations, whereas O 3 was inversely associated with ILI. The risks were higher in children aged 5–14 years, during transition seasons (spring and autumn), and in coastal areas. Meta-regression indicated that higher gross domestic product and healthcare resource density mitigated the adverse impacts of particulate matter and carbon monoxide, whereas basin. Basin topography exacerbated pollution-induced ILI risks during severe pollution episodes. Short-term exposure to major air pollutants increases ILI risk, but the magnitude of this risk is significantly modified by city-level socioeconomic and geographic characteristics. These findings highlight the need to develop localized, resource-adjusted air quality early warning systems to protect vulnerable populations.",
+      "categories": [
+        "smoke",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-17"
     },
     {
       "id": "doi:10.21203/rs.3.rs-10174737/v1",
