@@ -5,7 +5,7 @@
     <description>New papers on wildfire smoke, mobility, environmental justice and GeoAI, curated from OpenAlex.</description>
     <link>https://openalex.org/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:31:51 GMT</lastBuildDate>
     <item>
       <title>Optimization of Urban Shortest Path Considering Traffic Congestion and Air Quality Using ICAW and Genetic Algorithm (Case Study: Tehran)</title>
       <link>https://doi.org/10.5829/ije.2027.40.01a.08</link>
@@ -18,6 +18,13 @@
       <link>https://doi.org/10.5829/ije.2027.40.05b.04</link>
       <guid>doi:10.5829/ije.2027.40.05b.04</guid>
       <description>International Journal of Engineering — The growing challenges posed by rapid urbanization and increased vehicle density have highlighted the need for precise and privacy-preserving traffic flow prediction models. Traditional centralized learning methods involve aggregating privacy-sensitive traffic flow data, which poses severe privacy, scalability, and governance issues. To overcome these issues, this paper presents a disaster-aware privacy-preserving federated learning (PP-FL) solution for multi-city traffic flow prediction in heterogeneous and non-IID data settings. Each city separately trains a local deep learning model using l</description>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Robust Object Detection Network for Fire and Smoke Based on FasterNet and Feature Fusion Embedded Contextual Information</title>
+      <link>https://doi.org/10.32604/cmc.2026.088973</link>
+      <guid>doi:10.32604/cmc.2026.088973</guid>
+      <description>Computers, materials &amp; continua/Computers, materials &amp; continua (Print) — Fire threatens human life, property, and ecosystems, and recent years have seen frequent fire incidents worldwide. Video surveillance combined with deep learning has become a common strategy for fire and smoke detection. However, existing detectors often lose accuracy and robustness when targets are small, amorphous, or blurred against complex outdoor backgrounds. Here, it proposes lightweight backbone with attention mechanisms-context aware feature fusion (LBAM-CAFF), a robust outdoor fire and smoke detection network that integrates FasterNet, channel-prior convolutional attention, and contex</description>
       <pubDate>Fri, 01 Jan 2027 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -178,7 +185,7 @@
       <title>Exposure to wildfire smoke and risk of mortality and hospitalization among hemodialysis patients in the Western United States: Effect modification by extreme heat events.</title>
       <link>https://doi.org/10.1097/ee9.0000000000000541</link>
       <guid>doi:10.1097/ee9.0000000000000541</guid>
-      <description>PubMed Central — Background: Climate change is increasing the extent of wildfires and extreme heat events (EHEs) in the Western United States. Our objective was to estimate the risk of all-cause mortality and hospitalization among end-stage kidney disease (ESKD) patients after exposure to wildfire smoke, EHEs, and the combined occurrence of wildfire smoke and EHE. Methods: ), and EHE exposure for each hemodialysis facility. We employed a time-stratified case-crossover using conditional quasi-Poisson to estimate rate ratios (RRs) and 95% confidence intervals (CIs). A likelihood ratio test was used to assess pot</description>
+      <description>PubMed Central — Background: Climate change is increasing the extent of wildfires and extreme heat events (EHEs) in the Western United States. Our objective was to estimate the risk of all-cause mortality and hospitalization among end-stage kidney disease (ESKD) patients after exposure to wildfire smoke, EHEs, and the combined occurrence of wildfire smoke and EHE. Methods: We analyzed records of 55,223 adult ESKD patients who received hemodialysis treatment at Fresenius Kidney Care clinics in California, Oregon, and Washington during the warm months of 2010-2018. We quantified wildfire smoke plumes, wildfire-r</description>
       <pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -224,6 +231,160 @@
       <pubDate>Mon, 30 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Urban retail contraction reveals a spatial vulnerability trap in essential retail access</title>
+      <link>https://doi.org/10.21203/rs.3.rs-11652820/v1</link>
+      <guid>doi:10.21203/rs.3.rs-11652820/v1</guid>
+      <description>Research Square — Grocery stores, pharmacies, and other essential retailers anchor daily life, but in U.S. cities they are closing unevenly. These closures do more than remove nearby options. They redirect customer flows through urban retail networks and redistribute welfare losses across neighborhoods. To measure this reorganization, we develop and validate a differentiable equilibrium model of store choice that estimates visit and welfare shifts after closures, using GPS mobility data linking 11,252 neighborhoods to 360 retail brands across five California metros. Simulating closure of the least-visited 20\% </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assessment of water and streambed sediment quality near a historic mine site in Lincoln National Forest, New Mexico: Influence of beaver dam analogs and downstream distance</title>
+      <link>https://doi.org/10.21203/rs.3.rs-11627652/v1</link>
+      <guid>doi:10.21203/rs.3.rs-11627652/v1</guid>
+      <description>Research Square — Forests provide crucial ecosystem services, including climate regulation, biodiversity, and water conservation; however, forests are vulnerable to threats, including drought, climate change, wildfires, and resource extraction, such as mining. In response, forest managers utilize restoration strategies, including the installation of beaver dam analogs (BDAs) to improve water retention and reduce erosion. This study investigates whether a historic mine in Lincoln National Forest, New Mexico, is a point source of heavy metal pollution and whether recently installed BDAs improve downstream water q</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Addressing the biological and environmental dimensions of human reproductive decline</title>
+      <link>https://doi.org/10.3389/fsci.2026.1945383</link>
+      <guid>doi:10.3389/fsci.2026.1945383</guid>
+      <description>Frontiers in Science — Global fertility rates have declined rapidly and universally in recent decades and most nations now have rates below replacement level. This striking reversal from previous concerns about population explosion raises the question: is falling fertility driven primarily by social and cultural change or is biological fecundity—the intrinsic capacity to reproduce—also deteriorating? This article posits that both processes are at work and that technical innovation alone is unlikely to reverse demographic decline. Socioeconomic and cultural factors remain central, particularly where education, career</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anatomy of mapping urban greenery from a human perspective</title>
+      <link>https://doi.org/10.1017/eds.2026.10074</link>
+      <guid>doi:10.1017/eds.2026.10074</guid>
+      <description>Environmental Data Science — Urban greenery contributes to environmental sustainability, livability, and human well-being. As interest in human-centered urban environments has grown, researchers have increasingly sought to measure greenery as it is experienced by people rather than solely through conventional top-down representations. Advances in street-level imagery, computer vision, machine learning, and geospatial analysis have enabled this shift, resulting in a rapidly expanding but methodologically diverse body of literature. This study conducts a scoping review of 150 peer-reviewed studies published during the last </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Economic Dynamics of City Structure: Evidence from Hiroshima’s Recovery</title>
+      <link>https://doi.org/10.1086/743334</link>
+      <guid>doi:10.1086/743334</guid>
+      <description>Journal of Political Economy — We provide new theory and evidence on the resilience of internal city structure after a large shock, analyzing the atomic bombing of Hiroshima. Exploiting newly digitized data, we document that the city structure recovered within five years after the bombing. Our new dynamic quantitative model of internal city structure incorporates commuting, forward-looking location choices, migration frictions, agglomeration forces, and heterogeneous location fundamentals. Strong agglomeration forces in our estimated model explain Hiroshima's recovery, and we find an alternative equilibrium where the city c</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Salutogenic urban housing in hot-arid climates: Daylight as a catalyst for health and resilience</title>
+      <link>https://doi.org/10.1051/e3sconf/202675801002</link>
+      <guid>doi:10.1051/e3sconf/202675801002</guid>
+      <description>E3S Web of Conferences — This paper provides a critical, integrated examination on the built environment of hot-arid Levantine cities, specifically evaluating its unintended, long-term impacts on human health. Gropius championed a functionalist architecture of standardization, extensive glazing, and flat roofs designed to maximize “sun, light, and air”. However, the uncritical export and imposition of these modernist models and the rush to residential towers as a solution for densification in the Middle East created a profound climate and cultural mismatch, disrupting centuries of indigenous building traditions. Emplo</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nuclear invisibilities</title>
+      <link>https://doi.org/10.4324/9781003596363-8</link>
+      <guid>doi:10.4324/9781003596363-8</guid>
+      <description>Routledge eBooks — Koodankulam, on India’s southern coast, has witnessed one of the country’s longest-running women-led antinuclear movements, which intensified in the wake of the 2011 Fukushima nuclear accident. Shared community spaces, conventionally sites of communal childcare and traditional livelihood practices, transformed into sites of exceptional protest when the communities were confronted with the imposition of a nuclear power plant. It was through the affective intimacies of sisterhood that a sustained resistance against the Koodankulam nuclear project was mobilized. Through embodied and performative </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Demographic Impact of Leadership: Mayoral Education and COVID‐19 Excess Mortality in Italy</title>
+      <link>https://doi.org/10.1111/padr.70096</link>
+      <guid>doi:10.1111/padr.70096</guid>
+      <description>Population and Development Review — During the COVID‐19 pandemic, excess mortality rose sharply across Europe, with striking territorial disparities even within countries. This paper examines whether the characteristics of locally elected officials influenced excess mortality in Italy—one of the first countries severely affected. Using weekly death statistics and a Bayesian hierarchical spatiotemporal model, we estimate excess mortality at the municipal level. To address endogeneity in political selection, we exploit close mayoral elections within a regression discontinuity design. Results show that college‐educated mayors signi</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Differences in extreme weather risk communication channels: how channel-specific information exposure shapes older adults’ psychological resilience</title>
+      <link>https://doi.org/10.3389/fpsyg.2026.1919808</link>
+      <guid>doi:10.3389/fpsyg.2026.1919808</guid>
+      <description>Frontiers in Psychology — Introduction This study focuses on older adults, a large and vulnerable population within China’s social structure, and draws upon risk perception theory and psychological resilience theory to examine the association between risk information exposure and psychological resilience among older adults. Methods The quantitative analysis was based on 634 valid questionnaires collected from older adults aged 60 years and older. Structural equation modeling was used to examine the hypothesized associations, including indirect associations through negative emotions and moderating associations involving</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Green Infrastructure Development and Implications for Urban Sustainability, Public Health, and Climate Resilience, Al Khoud, Oman</title>
+      <link>https://doi.org/10.1051/e3sconf/202675802003</link>
+      <guid>doi:10.1051/e3sconf/202675802003</guid>
+      <description>E3S Web of Conferences — Rapid urban development in Oman, particularly in Al Khoud, Muscat, has placed increasing pressure on the environment, leading to a growing shortage of green space. This has raised concerns about urban heat, outdoor comfort, and the overall livability of urban areas. This study examines the current state of green infrastructure (GI) in Al Khoud and its contribution to a comfortable urban living environment. This study employed a combination of qualitative and quantitative research methods. A spatial analysis was conducted for the case study. In addition, a questionnaire survey assessed resident</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Landscapes and Extractive Livelihood Lock-In: A Spatial Macro Psychological Analysis of Slow-Onset Environmental Degradation, Collective Efficacy, and Communal Disorganization in the Bangka Belitung Archipelago, Indonesia</title>
+      <link>https://doi.org/10.58344/jmi.v5i11.3081</link>
+      <guid>doi:10.58344/jmi.v5i11.3081</guid>
+      <description>Jurnal Multidisiplin Indonesia — Slow-onset environmental degradation associated with open-pit tin mining and coastal ecosystem deterioration has transformed ecological conditions and livelihoods in extractive island regions. However, environmental psychology research has predominantly emphasized individual cognitive responses and acute disasters, providing limited understanding of how ecological degradation and extractive economic dependence interact to shape community-level psychosocial vulnerability. Drawing on geographical psychology, solastalgia, the risk perception paradox, and collective efficacy theory, this study exa</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Geospatial Assessment of Rainfall-Triggered Landslide Risk Using Multi-Criteria Decision Techniques in Venezuela</title>
+      <link>https://doi.org/10.1007/978-3-032-37958-0_21</link>
+      <guid>doi:10.1007/978-3-032-37958-0_21</guid>
+      <description>Progress in landslide research and technology — Rainfall-induced landslides are a persistent threat in Venezuela due to a combination of varied topography, tropical rainfall and rapid urbanisation on alluvial fans and unstable hillslopes. This chapter aims to produce national Landslide Risk Index Maps (LRiM) to support disaster reduction initiatives in the country. Multi-Criteria Decision Methods (MCDM), geographic information systems and remote-sensing techniques were used to generate the LRiM, considering hazard, exposure, and vulnerability indicators. Hazard index maps were developed using conditioning factors (i.e., elevation, slope, ra</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Urban heat islands, climate change, and evolving disease landscapes in India: A public health review</title>
+      <link>https://doi.org/10.18231/j.jpmhh.19756.1792575629</link>
+      <guid>doi:10.18231/j.jpmhh.19756.1792575629</guid>
+      <description>Journal of Preventive Medicine and Holistic Health — The convergence of the Urban Heat Island (UHI) phenomenon, accelerating climate change, and unchecked urban expansion has produced a public health emergency of unprecedented scale across India. Localized microclimatic warming is reshaping the epidemiology of both infectious and chronic disease, altering the transmission dynamics of vector-borne, re-emerging, and neglected tropical illnesses. Exposure to UHI conditions worsens classic heat-related illness, precipitates acute cardiovascular events, accelerates chronic kidney decline through recurrent dehydration, and triggers severe respiratory </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remediation and immobilization of hexavalent chromium in contaminated soil using Cordia africana leaf-derived biochar</title>
+      <link>https://doi.org/10.1007/s44274-026-01245-7</link>
+      <guid>doi:10.1007/s44274-026-01245-7</guid>
+      <description>Discover Environment — Soil pollution from hexavalent chromium (Cr(VI)) poses severe risks to ecosystems and food security due to its high mobility and toxicity. This study evaluated the capacity of Cordia africana leaf-derived biochar to remediate and immobilize Cr(VI) in contaminated silty clay soil. The biochar, produced via controlled pyrolysis, exhibited a highly porous structure with a specific surface area of 698.813 m²/g and surface functional groups including hydroxyl, carboxyl, and aromatic rings. Batch incubation experiments were conducted for 30 days in soil contaminated with 100 mg/kg of Cr(VI), which h</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modeling superblocks in central Thessaloniki: A PTV Visum-based traffic assessment</title>
+      <link>https://doi.org/10.1051/e3sconf/202675813005</link>
+      <guid>doi:10.1051/e3sconf/202675813005</guid>
+      <description>E3S Web of Conferences — Superblocks restrict through-traffic within groups of urban blocks and reallocate street space to walking, cycling, greenery, and public life. This paper assesses the traffic implications of applying the model in central Thessaloniki. We developed a macroscopic PTV Visum model for the central area bounded by Egnatia Street, Nikis Avenue, Dodekanisou-Salaminos Streets, and N. Germanou-Angelaki Streets. We compared a reference network and four (4) intervention scenarios under common demand assumptions. The scenarios differed in the number and size of blocks and in the degree of internal through-</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Standardization landscape for positive energy districts: mapping SDOs, gaps, and recommendations for interoperability</title>
+      <link>https://doi.org/10.3389/fenrg.2026.1947215</link>
+      <guid>doi:10.3389/fenrg.2026.1947215</guid>
+      <description>Frontiers in Energy Research — Positive Energy Districts (PEDs) have emerged as a transformative paradigm for urban decarbonization, yet their implementation requires integration across energy systems, buildings, mobility, and information and communication technologies, for which no coherent international standardization framework currently exists. This conceptual analysis examines the PED standardization landscape using a three-layer interoperability model encompassing technical, governance, and social dimensions. The initial standard inventory was primarily sourced from the IEC Technology Report Positive Energy Districts,</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>From reactive care to predictive wellness: AI-integrated preventive medicine and holistic health in the era of precision healthcare</title>
+      <link>https://doi.org/10.18231/j.jpmhh.29699.1795509698</link>
+      <guid>doi:10.18231/j.jpmhh.29699.1795509698</guid>
+      <description>Journal of Preventive Medicine and Holistic Health — As chronic disease, mental illness, metabolic disease, and aging populations rise in prevalence, there has been a shift from reactive healthcare to predictive and preventive medicine. The healthcare system has experienced radical changes in technology with the introduction of artificial intelligence (AI), precision medicine, wearable devices, digital biomarkers, genomics, and microbiome analysis, which can provide individualized risk assessments, continuous monitoring, and adaptive preventive measures. In addition, a holistic approach to health, including nutrition, exercise, sleep, mental wel</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Socioeconomic inequities in green space qualities in three Australian cities</title>
+      <link>https://doi.org/10.1016/j.cities.2026.107783</link>
+      <guid>doi:10.1016/j.cities.2026.107783</guid>
+      <description>Cities — </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spatial and seasonal variability of PCBs and PCNs in Seoul, South Korea: Implications for sources, toxicity, and potential environmental inequality</title>
+      <link>https://doi.org/10.1016/j.uclim.2026.103226</link>
+      <guid>doi:10.1016/j.uclim.2026.103226</guid>
+      <description>Urban Climate — </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Institutional adaptability over technical precision: a socio-ecological framework for fire danger rating systems</title>
+      <link>https://doi.org/10.1071/wf26148</link>
+      <guid>doi:10.1071/wf26148</guid>
+      <description>International Journal of Wildland Fire — Background Fire Danger Rating Systems (FDRS) are essential for predicting fire behavior, guiding public safety decisions and informing firefighting strategies. Yet their institutional and social effectiveness remains critically underexamined. Aims This study presents the first nationwide evaluation of the Australian Fire Danger Rating System (AFDRS) using an extended Socio-Ecological Systems Framework (SESF). Methods Analyzing original survey data from 571 key fire management stakeholders, regression models identify determinants of perceived system quality (accuracy, timeliness, appropriatenes</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulnerabilidad, dañabilidad y vulnerabilización: espacios liminales y gobernanza de las fronteras en la actualidad</title>
+      <link>https://doi.org/10.5565/rev/enrahonar.1738</link>
+      <guid>doi:10.5565/rev/enrahonar.1738</guid>
+      <description>Enrahonar An international journal of theoretical and practical reason — Este artículo propone un marco conceptual para analizar la violencia institucional en las fronteras actuales, basado en la distinción entre vulnerabilidad, dañabilidad y procesos de vulnerabilización. Mientras que la vulnerabilidad se entiende como la apertura constitutiva de la existencia humana incorporada y relacional, la dañabilidad se refiere a la posibilidad de que esta apertura pueda ser dañada concretamente bajo condiciones históricas particulares. Los procesos de vulnerabilización designan la producción institucional de condiciones de exposición mediante regímenes desiguales de recono</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Factors associated with insomnia symptoms among rural women aged 45 years and above in India: a secondary analysis of LASI wave one</title>
+      <link>https://doi.org/10.3389/fragi.2026.1973340</link>
+      <guid>doi:10.3389/fragi.2026.1973340</guid>
+      <description>Frontiers in Aging — Background Sleep is an essential human need. Maintaining sufficient and good-quality sleep is crucial for supporting health, enhancing wellbeing, and improving the overall quality of life, particularly among adults. The present study investigates the factors associated with insomnia symptoms among women aged 45 and above living in rural India. Data and Methods It draws on the most recent data from the Longitudinal Ageing Study in India (LASI), 2017–18, to conduct this analysis. For the analysis, 20,674 women aged 45 and above from rural areas were selected. To identify key factors associated w</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Optical GeoAI and spatial modeling enable urban-canopy mapping and resilience screening in Davis, California</title>
       <link>https://doi.org/10.3389/frsus.2026.2014397</link>
       <guid>doi:10.3389/frsus.2026.2014397</guid>
@@ -245,10 +406,24 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Associations between extreme weather exposure and U.S. food freight shipments</title>
+      <link>https://doi.org/10.1088/2515-7620/aec5c0</link>
+      <guid>doi:10.1088/2515-7620/aec5c0</guid>
+      <description>Environmental Research Communications — Extreme weather increasingly threatens the reliability of food supply chains, yet its relationship with transportation systems remains insufficiently quantified. We examine the associations between extreme weather exposure and U.S. food freight distribution using route-level truck shipment data from the Freight Analysis Framework (2018–2023) combined with high-resolution climate records. By constructing 12,173 origin–destination routes within the national highway network in the contiguous U.S., we measure exposure to extreme heat, extreme cold, heavy precipitation, high winds, and social vulne</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Ambient air pollution and the sex ratio at birth: a systematic review and narrative synthesis</title>
       <link>https://doi.org/10.1007/s11111-026-00545-7</link>
       <guid>doi:10.1007/s11111-026-00545-7</guid>
       <description>Population and Environment — Ambient air pollution is associated with adverse pregnancy outcomes including stillbirth, miscarriage, and preterm birth. However, its effects on the viability, implantation, and survival of conceptuses – largely unobserved before the clinical detection of pregnancy – remain poorly understood. Shifts in the sex ratio at birth (SRB) provide a sensitive, population-level indicator of sex-biased conception and pregnancy loss, with important demographic and societal consequences. This systematic review examined whether maternal exposure to ambient air pollution before conception and during pregnan</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extreme heat and wildfire smoke: Operational vulnerabilities and workforce strain in California healthcare facilities</title>
+      <link>https://doi.org/10.1371/journal.pclm.0001098</link>
+      <guid>doi:10.1371/journal.pclm.0001098</guid>
+      <description>PLOS Climate — Background Extreme heat and wildfire smoke events are increasing in frequency, severity, and geographic reach, placing compounding strain on healthcare systems and workers. Despite growing recognition of these events as public health threats, critical gaps persist in our understanding of how frontline healthcare providers perceive facility preparedness and operational impacts, their access to resources, and their experiences of these events. Objective To explore frontline healthcare provider knowledge of emergency preparedness plans and resource availability for extreme heat and wildfire smoke</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -259,10 +434,17 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Road-user-specific patterns of police-reported road traffic injury outcomes in Rwanda, 2015–2024: A retrospective ecological study</title>
+      <link>https://doi.org/10.21203/rs.3.rs-11534637/v1</link>
+      <guid>doi:10.21203/rs.3.rs-11534637/v1</guid>
+      <description>Research Square — Background Road traffic injuries remain a major public health challenge, particularly among vulnerable road users. However, national evidence from Rwanda describing variations in police-reported injury outcomes by road-user category, injury severity, sex, crash location, and time remains limited. Methods We conducted a retrospective ecological study using aggregated Rwanda National Police data on road traffic injury outcomes recorded from January 2015 to August 2024. We described minor injuries, serious injuries, and crash-scene fatalities by road-user category, sex, crash location (Kigali ver</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Air pollution and hospital-treated otitis media: findings from a prospective cohort study</title>
       <link>https://doi.org/10.3389/fenvs.2026.2003802</link>
       <guid>doi:10.3389/fenvs.2026.2003802</guid>
-      <description>Frontiers in Environmental Science — Introduction The association between chronic, long‐term exposure to air pollution and the incidence of otitis media in the general adult population remains unclear. Methods We retrieved 378,408 participants free of hospital‐treated otitis media at baseline from the UK Biobank. Exposures to air pollutants (particulate matter with diameter ≤ 2.5 µm [PM 2.5 ], coarse particulate matter with aerodynamic diameters between 2.5 and 10 µm [PM coarse ], particulate matter with diameter ≤ 10 µm [PM 10 ], nitrogen oxide [NO X ], and NO 2 ) were assessed for 4 years before baseline, with consideration of </description>
+      <description>Frontiers in Environmental Science — Introduction The association between chronic, long‐term exposure to air pollution and the incidence of otitis media in the general adult population remains unclear. Methods We retrieved 378,408 participants free of hospital‐treated otitis media at baseline from the UK Biobank. Exposures to air pollutants (particulate matter with diameter ≤ 2.5 µm [PM 2.5], coarse particulate matter with aerodynamic diameters between 2.5 and 10 µm [PM coarse], particulate matter with diameter ≤ 10 µm [PM 10], nitrogen oxide [NO X], and NO 2) were assessed for 4 years before baseline, with consideration of resid</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -270,6 +452,20 @@
       <link>https://doi.org/10.32764/97bzwg40</link>
       <guid>doi:10.32764/97bzwg40</guid>
       <description>MARGIN ECO — Hydrometeorological disasters cause not only physical damage but also substantial disruptions to livelihoods and local economic activities. This study examines the economic impacts of hydrometeorological disasters and identifies priority strategies for post-disaster economic recovery in West Sumatra, Indonesia. A qualitative approach was employed through semi-structured interviews with 60 disaster-affected informants. The interview data were analyzed thematically, while the Analytic Network Process (ANP), based on assessments from five experts, was used to determine priority factors, problems,</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heterogeneity in excess respiratory acute care utilization during wildfire smoke waves in California</title>
+      <link>https://doi.org/10.64898/2026.11.19.26368512</link>
+      <guid>doi:10.64898/2026.11.19.26368512</guid>
+      <description>medRxiv — Rationale: Wildfire smoke is an increasing public health threat, yet most epidemiologic studies estimate average smoke-health associations across broad spatial or temporal scales. Such approaches may obscure substantial heterogeneity across individual smoke waves, leaving an important evidence gap for dynamic public health preparedness, risk communication, and clinical practice. Objectives: To estimate event-specific excess respiratory acute care utilization during smoke waves and identify smoke wave features associated with higher excess utilization. Methods: We conducted a statewide study of</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Summer ambient ozone and acute cardiovascular events in a changing climate: a population-based study of 8 million adults in eastern Poland</title>
+      <link>https://doi.org/10.20452/pamw.17454</link>
+      <guid>doi:10.20452/pamw.17454</guid>
+      <description>Polskie Archiwum Medycyny Wewnętrznej — INTRODUCTION: Ground-level ozone (O₃) is an underrecognized cardiovascular pollutant, but its acute effects and potential effect modification by heatwaves remain uncertain. OBJECTIVES: We aimed to assess same-day and lagged associations between summer O₃ exposure and cardiovascular mortality as well as the incidence of ST-segment elevation myocardial infarction (STEMI) and non-ST-segment elevation myocardial infarction (NSTEMI). PATIENTS AND METHODS: This study included a population of 8 057 347 residents in 655 municipalities in eastern Poland during the summers of 2011-2020. Linked clinical </description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -294,207 +490,11 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Effect of Allocated Trading Places on the Performance of Small and Medium Enterprises in Kamwala, Lusaka, Zambia</title>
-      <link>https://doi.org/10.69739/jebc.v3i2.2558</link>
-      <guid>doi:10.69739/jebc.v3i2.2558</guid>
-      <description>Journal of economics, business and commerce. — The impact of trading place allocation on the performance of small and medium enterprises (SMEs) in Kamwala, Lusaka, is not well documented, even though allocation determines where each enterprise is located in the market. The study evaluated the influence of accessibility on sales performance, the role of strategic positioning in customer attraction, and the impact of trading place infrastructure on business development. A total of 80 SME owners/operators were surveyed using a cross-sectional survey design with both qualitative and quantitative elements. The questionnaire items were coded and</description>
+      <title>Intergenerational Population–Environment Resilience: A Multilevel Conceptual Framework for Youth, Families and Sustainable Development in Malaysia</title>
+      <link>https://doi.org/10.47772/ijriss.2026.101100173</link>
+      <guid>doi:10.47772/ijriss.2026.101100173</guid>
+      <description>International Journal of Research and Innovation in Social Science — Climate change and environmental degradation are population and social-development challenges because their effects are mediated by household resources, demographic inequalities, intergenerational relations and institutional decisions. This conceptual paper develops the Intergenerational Population–Environment Resilience (IPER) Framework through a theory-informed synthesis of social–ecological resilience, ecological systems theory, human agency, family resilience and environmental justice. The framework integrates four mutually connected domains: (1) environmental risk and structural condition</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greening, gentrification, and wellbeing: how socio-economic factors may interact with the benefits of nearby nature</title>
-      <link>https://doi.org/10.1108/uss-03-2026-0018</link>
-      <guid>doi:10.1108/uss-03-2026-0018</guid>
-      <description>Urbanization, sustainability and society. — Purpose Connection and proximity to nature are associated with improved wellbeing outcomes. Yet links between gentrification and urban greening mean socio-economic factors may override the predictive capacity of nearby nature on wellbeing. This study aims to explore relationships between connection with nature, socio-economic factors and attributes of nearby nature. Design/methodology/approach A state-wide survey of residents in Victoria, Australia, (n = 1427) documented participants’ connection with nature, demographic and socio-economic variables and subjective wellbeing during the coronavir</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Replaces the State? Waste Governance Beyond Municipal Failure in Makana, South Africa</title>
-      <link>https://doi.org/10.1007/s12132-026-09574-9</link>
-      <guid>doi:10.1007/s12132-026-09574-9</guid>
-      <description>Urban Forum — Across South Africa, local municipalities responsible for basic service delivery face growing financial, technical, infrastructural, and institutional strain. In many towns and rural municipalities, waste collection has become intermittent, uneven, and uncertain. Yet waste does not disappear when municipal systems weaken. This article examines how waste management is organised under conditions of sustained municipal service failure in Makana Local Municipality. Drawing on 55 qualitative interviews across the waste system, it moves beyond accounts of service delivery breakdown to examine what r</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MULTIDIMENSIONAL DIAGNOSIS OF THE WORK OF ARTISANAL WOMEN FISHERS IN THE PARNAÍBA DELTA</title>
-      <link>https://doi.org/10.1590/scielopreprints.18968</link>
-      <guid>doi:10.1590/scielopreprints.18968</guid>
-      <description>Preprint / source unavailable — Artisanal fishing carried out by women plays a fundamental role in food security and the socioeconomic reproduction of coastal communities; however, it continues to face historical invisibility and institutional vulnerabilities. Grounded in Ostrom’s Social-Ecological Systems (SES) framework, which provides an integrated analysis of the relationships betweennatural resources, users, and the broader socio-ecological context, this study aimed to characterize the work of 126 artisanal women fishers in the Parnaíba Delta (Maranhão/Piauí, Brazil), in an area where an Environmental Protection Area (A</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Water stress as a pathway between climate vulnerability and fiscal sustainability in the European Union</title>
-      <link>https://doi.org/10.1007/s44274-026-01216-y</link>
-      <guid>doi:10.1007/s44274-026-01216-y</guid>
-      <description>Discover Environment — Climate vulnerability can affect fiscal sustainability through both direct effects and environmental pressures. This study examines whether water stress provides a pathway linking climate vulnerability to fiscal sustainability in the EU-27 over 2003–2023. To the best of our knowledge, this is among the first EU-wide studies to examine water stress as a mediating mechanism between climate vulnerability and fiscal sustainability. A Fiscal Sustainability Index is constructed using Principal Component Analysis, and panel estimation methods are used to examine the main relationships while accountin</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Lincolnshire Unit for Mental Health Research: a programme pre-protocol for place-based, co-produced, applied mental health research</title>
-      <link>https://doi.org/10.3310/nihropenres.14502.1</link>
-      <guid>doi:10.3310/nihropenres.14502.1</guid>
-      <description>NIHR Open Research — Background Mental health research opportunities are unevenly distributed. Lincolnshire, a county in England, combines dispersed rural populations, coastal deprivation, and small urban areas, with substantial variation in mental health need and access to support. The Lincolnshire Unit for Mental Health Research (LUMHR) programme has received five years of foundational National Institute for Health and Care Research (NIHR) funding to establish lasting research capability and generate evidence relevant locally and beyond. Methods This programme pre-protocol describes three connected themes: Conne</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Does urban green space spatial equity influence the respiratory health benefits of green exposure? An empirical study in Nanjing, China</title>
-      <link>https://doi.org/10.1016/j.cities.2026.107849</link>
-      <guid>doi:10.1016/j.cities.2026.107849</guid>
-      <description>Cities — </description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adaptive responses to global food availability shocks can unintentionally amplify food inequality</title>
-      <link>https://doi.org/10.1038/s43247-026-04164-w</link>
-      <guid>doi:10.1038/s43247-026-04164-w</guid>
-      <description>Communications Earth &amp; Environment — Global food production and trade networks are highly dynamic, particularly when countries adjust supply strategies in response to shortages. While shock propagation on food supply networks has been studied, the adaptive potential of these networks is often omitted, which can exacerbate food insecurity. Here, we examine adjustments across 123 agri-food products from 192 countries, resulting in 23,616 shortage scenarios, and calibrate a multi-layer network model to capture shock propagation. Mitigation actions such as increasing imports, boosting production, or substituting items produce spillov</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Toward a Digital Twin Framework for Urban Mobility Innovation - A Versailles Grand Parc Case Study</title>
-      <link>https://doi.org/10.1007/978-3-032-36098-4_112</link>
-      <guid>doi:10.1007/978-3-032-36098-4_112</guid>
-      <description>Lecture notes in mobility — Urban mobility faces simultaneous challenges of decarbonization and air quality improvement, requiring adaptive tools for planning and policy evaluation. This paper presents a digital twin (DT) framework that integrates agent-based modeling of personal and freight mobility with automatic calibration using real-time sensor and GPS data. Structured around three components—modeling daily mobility dynamics, continuous calibration, and decision-support applications—the DT captures multimodal flows, temporal variations, and emissions at street-level resolution. Applied to Versailles Grand Parc, the </description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Artificial Intelligence in Urban Planning and Smart Cities: A Bibliometric Mapping and Trend Analysis of The Review-Oriented Literature</title>
-      <link>https://doi.org/10.65069/ara31202751</link>
-      <guid>doi:10.65069/ara31202751</guid>
-      <description>Applied Research Advances — The increasing presence of artificial intelligence (AI) is evident as a fundamental infrastructure of urban planning and smart cities management. This study presents a bibliometric mapping and trend analysis of 2,439 journal articles published between 2016 and 2026 (data collected as of October 24, 2026) that combine AI-related, urban planning/smart city, and review-focused terms. Using the Bibliometrix R package, production dynamics, citation impact, sources, authors, institutions, countries, keywords, and conceptual structure were analysed. Bradford and Lotka laws were tested. Annual output </description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>International Day Against Trafficking in Persons</title>
-      <link>https://doi.org/10.63189/ryre5571</link>
-      <guid>doi:10.63189/ryre5571</guid>
-      <description>Central European Researchers Blog — Strengthening systems to prevent child trafficking, protect children, and enable recovery and reintegration of survivors UNICEF's Action Against Child Trafficking ©UNICEF/UNI542715/SokhinThis photo is taken at Capeds, a state-owned transit center in Gabon which supports child victims of trafficking.UNICEF provides multidisciplinary support, including psychosocial support, legal assistance in court, social and family reintegration, and capacity building for social workers and specialized educators. Executive SummaryDespite sustained international efforts, child trafficking remains a growing con</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Travel mode use across disability types and severity levels</title>
-      <link>https://doi.org/10.1016/j.jth.2026.102491</link>
-      <guid>doi:10.1016/j.jth.2026.102491</guid>
-      <description>Journal of Transport &amp; Health — Introduction Within the transport equity paradigm, the limited ability to travel can restrict participation in out-of-home activities and negatively affect well-being. Previous studies have often relied on a binary representation of disability (disabled versus non-disabled), which overlooks the heterogeneity of disability types. We contribute to the literature by investigating how different disability types and severity levels are associated with travel mode use frequency across five modes: car (as a driver/passenger), bus, train, cycling, and walking. Methods We use large-scale survey data fr</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Impact of Connected Vehicles on Transport Network Resilience Under Traffic Signal Attacks</title>
-      <link>https://doi.org/10.1007/978-3-032-36098-4_85</link>
-      <guid>doi:10.1007/978-3-032-36098-4_85</guid>
-      <description>Lecture notes in mobility — Cyberattacks on traffic signal systems pose growing risks to transport network resilience. Connected vehicles (CVs), through real-time communication and dynamic rerouting, may help mitigate these impacts, but their role under traffic signal attacks remains unclear. This paper investigates how transport network resilience changes under clustered and dispersed traffic signal attacks with different CV penetration rates. A SUMO (Simulator of Urban Mobility)–Veins (Vehicles in Network Simulation) simulation framework is applied to model mixed traffic with human-driven vehicles and CVs. Results from</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inaccessible: Weakened Social Capital and Barriers to Getting by in a New Mexico Community During the COVID ‐19 Pandemic</title>
-      <link>https://doi.org/10.1111/ruso.70082</link>
-      <guid>doi:10.1111/ruso.70082</guid>
-      <description>Rural Sociology — This qualitative, county‐level study of 58 residents of a Hispanic‐majority community in northern New Mexico (summer 2021) reveals limitations to social capital during disasters or periods of prolonged strain. While previous research demonstrates that social capital sometimes bridges gaps in access for rural residents during ordinary times, this study shows that when the social and physical field shifts—as they did during the COVID‐19 pandemic—social capital is weakened and unable to fully provide the support that policy frameworks often anticipate. These findings reinforce previous literature</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dynamic Relationships Among Energy, Air Transport, ICT , and Economic Growth: Evidence From Emerging Economies</title>
-      <link>https://doi.org/10.1002/sd.71966</link>
-      <guid>doi:10.1002/sd.71966</guid>
-      <description>Sustainable Development — This study examines the associations of energy use, air transport activity and information and communication technology (ICT) with gross domestic product (GDP) per capita in 14 emerging economies during 1990–2023, and whether these infrastructures complement one another. After testing cross‐sectional dependence, unit roots and cointegration, a panel autoregressive distributed lag (ARDL) model is estimated using pooled mean group (PMG) and mean group (MG) estimators. Robustness is assessed using fully modified ordinary least squares (FMOLS), dynamic ordinary least squares (DOLS), common correla</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Protective accessibility for resilient urban mobility under recurrent air threats</title>
-      <link>https://doi.org/10.1007/s44327-026-00421-x</link>
-      <guid>doi:10.1007/s44327-026-00421-x</guid>
-      <description>Discover Cities — Recurrent air threats turn civilian protection into a continuing condition of urban mobility. This study applies GIS-based cumulative-opportunity analysis to define the Protective Shelter Accessibility Index (PSI), a spatial screening measure of the average number of designated shelters reachable from public transport stops through the pedestrian network within 2-, 5- and 15-minute planning horizons. The index is applied to 348 transport analysis zones in Kharkiv and compares a 2019 pre-invasion baseline with a 2024 wartime-adapted operational state. Of 1,212 registered structures screened for</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delineate anything flow: fast, country-level field boundary detection from any source</title>
-      <link>https://doi.org/10.1016/j.jag.2026.105683</link>
-      <guid>doi:10.1016/j.jag.2026.105683</guid>
-      <description>International Journal of Applied Earth Observation and Geoinformation — Accurate satellite data-based field boundary delineation is essential for land management and agricultural statistics, but integrating tile-level predictions into continuous large-area vector products introduces topological errors and computational challenges. We present Delineate Anything Flow (DelAnyFlow), a framework for scalable field instance mapping that integrates the YOLOv11-based DelAny model with structured post-processing, cross-tile instance unification, vectorization, and topology-consistent simplification. DelAny is trained on the Field Boundary Instance Segmentation-22 M (FBIS-2</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>From financial difficulty to financial resilience: the role of financial inclusion, gender, and geography in Saudi Arabia</title>
-      <link>https://doi.org/10.1057/s41599-026-09688-2</link>
-      <guid>doi:10.1057/s41599-026-09688-2</guid>
-      <description>Humanities and Social Sciences Communications — Financial resilience has become an increasingly important dimension of financial wellbeing, reflecting individuals’ capacity to cope with financial shocks and maintain economic stability over time. This study examines financial difficulty and financial resilience as interconnected positions along a financial wellbeing continuum and investigates how socio-demographic characteristics and multidimensional financial inclusion are associated with resilience outcomes in Saudi Arabia. Using microdata from the Global Findex Database 2025, the analysis employs ordered logistic and multinomial logistic </description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Toward a hybrid digital twin of society: Quantifying cognitive–spatial linkages through online–offline feedback networks</title>
-      <link>https://doi.org/10.1016/j.urbmob.2026.100319</link>
-      <guid>doi:10.1016/j.urbmob.2026.100319</guid>
-      <description>Journal of Urban Mobility — Digital platforms increasingly shape how people experience and navigate cities, creating a link between virtual information seeking and physical mobility. Despite this growing interdependence, online and offline activities are often studied separately in urban mobility research. This paper proposes the concept and computational framework of the Feedback Network to capture the continuous interaction between cognitive activity in digital environments and behavior in physical space. Using Google Search and Location History data of the same people collected through a data donation framework in Bud</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ambient Air Pollution, Weather and Placental Abruption ( APWA ): Design, Data Linkage and Preliminary Findings</title>
-      <link>https://doi.org/10.1111/ppe.70211</link>
-      <guid>doi:10.1111/ppe.70211</guid>
-      <description>Paediatric and Perinatal Epidemiology — BACKGROUND: Ambient fine particulate matter and gaseous exposures can induce oxidative stress, resulting in a pro-inflammatory response and a thrombotic state. Because these processes can occur during pregnancy, a large epidemiological study was designed to test the hypothesis that ambient air pollution and weather exposures pre-conception and in early pregnancy are associated with chronic abruptions, whereas exposures a few days prior to delivery are associated with acute abruptions. OBJECTIVES: To describe the design, methods and characteristics of the multi-state cohorts in the US, comprisi</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>A quantitative analysis of determinants and severity of rural poverty: a household level cross-sectional study in Rushinga rural district in Zimbabwe</title>
-      <link>https://doi.org/10.1080/03031853.2026.2760344</link>
-      <guid>doi:10.1080/03031853.2026.2760344</guid>
-      <description>Agrekon — Alleviating all forms of poverty is a priority for developing countries like Zimbabwe, but understanding the factors driving household-level rural poverty is vital for achieving the UN SDGs. This study compares the characteristics of poor and non-poor households, estimates ward-level poverty incidence, depth and severity, and examines the household- and location-level factors associated with consumption poverty in Rushinga Rural District, Zimbabwe. Therefore, a multi-stage sampling technique was used to systematically collect cross-sectional data from 300 participants in three wards. The Foste</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perceptions and preferences of urban youth regarding informal green spaces</title>
-      <link>https://doi.org/10.1080/13467581.2026.2765152</link>
-      <guid>doi:10.1080/13467581.2026.2765152</guid>
-      <description>Journal of Asian Architecture and Building Engineering — The continued provision of formal urban green spaces (UGS) is constrained by land and management conditions, while informal green spaces (IGS) can supplement residents’ everyday contact with nature. Based on a field survey in Nankai District and 116 valid questionnaires from young adults in Tianjin, this study examined perceptions of and preferences for IGS and their relationships with sociodemographic characteristics, green-space participation, residential context, and general green-space attitudes. Young adults showed high recognition of and willingness to use IGS but comparatively limited a</description>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Measuring multidimensional housing pressure in equitable and resilient Australian cities</title>
-      <link>https://doi.org/10.1007/s44327-026-00428-4</link>
-      <guid>doi:10.1007/s44327-026-00428-4</guid>
-      <description>Discover Cities — Housing equity is central to resilient, inclusive and sustainable urban development. Yet housing policy is often framed narrowly around prices, rents, supply shortages or individual affordability stress. This paper develops the concept of common-good housing pressure to capture the spatial concentration of housing conditions that affect not only households, but also the wider functioning of cities. Drawing on debates about housing equity, accessibility, spatial inequality and urban resilience, the paper constructs a small-area diagnostic for Australian capital cities using Statistical Area Lev</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Settlement Morphology and Spatial Inequality in Compound Air Pollution: Evidence from Nanping City, China</title>
-      <link>https://doi.org/10.1007/s11270-026-10197-w</link>
-      <guid>doi:10.1007/s11270-026-10197-w</guid>
-      <description>Water Air &amp; Soil Pollution — </description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Migrant Academics: Unpacking Identity, Equity, and Diversity in Migration Discourses</title>
-      <link>https://doi.org/10.1007/978-3-032-36019-9_3</link>
-      <guid>doi:10.1007/978-3-032-36019-9_3</guid>
-      <description>IMISCOE research series — Identity, equity, inclusion and diversity are important conceps related to migrant integration as well as to minority accommodation in traditional migrant destination countries, such as Canada. As migration researchers, we are interested in the dynamic nature of key concepts within migration studies, in particular how they travel, translate, and adapt across diverse geographical boundaries in the course of researchers’ cross-mobilities. In this chapter we reflect on our professional and personal trajectories in Nepal-Denmark-Canada and Greece-Italy-Canada and how these experiences have shaped </description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three roles of evacuation simulation in life-safety-oriented flood disaster management</title>
-      <link>https://doi.org/10.59490/jcrfr.2026.0026</link>
-      <guid>doi:10.59490/jcrfr.2026.0026</guid>
-      <description>Journal of Coastal and Riverine Flood Risk — Evacuation simulation links physical hazard analysis with human response by assessing whether populations exposed to coastal and riverine flood hazards can reach safety within the available time. However, because evacuation is a collective process emerging from individual decisions made during infrequent and rapidly evolving events, behavioral realism, validation, and transferability remain challenging. These challenges can foster skepticism about the reliability of evacuation simulation and constrain its broader application. This Short Communication argues that such limitations do not diminis</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Profiling privacy preservation against gradient inversion attacks in tabular federated learning</title>
-      <link>https://doi.org/10.1007/s10207-026-01360-9</link>
-      <guid>doi:10.1007/s10207-026-01360-9</guid>
-      <description>International Journal of Information Security — Federated learning (FL) enables multiple data holders to train machine learning models collaboratively without centralizing raw data, making it useful in privacy sensitive domains such as healthcare and institutional data sharing. FL keeps data local to clients while communicating only model updates, such as gradients or model deltas. Nevertheless, these updates can expose private client data through gradient inversion attacks (GIAs). We study this risk for tabular FL under an honest-but-curious server threat model across FL protocols, client batch sizes, training stages, attacker assumptions,</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weather4cast at NeurIPS 2023 – Data Fusion for Quantitative Hi-Res Rain Movie Prediction under Spatio-temporal Shifts</title>
-      <link>https://openalex.org/W7238562787</link>
-      <guid>https://openalex.org/W7238562787</guid>
-      <description>Proceedings of Machine Learning Research — Now in its third year, Weather4cast 2023 again advanced modern algorithms in AI and machine learning through a highly topical interdisciplinary challenge at the NeurIPS Competition Track. Predicting hi-res rain radar movies from multi-band satellite sensors required data fusion of complementary signal sources and video frame prediction with super-resolution techniques. This year, quantitative prediction of rain rates was assessed using a balanced multi-class metric. Accurate rain predictions are ever more critical for everyone, with climate change increasing the frequency of extreme precipitat</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>From isolated component failure to coupled degradation networks in proton exchange membrane fuel cells</title>
-      <link>https://doi.org/10.1186/s40580-026-00589-3</link>
-      <guid>doi:10.1186/s40580-026-00589-3</guid>
-      <description>Nano Convergence — Proton exchange membrane fuel cells (PEMFCs) are among the most promising energy conversion technologies for achieving sustainable and carbon-neutral energy systems. Despite remarkable advances in catalyst and membrane materials, the limited durability of membrane electrode assemblies (MEAs) remains a major barrier to large-scale commercialization. Unlike previous studies that treated individual component degradation as isolated failures without adequate mitigation strategies, growing evidence shows these processes are highly interconnected. Chemical, electrochemical, mechanical, thermal, and </description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
