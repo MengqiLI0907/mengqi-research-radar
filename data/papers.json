@@ -1,36 +1,37 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T20:19:31Z",
+    "generated_at": "2026-11-27T20:04:19Z",
     "mode": "openalex_sync",
     "source": "OpenAlex",
     "query_count": 12,
     "failed_queries": 0,
     "new_ids": [
-      "doi:10.20473/jkl.v18i4.2026.342-354",
-      "doi:10.5772/intechopen.1018960",
-      "doi:10.21203/rs.3.rs-11779023/v1",
-      "doi:10.1007/s11883-026-01491-3",
-      "doi:10.1038/s41598-026-80637-4",
-      "doi:10.6084/m9.figshare.35116982",
-      "doi:10.1080/13658816.2026.2756583",
-      "doi:10.37284/eajenr.9.4.6386",
-      "doi:10.21203/rs.3.rs-11639181/v1",
-      "doi:10.70322/ecolciviliz.2026.10028",
-      "doi:10.3389/frai.2026.1887442",
-      "doi:10.1007/s44274-026-01249-3",
-      "doi:10.21203/rs.3.rs-11586392/v1",
-      "doi:10.64376/xm426w17",
-      "doi:10.69930/ajer.v3i3.981",
-      "doi:10.1017/ppr.2026.10103",
-      "doi:10.1029/2026wr044449",
-      "doi:10.3389/fendo.2026.1896735",
-      "doi:10.5194/nhess-26-6055-2026",
-      "doi:10.64898/2026.11.23.26368716",
-      "doi:10.68156/5vns1s47",
-      "doi:10.3389/feduc.2026.2011213",
-      "doi:10.63156/multi05",
-      "doi:10.31223/x5tr5b",
-      "doi:10.3389/fenvs.2026.1996845"
+      "doi:10.1080/17538947.2026.2768603",
+      "doi:10.21275/sr261124165609",
+      "doi:10.18231/j.ijpns.19839.1793960057",
+      "doi:10.5055/jem.1061",
+      "doi:10.1186/s12889-026-30270-7",
+      "doi:10.3389/fmars.2026.1955301",
+      "doi:10.3389/fsrma.2026.1981926",
+      "doi:10.3389/fpubh.2026.1991112",
+      "doi:10.1007/s11869-026-02166-3",
+      "doi:10.1039/d6ra07764a",
+      "doi:10.48550/arxiv.2611.29249",
+      "doi:10.36922/ijps026300185",
+      "doi:10.21203/rs.3.rs-11760855/v1",
+      "doi:10.1038/s41598-026-82111-7",
+      "doi:10.21203/rs.3.rs-11317920/v1",
+      "doi:10.5194/amt-19-7231-2026",
+      "https://openalex.org/W7225447869",
+      "doi:10.1080/16549716.2026.2758953",
+      "doi:10.1017/aee.2026.10224",
+      "doi:10.1186/s12544-026-00873-7",
+      "doi:10.1071/wf25191",
+      "doi:10.32942/x2qt25",
+      "doi:10.3389/fpos.2026.1958934",
+      "doi:10.17613/0hv4j-zx595",
+      "doi:10.64643/ijirt211654",
+      "doi:10.1111/itor.70304"
     ]
   },
   "papers": [
@@ -876,6 +877,30 @@
       "first_seen": "2026-11-13"
     },
     {
+      "id": "doi:10.64643/ijirt211654",
+      "title": "AI-Enabled Internet Of Things For Smart Cities: Applications, Challenges, And Future Research Directions - A Review",
+      "authors": [
+        "Madhura M. Wagh"
+      ],
+      "journal": "International Journal of Innovative Research in Technology",
+      "date": "2026-12-05",
+      "doi": "10.64643/ijirt211654",
+      "url": "https://doi.org/10.64643/ijirt211654",
+      "oa_url": "https://ijirt.org/publishedpaper/IJIRT211654_PAPER.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "The rapid growth of urban populations has increased the demand for efficient, sustainable, and intelligent urban infrastructure. The integration of Artificial Intelligence (AI) and the Internet of Things (IoT), commonly referred to as Artificial Intelligence of Things (AIoT), offers promising opportunities to address these challenges through real-time data collection, intelligent analysis, predictive modelling, and automated decision-making. This review paper examines the role of AI-enabled IoT technologies in the development of smart cities, with particular emphasis on smart transportation, energy management, waste management, environmental monitoring, water resource management, and public safety. It explores how machine learning, deep learning, edge computing, cloud computing, and intelligent sensor networks contribute to optimizing urban services and improving resource utilization. The review also investigates the technological architectures and data-processing approaches used in AIoT-based smart city systems. Despite their potential benefits, the deployment of these technologies faces several challenges, including data privacy, cybersecurity threats, interoperability between heterogeneous devices, scalability, computational requirements, and energy consumption. Furthermore, ethical concerns, algorithmic bias, and the digital divide must be considered to ensure inclusive and responsible implementation. The paper aims to synthesize existing research, identify limitations in current approaches, and highlight future research opportunities in explainable AI, federated learning, edge intelligence, digital twins, and sustainable AIoT architectures. This review is intended to support researchers, urban planners, and policymakers in understanding how AI-enabled IoT can contribute to the development of secure, resilient, efficient, and sustainable smart cities.",
+      "categories": [
+        "mobility",
+        "geoai",
+        "resilience",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.3389/frsus.2026.2014397",
       "title": "Optical GeoAI and spatial modeling enable urban-canopy mapping and resilience screening in Davis, California",
       "authors": [
@@ -1118,6 +1143,34 @@
       "first_seen": "2026-11-16"
     },
     {
+      "id": "doi:10.1080/16549716.2026.2758953",
+      "title": "Long-term PM 10 exposure and the risk of cerebrovascular and cancer mortality: a prospective cohort study in Taiwan",
+      "authors": [
+        "Yih-Tsong Shiau",
+        "Yu‐Kai Lin",
+        "Yun-Ju Lai",
+        "Y.C. Chou",
+        "Yueh-Lin Wu",
+        "Yung‐Feng Yen"
+      ],
+      "journal": "Global Health Action",
+      "date": "2026-11-26",
+      "doi": "10.1080/16549716.2026.2758953",
+      "url": "https://doi.org/10.1080/16549716.2026.2758953",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16549716.2026.2758953?needAccess=true",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background Particulate matter with an aerodynamic diameter of <10 μm (PM10) can induce oxidative stress, thereby accelerating the development of atherosclerosis and promoting cellular mutations. However, evidence regarding the long-term effects of PM10 exposure on cerebrovascular- and cancer-related mortality remains inconsistent.Objective This prospective cohort study evaluated the associations between annual variations in PM10 exposure and the risks of cerebrovascular- and cancer-related mortality among Taiwanese adults.Methods We prospectively followed 82,579 adults who maintained the same residential address from 2005 to 2017. Cause-specific mortality outcomes were ascertained through Taiwan’s national death certificate database over a mean follow-up of 10.6 years. Annual average residential PM10 concentrations were estimated using an ordinary kriging model, and associations with mortality were examined using Fine–Gray subdistribution hazard models accounting for competing risks.Results Across 872,745 person-years of follow-up, 2,553 deaths occurred, including 163 (6.4%) from cerebrovascular disease and 1,203 (47.1%) from cancer. After adjustment for sociodemographic factors, lifestyle behaviors, and comorbidities, each 10 μg/m3 increase in PM10 exposure was associated with higher all-cause mortality (adjusted hazard ratio [aHR], 1.12; 95% CI, 1.09–1.16). Higher PM10 exposure was also associated with increased cerebrovascular mortality (aHR, 1.18; 95% CI, 1.05–1.32) and cancer mortality (aHR, 1.10; 95% CI, 1.05–1.15).Conclusions Long-term exposure to PM10 was significantly associated with increased risks of cerebrovascular and cancer-related mortality. These findings underscore the need for proactive air pollution control strategies to reduce preventable deaths.",
+      "categories": [
+        "smoke",
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.3389/fmars.2026.2020587",
       "title": "Earth observations for monitoring wildfire impacts on coastal water quality",
       "authors": [
@@ -1284,6 +1337,36 @@
       "first_seen": "2026-11-16"
     },
     {
+      "id": "doi:10.5194/amt-19-7231-2026",
+      "title": "Two decades of kilometer-scale daily PM 2.5 from satellite observations and machine learning reveal geographically diverging exposure in Ghana",
+      "authors": [
+        "Abhishek Anand",
+        "Joe Adabouk Amooli",
+        "Selina Amoah",
+        "Esi Nana Nerquaye-Tetteh",
+        "Nana Ama Browne Klutse",
+        "Clement Mensah Ackaah",
+        "Benjamin Essien",
+        "Mawuli Amegah"
+      ],
+      "journal": "Atmospheric measurement techniques",
+      "date": "2026-11-12",
+      "doi": "10.5194/amt-19-7231-2026",
+      "url": "https://doi.org/10.5194/amt-19-7231-2026",
+      "oa_url": "https://amt.copernicus.org/articles/19/7231/2026/amt-19-7231-2026.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Exposure to fine particulate matter (PM 2.5) is a major contributor to the global burden of disease, yet air quality data remain sparse in many low- and middle-income countries, limiting nationwide monitoring and effective policy development. We address this gap by developing a high-resolution (1 km×1 km) gridded dataset of daily surface PM 2.5 concentrations across Ghana from 2005 to 2025 by training multiple machine learning (ML) models built on ground-based monitoring, satellite observations, and reanalysis products of atmospheric composition and meteorology. Estimates from these models were evaluated with measurements from reference-grade monitors and a large network of calibrated low-cost sensors deployed across Ghana. XGBoost showed the strongest performance among all ML algorithms and best captured spatial and temporal variability in PM 2.5 levels. SHapley Additive exPlanations (SHAP) analysis identifies meteorological variables and aerosol optical properties among the important drivers of model-estimated PM 2.5. The long-term gridded PM 2.5 dataset suggests a pronounced north-south exposure disparity in Ghana, with northern regions of the country experiencing substantially higher PM 2.5 concentrations compared to the South, and this difference may be widening at a rate of around 0.15 µg m −3 annually over the 21-year period. This study provides the first long-term high-resolution PM 2.5 exposure estimates for Ghana and presents a scalable framework for generating air quality information in data-sparse regions to support air pollution relevant health impact assessments and evidence-based mitigation policies.",
+      "categories": [
+        "smoke",
+        "justice",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.3389/fpubh.2026.1907123",
       "title": "Assessment of short-term ozone-related mortality burden and health-related economic losses in a typical industrial city: a case study of Zibo, China",
       "authors": [
@@ -1445,30 +1528,6 @@
       "first_seen": "2026-11-16"
     },
     {
-      "id": "doi:10.1016/j.compenvurbsys.2025.102286",
-      "title": "Measuring evacuation rates from mobility data during the McDougall Creek wildfire in British Columbia, Canada",
-      "authors": [
-        "Hui Jeong Ha",
-        "Jed A. Long"
-      ],
-      "journal": "Computers, Environment and Urban Systems",
-      "date": "2025-07-01",
-      "doi": "10.1016/j.compenvurbsys.2025.102286",
-      "url": "https://doi.org/10.1016/j.compenvurbsys.2025.102286",
-      "oa_url": null,
-      "is_oa": false,
-      "citations": null,
-      "type": "article",
-      "abstract": "Estimates neighborhood-scale wildfire evacuation rates from network mobility data and examines spatial patterns and correlates of evacuation behavior.",
-      "categories": [
-        "mobility",
-        "resilience",
-        "smoke"
-      ],
-      "source": "curated",
-      "first_seen": "2026-11-13"
-    },
-    {
       "id": "doi:10.5829/ije.2027.40.01a.08",
       "title": "Optimization of Urban Shortest Path Considering Traffic Congestion and Air Quality Using ICAW and Genetic Algorithm (Case Study: Tehran)",
       "authors": [
@@ -1517,6 +1576,56 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-20"
+    },
+    {
+      "id": "doi:10.1186/s12889-026-30270-7",
+      "title": "Associations of individual exposure to particulate matter with next-day physical activity and sedentary behaviour in older adults: a micro-longitudinal study",
+      "authors": [
+        "Mikaela Bloomberg",
+        "Maya Jones",
+        "Laura A. Brocklebank",
+        "Paola Zaninotto",
+        "Andrew Steptoe"
+      ],
+      "journal": "BMC Public Health",
+      "date": "2026-11-27",
+      "doi": "10.1186/s12889-026-30270-7",
+      "url": "https://doi.org/10.1186/s12889-026-30270-7",
+      "oa_url": "https://doi.org/10.1186/s12889-026-30270-7",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background Staying physically active is essential for healthy ageing. Exposure to high levels of air pollutants such as particulate matter (PM) is associated with less active, more sedentary lifestyles in older adults. Whether results extend to typical fluctuations in daily PM exposure is unclear. We examined associations of higher-than-usual personal exposure to PM (PM 2.5 and PM 10) with next-day movement behaviour in older adults, assessed using concurrently worn personal air quality monitors and accelerometers. Methods The present study used 304 days of data from 67 adults aged 50–85 years living in the UK. For five days, participants wore accelerometers 24-h per day and personal air quality monitors during waking hours. Average daily time spent in movement behaviours (moderate-to-vigorous physical activity [MVPA], light physical activity [LPA], sedentary behaviour [SB]) and step count was extracted from accelerometers, and average daily exposure to PM 2.5 from personal air quality monitors. PM 10 was examined in secondary exploratory analyses. We used linear mixed models to examine within-person associations of deviation from usual PM exposure with next-day movement outcomes, with estimates presented for ‘usual’ (individual mean) and ‘higher-than-usual’ (+ 1 interquartile range, equivalent to 2.6 μg/m 3 beyond individual mean PM 2.5 exposure and 2.8 μg/m 3 beyond individual mean PM 10 exposure) exposure. Analyses were repeated using area-based PM estimates. Results Compared with usual exposure, higher-than-usual PM 2.5 was associated with 8 min less LPA (95% CI =− 14 to − 2) and 483 fewer steps (− 884 to − 82) on the following day. Exposure to higher-than-​​usual PM 10 was associated with 8 min less LPA (− 13 to − 3), 8 min more SB (0 to 15), and 412 fewer steps (− 739 to − 85) on the following day. There was no association with MVPA, and no associations when area-level PM estimates were used as opposed to estimates from personal air quality monitors. Conclusions Typical daily variability in PM exposure in a setting with relatively low overall PM levels was associated with modest next-day differences in movement behaviour in older adults. Higher-than-usual PM exposure was associated with less next-day activity and more sedentary time. Personal monitoring may be important for capturing short-term exposure-behaviour associations.",
+      "categories": [
+        "smoke",
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.3389/fpubh.2026.1991112",
+      "title": "Associations of perceived built and social environments with older adults’ well-being: a comparison of urban historic and modern areas",
+      "authors": [
+        "Zhihui Shen",
+        "Yingqi Gao",
+        "Ninglong You"
+      ],
+      "journal": "Frontiers in Public Health",
+      "date": "2026-11-26",
+      "doi": "10.3389/fpubh.2026.1991112",
+      "url": "https://doi.org/10.3389/fpubh.2026.1991112",
+      "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1991112/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Introduction Older adults’ well-being and its association with the environment have remained a prominent research focus with the rapid growth of the older adult population worldwide and the expansion of urban spaces. However, existing studies exploring perceived environmental factors for improving well-being mostly overlook the intrinsic association between perceived built and social environments in fostering well-being, and insufficiently address the potential variations of influencing factors within urban spaces. Methods To address these shortcomings, this study examines the associations of perceived built and social environments with older adults’ well-being and explores potential differences between urban historic and modern areas by drawing on sample survey data from Fuzhou, China, and using partial least squares structural equation modeling, multigroup analysis, and importance-performance map analysis. Results The results indicate that the perceived built environment exerts a significant positive direct effect on the well-being of older adults, as well as a significant positive indirect effect mediated by the perceived social environment. While the influence pathway shows similarity between historic and modern areas without statistically significant between-group differences, variations in pathway magnitudes are observed. Specifically, the path coefficients representing the positive contributions of the perceived built environment to the perceived social environment and well-being are higher in the historic area. By contrast, the coefficient for the perceived social environment’s effect on well-being is higher in the modern area. Regarding critical environmental factors, built-environment dimensions including air quality, greening construction, and travel convenience are core factors sustaining well-being in the historic area, and the modern area performs better in the social environment centered on perceived safety, but both areas suffer from a consistent deficiency in the noise situation. Conclusion This study offers insights into the in-depth understanding of complex associations between perceived environmental factors and older adults’ well-being, and implications for developing targeted age-friendly improvement strategies in diverse urban areas.",
+      "categories": [
+        "smoke",
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "doi:10.1007/978-3-032-36098-4_112",
@@ -1835,6 +1944,30 @@
       "first_seen": "2026-11-16"
     },
     {
+      "id": "doi:10.1016/j.compenvurbsys.2025.102286",
+      "title": "Measuring evacuation rates from mobility data during the McDougall Creek wildfire in British Columbia, Canada",
+      "authors": [
+        "Hui Jeong Ha",
+        "Jed A. Long"
+      ],
+      "journal": "Computers, Environment and Urban Systems",
+      "date": "2025-07-01",
+      "doi": "10.1016/j.compenvurbsys.2025.102286",
+      "url": "https://doi.org/10.1016/j.compenvurbsys.2025.102286",
+      "oa_url": null,
+      "is_oa": false,
+      "citations": null,
+      "type": "article",
+      "abstract": "Estimates neighborhood-scale wildfire evacuation rates from network mobility data and examines spatial patterns and correlates of evacuation behavior.",
+      "categories": [
+        "mobility",
+        "resilience",
+        "smoke"
+      ],
+      "source": "curated",
+      "first_seen": "2026-11-13"
+    },
+    {
       "id": "doi:10.1016/j.ssci.2025.106812",
       "title": "The impact of wildfire smoke on traffic evacuation dynamics",
       "authors": [
@@ -1929,6 +2062,31 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-20"
+    },
+    {
+      "id": "doi:10.36922/ijps026300185",
+      "title": "Governing mobility as adaptation: A bibliometric and thematic analysis of climate-related human mobility literature in the Southern African Development Community",
+      "authors": [
+        "Wonesai Sithole",
+        "Alice Ncube",
+        "Abiodun Akintunde Ogundeji"
+      ],
+      "journal": "International Journal of Population Studies",
+      "date": "2026-11-26",
+      "doi": "10.36922/ijps026300185",
+      "url": "https://doi.org/10.36922/ijps026300185",
+      "oa_url": "https://article.accscience.com/journal/IJPS/online_first/ijps026300185/article_ijps0263001851_57e97c.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Climate-related human mobility has become an important field of inquiry, yet its treatment across migration, adaptation, and governance scholarship remains conceptually fragmented. This study maps the development, intellectual structure, and substantive orientation of Scopus-indexed research on climate-related human mobility in the 16 member states of the Southern African Development Community (SADC). It combines bibliometric performance analysis, VOSviewer science mapping, and structured thematic interpretation of 1,116 publications retrieved from the Scopus database from its inception to December 31, 2025. The analysis examines publication growth, influential sources, citation structures, co-authorship networks, co-citation patterns, bibliographic coupling, and keyword co-occurrence, while also interpreting how the literature frames mobility forms, climate stressors, adaptation, governance, justice, geographical coverage, and knowledge leadership. Findings show that the field has expanded rapidly since 2020 but remains geographically and epistemically uneven, with South Africa, Tanzania, Zimbabwe, and Mozambique dominating visibility while several smaller, island, and less research-intensive SADC states remain marginal. The intellectual structure is multidisciplinary, drawing on climate science, environmental change, vulnerability, livelihoods, disaster-risk, and migration scholarship. Adaptation, resilience, vulnerability, livelihoods, displacement, and resettlement are prominent in the indexed conceptual structure, whereas governance, justice, and immobility have lower visibility. Guided by a governance-mediated mobility framework, the article interprets migration, displacement, relocation, and immobility as outcomes whose adaptive significance depends on institutions, rights, resources, land tenure, participation, social protection, and destination conditions. The study contributes a SADC-specific geographical and epistemic map of the field and a governance-oriented research agenda, while distinguishing bibliometric evidence from the normative implications developed through the conceptual framework.",
+      "categories": [
+        "mobility",
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "doi:10.21203/rs.3.rs-11779023/v1",
@@ -3252,57 +3410,6 @@
       "first_seen": "2026-11-20"
     },
     {
-      "id": "doi:10.1371/journal.pone.0360390",
-      "title": "Spatiotemporal evolution, regional disparities and influencing factors of structural mismatches between deep aging and high-quality medical resources in China",
-      "authors": [
-        "Ke Sun",
-        "Siqi Zhang",
-        "Fang Wang",
-        "Liqing Li"
-      ],
-      "journal": "PLoS ONE",
-      "date": "2026-11-18",
-      "doi": "10.1371/journal.pone.0360390",
-      "url": "https://doi.org/10.1371/journal.pone.0360390",
-      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0360390&type=printable",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "BACKGROUND: Rapid aging intensifies health equity challenges in China due to growing elderly medical demands. Existing studies focus on macro resource allocation but lack analysis of structural spatial mismatches between aging-related needs and high-quality medical resources. This repeated cross-sectional study aimed to evaluate provincial-level mismatches, analyze spatiotemporal disparities, and identify key influencing factors. METHODS: Using Grade III Class A hospitals to represent high-quality resources, we employed a spatial mismatch index to quantify and analyze spatiotemporal evolution. Regional disparities were assessed via Dagum Gini coefficient decomposition, and key factors were identified using geographical detector analysis. RESULTS: From 2013 to 2023, high mismatch regions declined from 22.6% to 9.7%, while middle mismatch regions increased from 58.1% to 74.2%, indicating predominant intermediate mismatch. Spatially, high mismatch areas were concentrated in eastern and central regions, with a transition from supply excess to insufficiency in the east after 2019. Intraregional disparities widened in eastern and central China but narrowed in the west. Medical payment capacity, air pollution, and regional innovation capacity were identified as primary influencing factors. CONCLUSIONS: China faces a widespread intermediate-level spatial mismatch between aging and high-quality medical resources, with conditions deteriorating in central and western regions. Intraregional disparities are the main source of inequality. Targeted policies should prioritize strengthening medical payment mechanisms, improving environmental quality, and enhancing regional innovation capacity.",
-      "categories": [
-        "smoke",
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-20"
-    },
-    {
-      "id": "doi:10.1088/2752-5309/aec3cd",
-      "title": "Assessing protective behaviors and acceptability of future interventions for childhood wildfire smoke exposure reduction",
-      "authors": [
-        "Jamie Lan",
-        "Catherine J. Karr",
-        "Anjum Hajat",
-        "Esther Min",
-        "Christine T. Loftus"
-      ],
-      "journal": "Environmental Research Health",
-      "date": "2026-11-18",
-      "doi": "10.1088/2752-5309/aec3cd",
-      "url": "https://doi.org/10.1088/2752-5309/aec3cd",
-      "oa_url": "https://iopscience.iop.org/article/10.1088/2752-5309/aec3cd/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Background: As wildfire activity in the United States increases, children are increasingly exposed to unhealthy levels of wildfire smoke. Public health interventions to reduce wildfire smoke impacts are urgently needed, particularly in vulnerable communities facing barriers to self-protection. Little is known about families’ current engagement in protective behaviors or the acceptability of potential future resources, impeding development of effective and acceptable interventions. Methods: We conducted a mixed-methods study using surveys and focus groups among pregnant women and new mothers enrolled in an existing prospective cohort study. A survey administered following a regional wildfire smoke event collected information on protective actions taken, barriers to actions not taken, and interests in future resources. Findings informed a draft protocol for a wildfire smoke intervention, comprised of education, wildfire smoke alerts, and free durable goods (HEPA air cleaner and N95 masks). We subsequently conducted focus groups to gather information on acceptability of the draft protocol. Transcripts were evaluated via thematic analysis, guided by the Theoretical Framework of Acceptability. Results: Of N=94 survey respondents, 74.5% identified as Hispanic or Latino and 46.8% attended some college or more. The protective action most frequently reported was closing windows and doors, with 88% reporting doing so “often.” Barriers to protective actions not taken included gaps in knowledge and financial limitations. Survey participants were interested in future resources, including free durable goods and text alerts about wildfire smoke. Survey findings informed details of a draft intervention package, which was presented to N=15 focus group participants, to assess acceptability and elicit suggestions to refine the protocol. Conclusions: This study shows how collecting data on the experiences of families during wildfire smoke events can directly inform interventions. Focus groups suggest that a multimodal intervention for reducing wildfire smoke during infancy could be effective in this and similar communities.",
-      "categories": [
-        "smoke",
-        "justice"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-21"
-    },
-    {
       "id": "doi:10.1016/j.jemets.2026.100055",
       "title": "EUBURN: The southern Europe biomass burning programme",
       "authors": [
@@ -3531,6 +3638,57 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-16"
+    },
+    {
+      "id": "doi:10.1371/journal.pone.0360390",
+      "title": "Spatiotemporal evolution, regional disparities and influencing factors of structural mismatches between deep aging and high-quality medical resources in China",
+      "authors": [
+        "Ke Sun",
+        "Siqi Zhang",
+        "Fang Wang",
+        "Liqing Li"
+      ],
+      "journal": "PLoS ONE",
+      "date": "2026-11-18",
+      "doi": "10.1371/journal.pone.0360390",
+      "url": "https://doi.org/10.1371/journal.pone.0360390",
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0360390&type=printable",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "BACKGROUND: Rapid aging intensifies health equity challenges in China due to growing elderly medical demands. Existing studies focus on macro resource allocation but lack analysis of structural spatial mismatches between aging-related needs and high-quality medical resources. This repeated cross-sectional study aimed to evaluate provincial-level mismatches, analyze spatiotemporal disparities, and identify key influencing factors. METHODS: Using Grade III Class A hospitals to represent high-quality resources, we employed a spatial mismatch index to quantify and analyze spatiotemporal evolution. Regional disparities were assessed via Dagum Gini coefficient decomposition, and key factors were identified using geographical detector analysis. RESULTS: From 2013 to 2023, high mismatch regions declined from 22.6% to 9.7%, while middle mismatch regions increased from 58.1% to 74.2%, indicating predominant intermediate mismatch. Spatially, high mismatch areas were concentrated in eastern and central regions, with a transition from supply excess to insufficiency in the east after 2019. Intraregional disparities widened in eastern and central China but narrowed in the west. Medical payment capacity, air pollution, and regional innovation capacity were identified as primary influencing factors. CONCLUSIONS: China faces a widespread intermediate-level spatial mismatch between aging and high-quality medical resources, with conditions deteriorating in central and western regions. Intraregional disparities are the main source of inequality. Targeted policies should prioritize strengthening medical payment mechanisms, improving environmental quality, and enhancing regional innovation capacity.",
+      "categories": [
+        "smoke",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-20"
+    },
+    {
+      "id": "doi:10.1088/2752-5309/aec3cd",
+      "title": "Assessing protective behaviors and acceptability of future interventions for childhood wildfire smoke exposure reduction",
+      "authors": [
+        "Jamie Lan",
+        "Catherine J. Karr",
+        "Anjum Hajat",
+        "Esther Min",
+        "Christine T. Loftus"
+      ],
+      "journal": "Environmental Research Health",
+      "date": "2026-11-18",
+      "doi": "10.1088/2752-5309/aec3cd",
+      "url": "https://doi.org/10.1088/2752-5309/aec3cd",
+      "oa_url": "https://iopscience.iop.org/article/10.1088/2752-5309/aec3cd/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background: As wildfire activity in the United States increases, children are increasingly exposed to unhealthy levels of wildfire smoke. Public health interventions to reduce wildfire smoke impacts are urgently needed, particularly in vulnerable communities facing barriers to self-protection. Little is known about families’ current engagement in protective behaviors or the acceptability of potential future resources, impeding development of effective and acceptable interventions. Methods: We conducted a mixed-methods study using surveys and focus groups among pregnant women and new mothers enrolled in an existing prospective cohort study. A survey administered following a regional wildfire smoke event collected information on protective actions taken, barriers to actions not taken, and interests in future resources. Findings informed a draft protocol for a wildfire smoke intervention, comprised of education, wildfire smoke alerts, and free durable goods (HEPA air cleaner and N95 masks). We subsequently conducted focus groups to gather information on acceptability of the draft protocol. Transcripts were evaluated via thematic analysis, guided by the Theoretical Framework of Acceptability. Results: Of N=94 survey respondents, 74.5% identified as Hispanic or Latino and 46.8% attended some college or more. The protective action most frequently reported was closing windows and doors, with 88% reporting doing so “often.” Barriers to protective actions not taken included gaps in knowledge and financial limitations. Survey participants were interested in future resources, including free durable goods and text alerts about wildfire smoke. Survey findings informed details of a draft intervention package, which was presented to N=15 focus group participants, to assess acceptability and elicit suggestions to refine the protocol. Conclusions: This study shows how collecting data on the experiences of families during wildfire smoke events can directly inform interventions. Focus groups suggest that a multimodal intervention for reducing wildfire smoke during infancy could be effective in this and similar communities.",
+      "categories": [
+        "smoke",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-21"
     },
     {
       "id": "doi:10.1007/s10098-026-03642-1",
@@ -3777,6 +3935,28 @@
       "first_seen": "2026-11-16"
     },
     {
+      "id": "doi:10.18231/j.ijpns.19839.1793960057",
+      "title": "Climate change, air pollution, and pediatric health: Emerging evidence on respiratory disease, neurodevelopment, and childhood vulnerability",
+      "authors": [
+        "Shivam Dubey"
+      ],
+      "journal": "IP Journal of Paediatrics and Nursing Science",
+      "date": "2026-11-06",
+      "doi": "10.18231/j.ijpns.19839.1793960057",
+      "url": "https://doi.org/10.18231/j.ijpns.19839.1793960057",
+      "oa_url": "https://jpns.in/archive/volume/9/issue/3/article/28159/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Climate change and air pollution are both interrelated environmental factors that pose health risks to children with potential lifelong impacts on respiratory health, neurodevelopment, and wellbeing. Children are especially vulnerable due to their immature organ systems, increased breathing rates compared to their body weights, and dependence on environmental quality established by the households, schools, and communities they belong to. Increased temperature, wildfires, a change in aeroallergens' distribution, and extreme weather events can increase the exposure to particulates and ozone and other forms of pollution. Exposures to such factors lead to respiratory infections, asthma exacerbations, poor lung development, and negative impacts on neurodevelopment. This risk is borne primarily by socioeconomically disadvantaged children, especially those from dense urban environments and low- and middle-income countries. While the connection between air pollution and respiratory disease is well-established, many questions about the effects of co-exposures to different environmental factors, vulnerable developmental periods, and long-term health outcomes remain unresolved. This literature review explores the connections between climate change, air pollution, respiratory disease, and childhood neurodevelopment. There will be specific emphasis on biological vulnerabilities, social disparities, and prevention strategies. Environmental health surveillance combined with pediatric care and public health policy could possibly decrease preventable childhood diseases.",
+      "categories": [
+        "smoke",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.1016/j.catena.2026.110717",
       "title": "Ash cover accelerates the mineralization of labile soil organic matter following experimental fire",
       "authors": [
@@ -3990,7 +4170,7 @@
       "date": "2026-11-25",
       "doi": "10.37284/eajenr.9.4.6386",
       "url": "https://doi.org/10.37284/eajenr.9.4.6386",
-      "oa_url": "https://doi.org/10.37284/eajenr.9.4.6386",
+      "oa_url": "https://journals.eanso.org/index.php/eajenr/article/download/6386/6663",
       "is_oa": true,
       "citations": 0,
       "type": "article",
@@ -4027,6 +4207,30 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-26"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2611.29249",
+      "title": "Tissot indicatrix for location encoders: Characterizing local distortion in learned geographic embeddings",
+      "authors": [
+        "Guofeng Cao",
+        "Gengchen Mai"
+      ],
+      "journal": "arXiv",
+      "date": "2026-11-22",
+      "doi": "10.48550/arxiv.2611.29249",
+      "url": "https://doi.org/10.48550/arxiv.2611.29249",
+      "oa_url": "https://arxiv.org/pdf/2611.29249",
+      "is_oa": true,
+      "citations": 0,
+      "type": "preprint",
+      "abstract": "With the increasing adoption of geographic artificial intelligence, location encoders are widely used to map geographic coordinates to learned embeddings for tasks in Earth observation and geospatial modeling. Similar to map projections, location encoders can distort geographic space, that is, equal-distance displacements in different directions can result in unequal embedding changes. However, such distortion remains largely unexamined, and it can propagate into downstream applications. We adapt Tissot's indicatrix, a cartographic tool for map projection distortion, to characterize this distortion. At each location, we compare encoder outputs at equal distances in 32 directions and fit a tensor, represented by an ellipse, whose elongation (anisotropy) and orientation describe the local distortion. The fit requires only encoder outputs without access to model internals and is validated against references with known geometry. By applying the method to thirteen released checkpoints of five encoder families, we find that distortions vary across space and inherit the input geometry to varying degrees, closely in GeoCLIP with its Equal Earth input (anisotropy correlation of 0.88) and weakly or moderately in the other encoders. The distortion also affects the locations an encoder treats as neighbors. Within 1km of 20 query sites, the 40 nearest neighbors in geographic and embedding space overlap by a median of only 57.5--87.5% across the checkpoints, while the fitted ellipses select exactly the same embedding neighbors in 265 of 299 comparisons. These findings provide a geographic basis for assessing location encoders, and the accompanying eTissot package implements the methods for user-specified encoders.",
+      "categories": [
+        "geoai",
+        "resilience",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "doi:10.1080/13549839.2026.2762343",
@@ -4334,6 +4538,28 @@
       "first_seen": "2026-11-16"
     },
     {
+      "id": "https://openalex.org/W7225447869",
+      "title": "Unraveling Urban Inclusion: A Study on Accessibility to Place Types and Social Satisfaction for Individuals With Disabilities",
+      "authors": [
+        "Minoo Abrishami"
+      ],
+      "journal": "Digital Commons - USU (Utah State University)",
+      "date": "2026-12-01",
+      "doi": null,
+      "url": "https://openalex.org/W7225447869",
+      "oa_url": "https://digitalcommons.usu.edu/context/etd2023/article/1967/viewcontent/LAEPetd2026Dec_Abrishami_Minoo_EMBARGO.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "This research explored how access to everyday destinations influences neighborhood and social satisfaction among individuals with disabilities. It examined how factors such as sociodemographic characteristics, accessibility, and frequency of visits to places contribute to how people experience their neighborhoods and social lives. The study also investigated how satisfaction with one’s neighborhood can mediate the connection between accessibility and overall social satisfaction. First, the study compared different ways of measuring access to places and found that some simpler methods provide similar results to more complicated ones. Next, a survey of 262 Utah residents with physical, sensory, or cognitive disabilities showed that people who visited places of worship, outdoor recreation, restaurants, and grocery stores tended to be more satisfied with their neighborhood and social lives. However, the perceived distance to destinations mattered less than how often people used it. Satisfaction with the neighborhood appears to be the link between a person’s surrounding environment and their social satisfaction. Finally, the research was applied to regional transportation planning, where it showed that living close to a destination does not always mean people with disabilities can reach it comfortably and independently, and that people with disabilities should be included in planning decisions.",
+      "categories": [
+        "mobility",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.22266/ijies2026.1130.73",
       "title": "A Deep Learning-based Feature-level Privacy-preserving and Intrusion Detection Framework for Intelligent Cybersecurity Using Blockchain",
       "authors": [
@@ -4359,6 +4585,28 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-20"
+    },
+    {
+      "id": "doi:10.1017/aee.2026.10224",
+      "title": "Unequal Environmental Conditions of Schooling: Heat and Solar Exposure across Australian Schools",
+      "authors": [
+        "Brendon Hyndman"
+      ],
+      "journal": "Australian Journal of Environmental Education",
+      "date": "2026-11-26",
+      "doi": "10.1017/aee.2026.10224",
+      "url": "https://doi.org/10.1017/aee.2026.10224",
+      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/14F051F7E144BBA48C55919EEFA73902/S0814062626102249a.pdf/div-class-title-unequal-environmental-conditions-of-schooling-heat-and-solar-exposure-across-australian-schools-div.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Schools are not only places where environmental issues are taught, but material settings in which environmental conditions shape participation, movement, outdoor activity and learning. This study analysed heat and solar exposure across Australian schools to examine whether environmental burden is structured by geography, remoteness, school type, sector and socio-economic context. The analysis used 11,039 geocoded school location records (including separate records for individual campuses) from the Australian Curriculum, Assessment and Reporting Authority as the basis for spatial linkage to Bureau of Meteorology gridded climate data for 2025. Descriptive, comparative, correlational and threshold analyses examined exposure across the national school system. High summer heat burden was concentrated in outer regional, remote and very remote schools, and in schools serving less socio-educationally advantaged communities. Solar exposure showed a partly different distributional pattern from heat. The findings position environmental exposure as an unevenly distributed condition of schooling and highlight heat and solar burden as part of environmental inequality in education. They also point to the need for intersectoral school adaptation by education and health authorities, where shade, heat-responsive scheduling, outdoor space design, learner wellbeing and climate-ready facilities are treated as part of the material conditions of quality education.",
+      "categories": [
+        "mobility",
+        "justice"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "doi:10.64898/2026.11.23.26368716",
@@ -5131,6 +5379,35 @@
       "first_seen": "2026-11-17"
     },
     {
+      "id": "doi:10.1071/wf25191",
+      "title": "NIMBY? YIMBY? Proximity to public land and acceptability of fuels treatments on the Kenai Peninsula, Alaska",
+      "authors": [
+        "Kelly Wallace",
+        "G A Webster",
+        "Hannah Brenkert–Smith",
+        "James R. Meldrum",
+        "Cody Evers",
+        "Brenda Ahlberg",
+        "Colleen M Donovan",
+        "Carolyn Wagner"
+      ],
+      "journal": "International Journal of Wildland Fire",
+      "date": "2026-11-26",
+      "doi": "10.1071/wf25191",
+      "url": "https://doi.org/10.1071/wf25191",
+      "oa_url": "https://connectsci.au/wf/article-pdf/doi/10.1071/WF25191/1977232/wf25191.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background Public acceptance is part of successful fuels treatment implementation, especially in wildland–urban interface (WUI) areas near public lands. Aims This study investigates whether proximity to public land is related to fuels treatment acceptance. Methods This study uses survey data from two WUI communities on Alaska’s Kenai Peninsula and generalized additive models (GAMs) to examine whether proximity to public lands and perceptions of wildfire risk relate to acceptance of three fuels treatments: thinning, fuel breaks and pile burning. Key results Overall, homeowners were highly supportive of all investigated treatments, with thinning being the most favored. Acceptance varied by community, highlighting the role of local context. We found no evidence of NIMBY (Not In My Back Yard) attitudes for any treatment. However, we did find YIMBY (Yes In My Back Yard) attitudes for thinning for homeowners within ~100 m of public lands. For all three treatments, acceptance was strongly and consistently positively associated with perceptions of wildfire risk from nearby vegetation. Conclusions Study results suggest that NIMBY–YIMBY dynamics alone may be too simplistic to explain WUI homeowners’ acceptance of fuels treatments. Rather, acceptability varies across treatments and communities and is associated with homeowners’ perceptions of wildfire hazard. Implications Study results underscore the importance of considering community-specific perceptions, and how they vary within communities, in fuels management planning.",
+      "categories": [
+        "smoke",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.3389/frai.2026.1887442",
       "title": "Leveraging small language models for real-time decision support in climate-induced urban mobility disruptions",
       "authors": [
@@ -5208,6 +5485,59 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-26"
+    },
+    {
+      "id": "doi:10.1080/17538947.2026.2768603",
+      "title": "Characterizing fire monitoring actors and collaboration networks in Canada",
+      "authors": [
+        "Morgan A. Crowley",
+        "Lucas Brehaut",
+        "Leah MacPherson",
+        "Razz Routly",
+        "Lynn M. Johnston",
+        "Alex Zahara",
+        "Joanne Hall",
+        "Lucas Arantes‐Garcia"
+      ],
+      "journal": "International Journal of Digital Earth",
+      "date": "2026-11-25",
+      "doi": "10.1080/17538947.2026.2768603",
+      "url": "https://doi.org/10.1080/17538947.2026.2768603",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17538947.2026.2768603?needAccess=true",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Monitoring wildland fires using Earth observation data provides critical information on where and how fires are burning. Increasing pressures in fire management call for greater collaboration, inclusion, and user engagement. Canada is investing in Earth observation-based fire monitoring through programs such as the WildFireSat mission. To maximize the impact of these investments, collaboration and inclusion need to be prioritized. This effort starts with understanding who is in the field, their collaborations, and barriers to collaboration. We present a foundational analysis of those working in fire monitoring in Canada and their research collaborations. Using a mixed-methods approach combining systematic searching, bibliometric analysis, and social network analysis, we identify actors, coauthorship networks, and characteristics of non-publishing or less-connected individuals. Overall, we find that those publishing in fire monitoring in Canada are highly connected. However, representation and coauthorship connections are limited among individuals from northern Canada, NGOs and nonprofits, private companies, Indigenous organizations, and municipalities. More graduate students and postdocs have recently entered the field and published but have fewer coauthorship connections. International collaborations tend to favour nearby or high-research-investment countries. Our findings can inform targeted resources for underserved actors, support interdisciplinary collaboration, and strengthen engagement in Earth observation-based fire monitoring programs.",
+      "categories": [
+        "smoke",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.32942/x2qt25",
+      "title": "Do beaver ponds reduce wildfire effects on boreal riparian areas?",
+      "authors": [
+        "William Samuel",
+        "Andrew Coulson",
+        "Erik Schoen"
+      ],
+      "journal": "EcoEvoRxiv",
+      "date": "2026-11-25",
+      "doi": "10.32942/x2qt25",
+      "url": "https://doi.org/10.32942/x2qt25",
+      "oa_url": "https://ecoevorxiv.org/repository/object/16258/download/28104/",
+      "is_oa": true,
+      "citations": 0,
+      "type": "preprint",
+      "abstract": "Wildfires and beaver populations are both increasing their footprint in high-latitude regions, with major consequences for ecosystems and people. In arid and temperate regions, beaver ponds can reduce wildfire effects on riparian areas, but whether they do so in boreal riparian areas is largely unknown. In this pilot study, we used remote sensing to compare burn severity, vegetation greenness (Normalized Difference Vegetation Index; NDVI), and surface water (Normalized Difference Water Index; NDWI) between 234 beaver ponds and paired peripheral sites (nearby riparian sites without visible beaver features) in 10 wildfires that burned in Interior Alaska between 2016 and 2021. We also compared the burn severity of riparian sites with that of each fire as a whole. Riparian sites burned far less severely than the surrounding landscape: moderate and high severity burn covered 19.5% of riparian sites compared with 80.3% of fire perimeters (p < 0.001), and riparian sites burned less severely in all 10 fires. Burn severity did not differ between beaver ponds and peripheral sites (odds ratio = 1.22, 95% CI 0.84–1.77, p = 0.30). Beaver ponds started the summer with lower NDVI and higher NDWI than peripheral sites, likely reflecting open water. As a result, NDVI declined less, and NDWI increased less at beaver ponds during the fire season, but post-fire values did not differ between site types, and the differences disappeared once starting values were accounted for. Our results suggest that riparian valley bottoms in Interior Alaska act as fire refugia, but we could not detect an additional effect of individual beaver ponds. This may be because peripheral sites were themselves influenced by nearby beaver activity, or because boreal valley bottoms are already wet enough to resist severe burning, leaving little room for beavers to add protection. Whether beavers buffer wildfire effects in boreal riparian areas therefore remains uncertain.",
+      "categories": [
+        "smoke",
+        "remote"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "doi:10.1017/eds.2026.10074",
@@ -5307,6 +5637,31 @@
       "first_seen": "2026-11-25"
     },
     {
+      "id": "doi:10.1111/itor.70304",
+      "title": "Optimal Fortification for Evacuations with Transportation Network Interdiction",
+      "authors": [
+        "William M Titus",
+        "Brian J. Lunday",
+        "Matthew J. Robbins",
+        "Kenneth Mark Hopkinson"
+      ],
+      "journal": "International Transactions in Operational Research",
+      "date": "2026-11-24",
+      "doi": "10.1111/itor.70304",
+      "url": "https://doi.org/10.1111/itor.70304",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/itor.70304",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "This research studies optimal network fortification for evacuation planning under adversarial transportation network disruption caused by natural disasters or terrorist attacks. We formulate a trilevel fortify‐attack‐route mathematical programming model in which a defender fortifies arcs prior to a disaster, an adversarial event interdicts arcs, and evacuees are subsequently routed over the damaged network to safe havens. We develop a decomposition‐based solution approach that combines the attacker‐route interaction within a subproblem using dual reformulation and linearization, while the main problem determines the optimal fortification. We evaluate various methods to strengthen the resulting main problem, including critical attack cuts, Benders cuts, and cuts derived from suboptimal subproblem solutions, and establish finite convergence of these methods. Computational testing on synthetic networks and a representative real‐world earthquake‐tsunami evacuation within the Pacific Northwest demonstrates that suboptimal solution cuts improve computational efficiency. Moreover, we show that allocating computational effort to generate additional suboptimal solutions improves overall algorithm performance.",
+      "categories": [
+        "mobility",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.3389/fenvs.2026.2003802",
       "title": "Air pollution and hospital-treated otitis media: findings from a prospective cohort study",
       "authors": [
@@ -5376,7 +5731,7 @@
       "is_oa": true,
       "citations": 0,
       "type": "preprint",
-      "abstract": "Rationale: Wildfire smoke is an increasing public health threat, yet most epidemiologic studies estimate average smoke-health associations across broad spatial or temporal scales. Such approaches may obscure substantial heterogeneity across individual smoke waves, leaving an important evidence gap for dynamic public health preparedness, risk communication, and clinical practice. Objectives: To estimate event-specific excess respiratory acute care utilization during smoke waves and identify smoke wave features associated with higher excess utilization. Methods: We conducted a statewide study of 18,271,754 respiratory acute care encounters in California from 2006 to 2019. A smoke wave was defined as at least 2 consecutive days during which county-level wildfire smoke fine particulate matter (PM2.5) exceeded the 95th percentile over the study period. We applied a machine learning-integrated two-stage interrupted time-series design to estimate excess respiratory acute care utilization during each event. We then used meta-regressions to examine multiple spatiotemporally varying effect modifiers such as smoke wave duration, intensity, timing, and co-occurring climate and meteorological conditions. Measurements and Main Results: A total of 1,249 smoke waves were identified and examined in this study. Excess respiratory acute care utilization varied substantially across smoke waves. Higher excess utilization was associated with longer smoke wave duration, greater intensity, winter occurrence, short recovery period, overlap with holidays, drought conditions, or co-occurrence with precipitation or extreme heat events. Conclusions: This study proposes a novel analytical framework to systematically evaluate spatiotemporal drivers of heterogeneity in wildfire smoke respiratory health effects. The findings can inform dynamic preparedness and public health response to smoke events.",
+      "abstract": "Rationale Wildfire smoke is an increasing public health threat, yet most epidemiologic studies estimate average smoke-health associations across broad spatial or temporal scales. Such approaches may obscure substantial heterogeneity across individual smoke waves, leaving an important evidence gap for dynamic public health preparedness, risk communication, and clinical practice. Objectives To estimate event-specific excess respiratory acute care utilization during smoke waves and identify smoke wave features associated with higher excess utilization. Methods We conducted a statewide study of 18,271,754 respiratory acute care encounters in California from 2006 to 2019. A smoke wave was defined as at least 2 consecutive days during which county-level wildfire smoke fine particulate matter (PM 2.5) exceeded the 95 th percentile over the study period. We applied a machine learning-integrated two-stage interrupted time-series design to estimate excess respiratory acute care utilization during each event. We then used meta-regressions to examine multiple spatiotemporally varying effect modifiers such as smoke wave duration, intensity, timing, and co-occurring climate and meteorological conditions. Measurements and Main Results A total of 1,249 smoke waves were identified and examined in this study. Excess respiratory acute care utilization varied substantially across smoke waves. Higher excess utilization was associated with longer smoke wave duration, greater intensity, winter occurrence, short recovery period, overlap with holidays, drought conditions, or co-occurrence with precipitation or extreme heat events. Conclusions This study proposes a novel analytical framework to systematically evaluate spatiotemporal drivers of heterogeneity in wildfire smoke respiratory health effects. The findings can inform dynamic preparedness and public health response to smoke events.",
       "categories": [
         "smoke",
         "resilience"
@@ -6527,6 +6882,29 @@
       "first_seen": "2026-11-16"
     },
     {
+      "id": "doi:10.5055/jem.1061",
+      "title": "Building bridges for effective inclusive emergency planning: Averting future crises and fostering resilience in US educational institutions through deaf- and disability-inclusive EOP minimum standards and delivery",
+      "authors": [
+        "Audrey C. Cooper",
+        "Alina Engelman"
+      ],
+      "journal": "Journal of Emergency Management",
+      "date": "2026-11-10",
+      "doi": "10.5055/jem.1061",
+      "url": "https://doi.org/10.5055/jem.1061",
+      "oa_url": "https://wmpllc.org/ojs/index.php/jem/article/download/4177/4451",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Research on school-based emergency planning demonstrates that deaf and disabled students, instructors, and staff face considerable barriers to accessing potentially life-saving information, training, and response at United States (US) educational institutions. This article discusses the critical role that minimum standards for deaf and disability-inclusive emergency operations plans (EOPs) and individual emergency operations plans (IEOPs) could play in effective emergency planning and response for K-12 schools and institutions of higher education. Despite governmental emergency planning initiatives and a dedicated school safety industry, evidence indicates that there is great variability among states with inclusive school-based EOPs and IEOPs, and that there are no national guidelines specifically addressing the inclusive components of EOPs and IEOPs. Our article describes the history of EOP development and implementation in the US, the movement to develop inclusive EOPs and IEOPs, and the rising challenges impacting campus operations, followed by providing four recommended pathways supporting the development of inclusive EOPs. We contend that inclusive minimum standards support reliability and consistency across schools and campuses, particularly when such efforts engage a wide range of deaf and disability stakeholders. We demonstrate how this can be achieved through (1) inclusive EOP exemplars, (2) an institutional decision-making tree, (3) guidance on stakeholder partnerships, and (4) inputs from international frameworks. In these precarious times, the future of resilient emergency management efforts presents an opportunity to view schools as hubs for whole community inclusive action and to take proactive steps utilizing informed decision-making and actionable guidance that will ensure that emergency planning reaches every member of the community.",
+      "categories": [
+        "mobility",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.21203/rs.3.rs-11233644/v1",
       "title": "From Evacuation to Relocation: Hurricane Mobility Sequences and Climate Migration Destination Choice",
       "authors": [
@@ -7616,6 +7994,30 @@
       "first_seen": "2026-11-20"
     },
     {
+      "id": "doi:10.3389/fmars.2026.1955301",
+      "title": "Threshold dynamics in coastal vulnerability and adaptive governance pathways: a case study of Jiaozhou Bay social-ecological system",
+      "authors": [
+        "Lehua Gao",
+        "Longxuan Zhang",
+        "Xueke Yang"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "date": "2026-11-26",
+      "doi": "10.3389/fmars.2026.1955301",
+      "url": "https://doi.org/10.3389/fmars.2026.1955301",
+      "oa_url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1955301/pdf",
+      "is_oa": true,
+      "citations": 1,
+      "type": "article",
+      "abstract": "Introduction Under the background of United Nations Sustainable Development Goal 14 (Life Below Water), multi-agent collaborative governance of marine eco-economic systems faces prominent practical challenges. Coastal social-ecological vulnerability assessment and dynamic prediction are essential to support scientific marine governance. This study takes Jiaozhou Bay as the research area to explore the long-term evolutionary characteristics, driving factors and optimal governance paths of its coastal social-ecological vulnerability. Methods An integrated DPSIR-ESA evaluation framework with 39 indicators was established to quantify the coastal social-ecological vulnerability of Jiaozhou Bay from 1980 to 2022. A system dynamics model containing three stock variables and five flow variables was built to simulate historical vulnerability evolution and different governance scenarios. Multivariate ordered logit regression was adopted to identify the core influencing factors of vulnerability changes. Results The vulnerability of Jiaozhou Bay presents a typical “spoon-shaped” evolutionary trend: natural stable stage before 2000 (vulnerability <0.05), rapid growth stage from 2000 to 2015 (reaching the peak value of 0.2887 in 2012), and slow decline stage from 2015 to 2022 (still at a medium-high level of 0.1874). Climate warming (coefficient=13.070) and economic pressure (coefficient=6.036) are major factors exacerbating vulnerability, while technological innovation (coefficient=−12.063) can effectively curb vulnerability. Among the three designed governance paths, the ecological-benefit path (2.5% annual reduction of pollutant emission and fishing intensity) achieves the most obvious mitigation effect, with its annual vulnerability growth rate 2.10 percentage points lower than the baseline scenario (9.68% annual growth), which is superior to the economic path (0.20 percentage points) and the technological path (0.04 percentage points). The model successfully reflects the synergistic relationship among climate, economy and technology. Discussion The results verify the effectiveness of the coupled DPSIR-ESA and system dynamics framework for marine vulnerability early warning and threshold determination. The ecological-benefit oriented governance scheme performs best in vulnerability control. Accordingly, a phased adaptive governance strategy is proposed: short-term implementation of ecological red line management and land-sea pollution joint prevention and control; medium-term promotion of green industrial transformation and circular economy development; long-term construction of intelligent real-time monitoring system combined with digital governance and smart ocean programs. This study improves the adaptive prediction theory of marine eco-economic systems. It can provide decision-making support for balancing ecological conservation and socio-economic resilience in rapidly urbanized coastal areas, and offer references for sustainable ocean development and marine security guarantee.",
+      "categories": [
+        "justice",
+        "resilience"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.6084/m9.figshare.35116982",
       "title": "GeoProbe: layer-wise probing of core geospatial concepts in large language models",
       "authors": [
@@ -7774,7 +8176,7 @@
       "id": "doi:10.1111/padr.70096",
       "title": "The Demographic Impact of Leadership: Mayoral Education and COVID‐19 Excess Mortality in Italy",
       "authors": [
-        "FRANCESCO MATTIOLI",
+        "Francesco Mattioli",
         "Alessandra Minello",
         "Tommaso Nannicini"
       ],
@@ -10508,6 +10910,119 @@
       "first_seen": "2026-11-26"
     },
     {
+      "id": "doi:10.21275/sr261124165609",
+      "title": "Reducing Smoke Exposure from Winter Warming Fires: A Global Comparative Framework with Evidence from Bihar and Uttar Pradesh",
+      "authors": [
+        "Vikas Kumar Giri"
+      ],
+      "journal": "International Journal of Science and Research (IJSR)",
+      "date": "2026-11-26",
+      "doi": "10.21275/sr261124165609",
+      "url": "https://doi.org/10.21275/sr261124165609",
+      "oa_url": "https://www.ijsr.net/archive/v15i11/SR261124165609.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Background: An open fire gives you heat exactly where you need it (a street vendor, a night watchman, someone sleeping outside, etc.). If you take that fire away and don't provide accessible warmth, then you're just swapping smoke exposure for cold exposure. Northern India is a good place to look at both risks in one. Objectives: To establish where winter warming fires have been recorded to make inferences about exposure and to propose a field assessment of combustion-free warmth and indoor particle filtration. Methods: A targeted narrative synthesis of the Indian field and survey studies, local reporting, atmospheric research, health advice and filtration evidence. The sources were interpreted at the scale at which they were measured (from the fuel burnt to the conditions in the occupied shelter). The practice is documented in the Patna municipal research and the winter reports from Lucknow. Indian field data confirms that residential heating results in the emission of fine particles. Neither of those reports provides any indication of the proportion of disease in either state attributable to the warm fires. A sensible intervention would be to provide heated shelter (or on-duty warming breaks) with a budget for electricity and maintenance, an appropriately sized particle filter for an enclosed room, and local language instructions on how to use the service. A paired-site study would be the best way to assess personal exposure and thermal comfort across the same shifts, including those who are unable to use the shelter. The author's observation of the smoke is the reason for pairing the particle and CO monitoring. The published fuel test results provide a good indication of the likely gases, and a smoke-free, heated room is a very practical environment for testing particle filtration.",
+      "categories": [
+        "smoke"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.3389/fsrma.2026.1981926",
+      "title": "Energy storage regimes as a framework for interpreting energy transitions",
+      "authors": [
+        "Graham Palmer",
+        "Joshua Floyd"
+      ],
+      "journal": "Frontiers in Sustainable Resource Management",
+      "date": "2026-11-26",
+      "doi": "10.3389/fsrma.2026.1981926",
+      "url": "https://doi.org/10.3389/fsrma.2026.1981926",
+      "oa_url": "https://www.frontiersin.org/journals/sustainable-resource-management/articles/10.3389/fsrma.2026.1981926/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Energy transitions are commonly framed as shifts in primary energy supply, with energy storage treated as a technical adjunct rather than a structural feature of socio-technical systems. This paper develops the concept of energy storage regimes to examine the role of storage in the development of human societies and its implications for contemporary decarbonisation. We explore how different forms of storage have enabled the temporal and spatial reorganization of work and heating across successive stages of societal development. Drawing on examples from agrarian societies, the fossil-fuel age, and contemporary energy systems, we show that storage has profoundly shaped patterns of settlement, mobility, production, and social organization. We argue that decarbonisation entails a transition from an energy system in which storage is intrinsic to energy resources and infrastructures toward one that more closely resembles a just-in-time system of energy provision. Drawing on Joseph Tainter's theory of socio-political complexity, we propose the hypothesis that this transition will entail increasing system-wide resource requirements to reproduce functions previously provided implicitly by fossil-fuels and associated infrastructures. Contemporary developments—including battery storage systems, synthetic fuels, and increasingly complex market and system coordination—can be understood as manifestations of this process. Whether these developments exhibit diminishing marginal returns, with consequent implications for societies' ability or willingness to bear the associated costs, or whether systemic complexity and associated costs ultimately stabilize, is an empirical question.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.1007/s11869-026-02166-3",
+      "title": "Associations between grandmothers’ and mothers’ air pollution exposure and preterm birth among black and white families in South Carolina, United States",
+      "authors": [
+        "Miatta A. Buxton",
+        "Nancy L. Fleischer",
+        "Marie S. O’Neill",
+        "Annie E. Ro"
+      ],
+      "journal": "Air Quality Atmosphere & Health",
+      "date": "2026-11-26",
+      "doi": "10.1007/s11869-026-02166-3",
+      "url": "https://doi.org/10.1007/s11869-026-02166-3",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11869-026-02166-3.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Preterm birth rates are persistently higher among Non-Hispanic Black (Black) versus Non-Hispanic White (White) individuals in the United States. Intergenerational influences may play a role. We combined birth records across three generations in South Carolina (1989–2020) and linked them with annual air pollution estimates from the census tract of maternal residence. We estimated separate associations between ozone, PM 10, NO 2, and SO 2 exposure during pregnancy among grandmothers (Generation 1; G1) and their firstborn daughters (G2), and preterm birth among firstborn children of G2 (G3). We fit mixed effect models and calculated adjusted odds ratios (aOR) and 95% confidence intervals (95%CIs) for associations of: (I) G1 exposure; (II) G2 exposure; and (III) G1 + G2 exposures with preterm birth among G3. Additionally, we evaluated associations by race with stratified models. Among 38,596 Black and 40,112 White families, air pollution declined over time; thus, G1 was exposed to higher levels of pollution than G2. Grandmothers’ PM 10 (aOR = 1.11; 1.04–1.19 95% CI) and SO 2 exposures (aOR = 1.03; 1.02–1.05 95% CI) were associated with increased odds of preterm birth among G3. Associations between air pollution and preterm birth among G3 varied by race: Black grandmothers (PM 10: aOR = 1.20; 1.10–1.31 95% CI and SO 2: aOR = 1.05; 1.03–1.07 95% CI), and White grandmothers (PM 10: aOR = 1.01; 0.91–1.12 95% CI and SO 2: aOR = 1.02; 1.00-1.04 95% CI). For mothers, SO 2 (aOR = 1.06; 1.01–1.14 95% CI), and ozone exposures (aOR = 1.09; 1.03–1.15 95% CI) were associated with increased odds of preterm birth among G3. Findings suggest intergenerational influences of air pollution on preterm birth.",
+      "categories": [
+        "smoke"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.1186/s12544-026-00873-7",
+      "title": "Everyday encounters on the bus: courtesy and incivility in public transport",
+      "authors": [
+        "Vania Aparecida Ceccato",
+        "Joséphine Hébras"
+      ],
+      "journal": "European Transport Research Review",
+      "date": "2026-11-26",
+      "doi": "10.1186/s12544-026-00873-7",
+      "url": "https://doi.org/10.1186/s12544-026-00873-7",
+      "oa_url": "https://link.springer.com/content/pdf/10.1186/s12544-026-00873-7.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Understanding everyday social interactions in public transport is key to creating more inclusive and pleasant travel experiences. We investigate the nature of social interactions on buses by observing and recording the behaviours of passengers and drivers throughout a bus journey in Stockholm, the capital of Sweden. Using a fieldwork protocol that covered both peak and off-peak hours on weekdays and weekends, we present findings from systematic observations along the busy Bus Line 4, collected over a month in spring 2025. Out of the 112 observed encounters, the majority involved some form of incivility, while about a quarter reflected acts of courtesy or kindness. The behaviours ranged widely, from disruptive actions like blocking aisles or making noise, to considerate gestures such as offering a seat to someone in need. Among recorded observations, acts of incivility were most frequently associated with men, and social encounters concentrated in standing areas during peak hours and lightly crowded conditions; however, these figures reflect recorded distributions rather than underlying passenger propensities. Recommendations include redesigning buses, training staff, and running passenger awareness campaigns to reduce conflicts and encourage positive social interactions.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.3389/fpos.2026.1958934",
+      "title": "From revolutionaries to citizens: assessing gender norm change in post-conflict Nepal",
+      "authors": [
+        "Prakash Bhattarai",
+        "Nishu Ratna Bastakoti",
+        "Anish Khatri",
+        "Samiksha Neupane"
+      ],
+      "journal": "Frontiers in Political Science",
+      "date": "2026-11-26",
+      "doi": "10.3389/fpos.2026.1958934",
+      "url": "https://doi.org/10.3389/fpos.2026.1958934",
+      "oa_url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1958934/pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "Introduction This paper argues that Nepal’s conflict and protest history has been associated with real change in gender norms, but this change is uneven across the levels at which norms operate and across the social groups navigating them. This paper distinguishes gender norm change at the individual level of personal attitude and identity, the interactional level of what people expect of one another in daily encounters, and the institutional level of law, party structure, and government. Methods Following PRISMA 2020 guidance, this study utilizes a systematic review paired with a longitudinal narrative synthesis. Electronic searches were conducted across JSTOR, NepJOL, Dimensions, and Google Scholar, supplemented by manual grey-literature audits of Nepali government repositories, UN agencies, the World Bank, human rights organizations, and national newspaper archives, for the period 1990 to 2026. Seventy reports were included. The study’s objectives are systematically operationalized across six critical domains: women’s political representation; their inclusion in bureaucratic and security institutions; participation in community-level decision-making; access to property and credit; marriage and household decision-making autonomy; and attitudes toward gender-based violence. Results The empirical analysis demonstrates that Nepal’s post-conflict trajectory has been accompanied by strong and well-documented change at the institutional level. Quotas, reserved seats, and legal reform have measurably increased women’s presence in formal structures. There is also evidence of change at the interactional level, including women’s increased recognition as credible community leaders through their participation in community-based decision-making processes, increased capacity to negotiate their needs with those in positions of power, increased confidence in reporting violence they face and so on. Yet such interactional level changes have moved more slowly and less consistently. This change is also uneven across groups. It is strongest among women who were directly mobilized, particularly former Maoist combatants and women active in the 2006 People’s Movement and the Madhesh movement, and weakest among women who sit at the intersection of gender with caste or ethnic marginalization. Discussion A central argument remains that change at the institutional level does not necessarily translate into equivalent change in everyday gender norms.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
       "id": "doi:10.1007/s11883-026-01491-3",
       "title": "Transportation Noise and Atherosclerotic Cardiovascular Disease",
       "authors": [
@@ -10527,7 +11042,7 @@
       "oa_url": "https://link.springer.com/content/pdf/10.1007/s11883-026-01491-3.pdf",
       "is_oa": true,
       "citations": 0,
-      "type": "article",
+      "type": "review",
       "abstract": "Purpose of Review This narrative review examines transportation noise as a potentially modifiable cardiovascular exposure, emphasizing endothelial dysfunction, vascular inflammation, atherosclerotic disease, and prevention. Recent Findings Controlled human studies demonstrate acute endothelial dysfunction after nighttime transportation noise, while animal experiments support oxidative stress and vascular inflammation. Human FDG-PET/CT findings suggest a stress–arterial inflammatory pathway but remain observational. Structural imaging has not consistently linked noise to plaque burden or calcification progression. Cohorts and meta-analyses generally associate road-traffic noise with small increases in myocardial infarction and stroke, although broader ischemic heart disease estimates are less consistent. Overlapping populations, residual confounding, and exposure error limit causal interpretation. Mitigation can reduce acoustic exposure and improve some intermediate outcomes, but prevention of myocardial infarction or stroke has not been established. Summary Evidence is most direct for acute vascular effects and more uncertain for chronic atherogenesis. Source-level noise mitigation has demonstrated benefits in reducing acoustic exposure and may also improve sleep and reduce noise-related annoyance. Serial plaque imaging and controlled natural experiments with prespecified cardiovascular outcomes are needed to test whether noise reduction prevents atherosclerotic events. Graphical Abstract Transportation noise exposure, proposed biological pathways, and cardiovascular evidence. Road-traffic, railway, and aircraft noise are presented alongside selected World Health Organization guideline values. Noise characteristics, including peak levels and nighttime event frequency, may contribute to sleep disruption and neuroendocrine stress responses. Proposed downstream effects include vascular oxidative stress, inflammation, endothelial dysfunction, and blood-pressure elevation. The lower panel summarizes findings for ischemic heart disease and myocardial infarction, hypertension, heart failure, atrial fibrillation, and cardiovascular mortality. Evidence spans animal experiments, acute human physiological studies, and observational population studies; the illustrated findings concerning post-infarction cardiac dysfunction are primarily experimental. Arrows depict proposed biological relationships rather than a fully established causal pathway in humans. Outcome summaries represent narrative appraisals rather than formal evidence grades, and observational associations remain subject to residual confounding. WHO guideline values should not be interpreted as biological thresholds below which cardiovascular risk is absent. Abbreviations: AF, atrial fibrillation; dB, decibels; eNOS, endothelial nitric oxide synthase; HF, heart failure; HPA, hypothalamic–pituitary–adrenal; IHD, ischemic heart disease; Lden, day–evening–night noise level, incorporating evening and nighttime penalties; Lnight, average nighttime noise level; MI, myocardial infarction; Nox2, NADPH oxidase 2; SNS, sympathetic nervous system; WHO, World Health Organization",
       "categories": [
         "mobility"
@@ -10586,6 +11101,128 @@
       ],
       "source": "openalex",
       "first_seen": "2026-11-26"
+    },
+    {
+      "id": "doi:10.1039/d6ra07764a",
+      "title": "Multifunctional titanium–organic hybrid nanofibers for high-efficiency PM 2.5 filtration and photodynamic air disinfection",
+      "authors": [
+        "Anitha Christy Antonysamy",
+        "Suman R. Nayak",
+        "Raveena PV",
+        "Logamithrai D",
+        "Priyadip Das",
+        "Debabrata Sarkar"
+      ],
+      "journal": "RSC Advances",
+      "date": "2026-11-25",
+      "doi": "10.1039/d6ra07764a",
+      "url": "https://doi.org/10.1039/d6ra07764a",
+      "oa_url": "https://pubs.rsc.org/ra/article-pdf/doi/10.1039/d6ra07764a/15148926/d6ra07764a.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": ") and up to 99% efficiency with a slight increase in loading while maintaining low airflow resistance. Furthermore, the membranes demonstrated sustained structural stability and filtration performance over extended operation. This work presents an effective strategy for designing durable, hydrophobic, and self-disinfecting nanofibrous air filters with strong potential for advanced air purification applications.",
+      "categories": [
+        "smoke"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11760855/v1",
+      "title": "Tracing the wild meat pathway: Knowledge, practices, and human-animal contact in Indigenous communities of the Brazilian Amazon",
+      "authors": [
+        "Felipe Murta",
+        "Alícia Patrine Cacau Santos",
+        "Nicolle Martins Rodrigues",
+        "Hiran Sátiro Souza da Gama",
+        "Nazareno Felipe Santos",
+        "Thais Nogueira",
+        "Victor Carlos Pardo Ratis da Silva",
+        "Pármenas Costa Macedo do Nascimento"
+      ],
+      "journal": "Research Square",
+      "date": "2026-11-25",
+      "doi": "10.21203/rs.3.rs-11760855/v1",
+      "url": "https://doi.org/10.21203/rs.3.rs-11760855/v1",
+      "oa_url": "https://www.researchsquare.com/article/rs-11760855/latest.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "preprint",
+      "abstract": "Background Subsistence hunting contributes to food security and sustains relationships among people, animals, and territory in the Brazilian Amazon. This study examined how Tikuna hunters interpret seasonal conditions and perceived changes in access to game, and how these observations shape decisions along the wild meat pathway, from hunting to consumption and disposal. Methods This ethnographically informed qualitative study was conducted in two predominantly Tikuna communities in the Upper Solimões. In-depth interviews with 19 hunters were integrated with field notes from participant observation on 15 hunting trips. A census of 55 households contextualized food access and living conditions. Thematic analysis used a socioecological framework to examine how individual knowledge, household relationships, community practices, and broader environmental and material conditions shaped decisions along the pathway. Results Hunters used river levels, fruiting patterns, animal movements, and tracks to decide when and where to hunt. Rising waters could concentrate game on higher ground, while low water restricted access to distant hunting grounds. Hunters reported longer journeys to encounter preferred large-bodied game, with implications for who could continue hunting and where carcasses were processed. When preferred species were difficult to find and other foods were scarce, some hunters broadened the range of species or carcass parts they used. Decisions to retain, share, or discard meat also reflected judgments about animal condition, household needs, and access to transport and refrigeration. Processing and disposal brought people and domestic animals into contact with animal tissues and fluids, although pathogen exposure and transmission were not assessed. Conclusions Tikuna hunting knowledge links observations of seasonal and territorial conditions to decisions about food acquisition, processing, and sharing. Potential exposure interfaces emerged within interconnected livelihood practices shaped by influences extending beyond individual knowledge. One Health strategy should combine community-defined priorities and Indigenous expertise, enabling locally appropriate care practices while safeguarding food security and cultural continuity.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.1038/s41598-026-82111-7",
+      "title": "A multi agent simulation of drone volunteer relay delivery for older adults with chronic diseases",
+      "authors": [
+        "Jingling Zhong",
+        "Lu He"
+      ],
+      "journal": "Scientific Reports",
+      "date": "2026-11-25",
+      "doi": "10.1038/s41598-026-82111-7",
+      "url": "https://doi.org/10.1038/s41598-026-82111-7",
+      "oa_url": "https://www.nature.com/articles/s41598-026-82111-7_reference.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "article",
+      "abstract": "The continuous supply of prescription medications is critical for older adults with chronic diseases, yet last-mile logistics often fail in aging communities because of mobility barriers, building-access constraints, and workforce shortages. This study evaluates a Drone-Volunteer Relay Delivery (DVRD) configuration in which UAVs deliver to fixed community relay stations and local volunteers complete the final handover. We use a multi-agent simulation to quantify medication interruption risk under explicitly stated operational assumptions. The model represents older patients, UAVs, and community volunteers, and includes patient-specific interruption tolerance, nonlinear health penalties, stochastic volunteer availability, UAV energy consumption, weather disruption, and thermal exposure during handover. In the base scenario, the simulated Medication Interruption Rate (MIR) was 14.8% for a Direct-to-Home (DTH) UAV configuration and 3.2% for the DVRD configuration; the mean health penalty score decreased by 83.0%. These estimates describe the combined effect of fixed relay infrastructure and volunteer last-mile delivery, not the isolated effect of volunteer participation. Threshold analysis placed the volunteer-availability bottleneck at approximately 0.26 in the base ensemble, and severe wind conditions required payload reduction. The findings suggest that a socio-technical relay configuration may improve simulated medication access in dense aging communities, but the results are model-based and require external empirical validation before deployment.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11317920/v1",
+      "title": "Fail-Closed Certification of Multi-Stage AI Policies",
+      "authors": [
+        "Norkobil Saydirasulov",
+        "Young-Im Cho",
+        "D.A. Davronbekov",
+        "B. A. Nazarov",
+        "Abdinabi Mukhamadiyev"
+      ],
+      "journal": "Research Square",
+      "date": "2026-11-25",
+      "doi": "10.21203/rs.3.rs-11317920/v1",
+      "url": "https://doi.org/10.21203/rs.3.rs-11317920/v1",
+      "oa_url": "https://www.researchsquare.com/article/rs-11317920/latest.pdf",
+      "is_oa": true,
+      "citations": 0,
+      "type": "preprint",
+      "abstract": "Multi-stage AI systems are deployed as policies, not as isolated predictors. Distribution-free risk-control methods can certify a fixed candidate family, but they leave open a practical question: when may several policies share an ordered testing path, and what must be checked before that order is used? We present Admissible Cascade Envelope via Learn-then-Test (ACE-LTT), a fail-closed framework that derives testing structure from policy semantics. Each constrained loss declares the decision set it concerns, comparability is fixed before test outcomes are observed, and only relations supported by the loss and inference contracts enter a testing chain. If a required premise cannot be verified, the procedure returns a typed refusal rather than a weaker certificate. Under the stated sampling assumptions, ACE-LTT controls the probability of any invalid returned certificate at level \\(\\delta\\) and permits lossless fixed-sequence stopping within admissible chains. With the uniform allocation used here, fewer admissible chains cannot shrink the certified set in a successful execution. In a preregistered Monte Carlo study with known truth, 2.3 million admissible-cover comparisons showed no violation of the predicted set inclusion, and none of 90 validity cells met the failure rule. An edge--cloud wildfire case separates certification validity, family informativeness, and deployment preference.",
+      "categories": [
+        "smoke"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "doi:10.17613/0hv4j-zx595",
+      "title": "Energy and Climate Action for Cities: Heat, Buildings, Mobility, Carbon and Adaptive Investment",
+      "authors": [
+        "Wanhong HUANG"
+      ],
+      "journal": "Knowledge Commons Works (Michigan State University)",
+      "date": "2026-11-25",
+      "doi": "10.17613/0hv4j-zx595",
+      "url": "https://doi.org/10.17613/0hv4j-zx595",
+      "oa_url": "https://works.hcommons.org/api/records/nj4mk-1ba03/files/energy_climate.pdf/content",
+      "is_oa": true,
+      "citations": 0,
+      "type": "report",
+      "abstract": "Municipal housing authorities need to protect residents from heat while managing winter heating demand, household costs and lifetime emissions. This report evaluates fixed solar protection and controllable shade through a review of intervention evidence and a paired analysis of 2,560 thermal-model runs across four synthetic climates. The analysis follows a practical mechanism: adjustable shade can block unwanted summer heat and admit useful winter sunlight, but its additional materials carry an upfront carbon cost. Assuming an additional 200 kg of embodied emissions, controllable shade needed to save 33.3 kWh annually to break even over 20 years on a grid emitting a constant 0.30 kg CO₂e per kWh. The threshold rose to 614.1 kWh with a ten-year life and a grid starting at 0.05 kg CO₂e per kWh and decarbonizing by 10% annually. The proposed procurement trial measures occupied indoor temperatures, energy use, control operation and tenant costs so the city can test the model’s assumptions in its own housing stock.",
+      "categories": [
+        "mobility"
+      ],
+      "source": "openalex",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "doi:10.1007/s44274-026-01245-7",
@@ -13149,678 +13786,6 @@
       "citations": 0,
       "type": "preprint",
       "abstract": "Emissions of ammonia (NH 3) from agricultural intensification have increased over the past fifty years, degrading air quality. Although controlling NH 3 emissions has been identified as cost-effective means of improving air quality, policy assessment is hampered by large uncertainties in emission estimates. Here, we perform a daily 4°×5° spatial resolution ensemble Kalman filter inversion of 2013 – 2024 IASI NH 3 observations to estimate NH 3 emissions and trends. We find global NH 3 emissions total 85 Tg a -1 on average over the study period, similar to levels estimated by emissions inventories but reallocated regionally. We then use a machine-learning approach to diagnose drivers of NH 3 emissions trends. We find a significant 1.09 Tg a -2 NH 3 increasing trend in global emissions over the 2014–23 period. While peatland fires, correlated with El Niño events, drive global interannual variability, the increasing NH 3 trend is largely associated with agricultural activity, especially livestock farming. We find an observable climate-driven increasing trend of 0.13 Tg a -2, which in China is enough to offset 48% of NH 3 reductions due to chemical fertilizer controls. We project the climate penalty to 2100 using Coupled Model Intercomparison Project Phase 6 (CMIP6) output and estimate a global climate NH 3 emissions penalty of between 3.5 Tg a -1 (under the 4.5 W m -2 forcing scenario) and 6.6 Tg a -1 (under 7.0 W m -2) by 2100, in line with process-based models. Our quantification of human activities associated with increasing NH 3 emissions can inform control strategy, even as air quality control is constrained by increasing climate penalties.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1186/s12966-026-01947-4",
-      "title": "Empirically grounded projections of shifts in 24-hour movement behaviours under climate change–driven warming",
-      "authors": [
-        "Ty Ferguson",
-        "Carol Ann Maher",
-        "Rachel Curtis",
-        "François Fraysse",
-        "Bastien Lechat",
-        "Suzanne Mavoa",
-        "SEBASTIEN F. M. CHASTIN"
-      ],
-      "journal": "International Journal of Behavioral Nutrition and Physical Activity",
-      "date": "2026-11-06",
-      "doi": "10.1186/s12966-026-01947-4",
-      "url": "https://doi.org/10.1186/s12966-026-01947-4",
-      "oa_url": "https://doi.org/10.1186/s12966-026-01947-4",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Background Climate change is expected to alter daily patterns of sleep, sedentary behaviour and physical activity, with potentially negative health consequences, yet to date there are no projections of 24-hour movement behaviour patterns. This study estimated how different future warming scenarios may alter 24-hour movement behaviour patterns in adults. Methods A secondary analysis using a Monte Carlo simulation framework estimated temperature-dependent distributions of daily movement behaviour duration using data from 368 adults in the Annual Rhythms in Adults (ARIA) study in Adelaide, Australia. A total of 85,182 valid person-days were linked to daily temperature data to determine empirical temperature-behaviour relationships. The resulting distributions were used to simulate behaviour under five Intergovernmental Panel on Climate Change warming scenarios (+ 1.5 °C to + 4.4 °C above pre-industrial levels) across a full calendar year relative to current-climate conditions (+ 0.99 °C above pre-industrial levels). Results Simulations projected small but consistent behavioural shifts with warming. Annual median increased for MVPA (+ 49 min to +4 h 22 min per person/per annum) and LPA (+ 3 h to + 13 h 1 min per person/per annum), while sleep declined (–5 h 29 min to − 23 h 19 min per person/per annum). Physical activity gains were concentrated in cooler months, whereas sleep losses persisted year-round. Changes in sedentary behaviour were minimal and inconsistent. Conclusions Climate warming may modestly increase year-long physical activity but reduce sleep duration, in a temperate-zone Mediterranean climate geography producing meaningful cumulative health implications. However, these might be altered by the effect of other meteorological changes such as rainfall and humidity, which warrant further investigation.",
-      "categories": [
-        "mobility"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.5772/intechopen.1018841",
-      "title": "Cadmium in Plants: Uptake, Transport, Toxicity, Detoxification and Remediation Strategies",
-      "authors": [
-        "Iqra Khan",
-        "Abdul Enam",
-        "Sumaiya Shamim",
-        "Asim Masood",
-        "Shahid Umar",
-        "Nafees A. Khan",
-        "Naser A. Anjum"
-      ],
-      "journal": "IntechOpen eBooks",
-      "date": "2026-11-06",
-      "doi": "10.5772/intechopen.1018841",
-      "url": "https://doi.org/10.5772/intechopen.1018841",
-      "oa_url": "https://www.intechopen.com/citation-pdf-url/1249942",
-      "is_oa": true,
-      "citations": 0,
-      "type": "book-chapter",
-      "abstract": "Cadmium (Cd) is a non-essential and highly toxic heavy metal. It has become a common environmental pollutant and is widely known for its significant impacts on the health of plants, humans (animals), and environmental compartments. This chapter aims to provide an overview of the major sources and pathways of Cd, and its major consequences; highlight important plant and human health consequences of Cd; enlighten the major mechanisms underlying Cd uptake, transport and accumulation; briefly overview physiological/biochemical mechanisms underlying Cd-phytotoxicity; appraise literature available on Cd-(phyto)remediation strategies and underlying mechanisms; highlight selected case (field) studies demonstrating the successful remediation of Cd-contaminated soils; briefly enlighten recent advances in nanotechnology, engineered biochar, microbial consortia, genome editing, and their roles and limitations in the remediation of Cd-contaminated soils; and also list the major aspects so far least (or un)explored on the subject. Overall, Cd-entry sources need to be curbed. An eco-engineered hybrid system is required rather than applying nanotechnology, engineered biochar, microbial consortia, or genome editing in isolation to minimize the load of Cd in soils and its eventual consequences on plants.",
-      "categories": [
-        "mobility"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-21"
-    },
-    {
-      "id": "doi:10.1016/j.urbmob.2026.100316",
-      "title": "How discomfort fosters exclusion: Experiences of people with mobility impairments",
-      "authors": [
-        "Lea Zuckriegl Zuckriegl",
-        "David Durán-Rodas",
-        "Maria-Jose Zungia",
-        "Niya Lafazanska",
-        "Gebhard Wulfhorst",
-        "Floridea Di Ciommo",
-        "Theodora Betsidou",
-        "Maria Paipai"
-      ],
-      "journal": "Journal of Urban Mobility",
-      "date": "2026-11-04",
-      "doi": "10.1016/j.urbmob.2026.100316",
-      "url": "https://doi.org/10.1016/j.urbmob.2026.100316",
-      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2667091726001330/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Comfort and discomfort reflect how people experience their interaction with the environment and can shape mobility and activity levels. This relationship is particularly important when the built environment does not adequately accommodate diverse mobility capabilities, thereby restricting accessibility and participation in social life. People with mobility impairments in specific continue to encounter challenges. This study examines how discomfort emerges, co-occurs, and affects their everyday mobility. Drawing on semi-structured interviews with 79 participants across six European cities, qualitative content analysis identified recurring patterns arising from environmental and temporal conditions, infrastructural shortcomings, inadequate maintenance, information gaps, and social interactions within specific mobility situations and across trip chains. The findings show that discomfort is cumulative and context-dependent rather than singular or isolated. It emerged through interacting environmental, infrastructural, temporal, and social conditions across individual mobility situations and trip chains. Participants responded through behavioural adaptations and mobility restrictions, including changes in routes and travel times, reliance on familiar environments or assistance, and avoidance of particular destinations or entire trips. Although these responses enabled some journeys to continue, they also constrained independent decision-making, reduced flexibility and access to destinations, and limited participation in everyday, social, and public life. Discomfort therefore shaped not only whether people travelled, but also where, when, and how they could be mobile, reinforcing experiences of exclusion and marginalisation.",
-      "categories": [
-        "mobility"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.20381/ruor-32362",
-      "title": "Effects of Wildfire Smoke Particulate Matter and Extreme Heat on the Risk of Congenital Heart Defects in Canada",
-      "authors": [
-        "Yijun Kim"
-      ],
-      "journal": "uO Research (University of Ottawa)",
-      "date": "2026-11-04",
-      "doi": "10.20381/ruor-32362",
-      "url": "https://doi.org/10.20381/ruor-32362",
-      "oa_url": "https://ruor.uottawa.ca/bitstreams/752fec5f-5db0-4c91-aa38-9ca86ffa96b9/download",
-      "is_oa": true,
-      "citations": 0,
-      "type": "dissertation",
-      "abstract": "Background: Wildfire events and temperature anomalies have been increasing in frequency due to climate change. Prenatal exposures to resulting environmental stressors, including wildfire smoke (WFS) PM₂.₅ and extreme heat events (EHEs) may be associated with adverse birth outcomes, specifically congenital heart defects (CHD). Methods: The study cohort was developed using health administrative data across Canada, excluding the province of Quebec. Environmental exposures of PM₂.₅ (all-source, WFS, and non-WFS) and ambient temperatures were assigned to each mother-infant pair based on the maternal residential history. Results: No significant association between WFS PM₂.₅ and CHD was observed. Similarly, no consistent association was identified for EHEs, and no significant additive interaction between WFS events and EHEs was observed. Conclusion: Overall, no clear evidence of association between WFS PM₂.₅ and EHEs on CHD risk was observed. Further research on the implications of wildfires on the relationship between environmental factors and adverse birth outcomes is warranted.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1007/s11356-026-38335-1",
-      "title": "Environmental life cycle assessment of forestry biochar for low-carbon concrete: influence of biogenic carbon accounting",
-      "authors": [
-        "Supun Karunarathna",
-        "Chamila Gunasekara",
-        "David William Law",
-        "Yulin Patrisia",
-        "Letiscia Xavier",
-        "Sujeeva Setunge"
-      ],
-      "journal": "Environmental Science and Pollution Research",
-      "date": "2026-11-04",
-      "doi": "10.1007/s11356-026-38335-1",
-      "url": "https://doi.org/10.1007/s11356-026-38335-1",
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11356-026-38335-1.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "As global interest grows in innovative and sustainable uses of biomass, understanding the environmental implications of integrating timber-derived biochar into concrete is increasingly important. This study presents a cradle-to-gate life cycle assessment (LCA) of biochar production and its application as a 15% sand replacement in 32 MPa concrete, evaluating four portable biochar production systems, the 6050 Carbonator, Air Curtain Burner, Oregon Kiln, and Biochar Systems Incorporated, using feedstocks sourced from forest residues and plantation-derived timber. Two biogenic carbon accounting approaches were applied: the carbon-neutral approach and the recommendation approach. The results show that carbon accounting choices strongly influence Global Warming Potential (GWP) outcomes. Under the Carbon-Neutral approach, the 6050 Carbonator exhibited the lowest net GWP (-1.90 kg CO2-eq kg⁻1 biochar), while the corresponding biochar-modified concrete achieved an approximately 40% lower net GWP than conventional concrete when carbon sequestration was included. Under the Recommendation approach, which explicitly includes biogenic CO2 flows, the plantation-derived biochar concrete scenario achieved a net-negative GWP of -17.49 kg CO2-eq m⁻3 due to biogenic carbon uptake during forest growth. However, several non-GWP impact categories, including acidification, ozone depletion, and eutrophication, increased due to forestry operations and long-distance transportation, with transport contributing up to 78% of impacts in some categories. Overall, the study demonstrates the strong influence of biomass sourcing assumptions and biogenic carbon accounting methodology on LCA outcomes for biochar-based concrete systems. The findings highlight the potential of forestry biochar to support lower-carbon construction while emphasizing the importance of transparent system boundaries, transport logistics, and carbon accounting approaches in sustainability assessments.",
-      "categories": [
-        "mobility"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.3389/fpubh.2026.1911782",
-      "title": "Spatially autocorrelated and clustered associations between short-term exposure to PM2.5 and daily reported confirmed COVID-19 cases across the contiguous United States, 2020–2022",
-      "authors": [
-        "Sheng Li",
-        "Chenglin Tao",
-        "Wei Wang",
-        "Jiayi Chen",
-        "Junyu Wang",
-        "Caiying Luo",
-        "Jian Qian",
-        "Nan Wang"
-      ],
-      "journal": "Frontiers in Public Health",
-      "date": "2026-11-04",
-      "doi": "10.3389/fpubh.2026.1911782",
-      "url": "https://doi.org/10.3389/fpubh.2026.1911782",
-      "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1911782/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Background: Coronavirus disease 2019 (COVID-19) is a highly transmissible respiratory infection that has caused a global pandemic. Evidence for the effect of short-term PM2.5 exposure on COVID-19 incidence varied across regions, and few studies have used advanced spatial analysis methods to examine spatial autocorrelation or clustering in these associations to improve estimation accuracy and identify highly susceptible geographic regions. Methods: In this study, we used a novel three-stage strategy, including generalized additive model (GAM) and the newly developed estimation-error-based scan statistic (EESS) and multivariate conditional meta-autoregression (MCMAR), to fill the gap across the contiguous United States. Results: We found there was significant spatial heterogeneity ( I 2 = 67.416 % , P < 0.001 ), autocorrelation ( ρ = 0.972 , P < 0.001 ), and clustering (four clusters were discovered, P ≤ 0.011 ) in the associations between short-term exposure to PM2.5 and daily reported confirmed COVID-19 cases. Considering the spatial autocorrelation and the spatial clustering effectively improved the fitting results of meta-regression. The pooled relative risk (RR) and 95% confidence intervals (95% CI) for per 10 μg/m3 increase in PM2.5 were 1.0341 and (1.0308, 1.0375). The RRs (95% CIs) for per 10 μg/m3 increase in PM2.5 were 1.0107 (1.0074, 1.0140), 1.1770 (1.1551, 1.1992), 1.0005 (0.9984, 1.0026), 1.0719 (1.0566, 1.0875), and 1.1032 (1.0798, 1.1270) in baseline and clusters 1-4, respectively. By 30 June 2022, a total of 1,761,726 (95% CI: 1,583,970-1,916,779; accounting for 2.06%, 95% CI: 1.85-2.24%) COVID-19 cases were found to be related to elevated PM2.5 exposure relative to the WHO annual mean PM2.5 guideline threshold of 5 μg/m3 across the contiguous United States. The eastern region and central region exhibited greater RR, greater attributable risk percentage, and more attributable cases than the western coastal region. Conclusion: There was significant spatial heterogeneity, autocorrelation, and clustering in the associations between short-term exposure to PM2.5 and daily reported confirmed COVID-19 cases across the contiguous United States.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.21203/rs.3.rs-11258579/v1",
-      "title": "Bioaccessibility and Toxicity of Particle-Bound Metals and Polycyclic Aromatic Hydrocarbons: Sources, Respiratory Fate, Mechanisms, and Risk Assessment",
-      "authors": [
-        "maha zafar qureshi"
-      ],
-      "journal": "Research Square",
-      "date": "2026-11-03",
-      "doi": "10.21203/rs.3.rs-11258579/v1",
-      "url": "https://doi.org/10.21203/rs.3.rs-11258579/v1",
-      "oa_url": "https://www.researchsquare.com/article/rs-11258579/latest.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Particulate matter (PM) mass is widely used to estimate health risk, yet particles with similar mass concentrations can produce very different biological effects. Toxicity depends on source, size, atmospheric aging, chemical speciation, and the mixture of compounds carried on particle surfaces. This critical narrative review examines particle-bound metals and polycyclic aromatic hydrocarbons (PAHs), following their pathway from respiratory deposition and bioaccessibility to oxidative stress and toxicity. Metal release varies with element, source, particle size, extraction conditions, and solid-to-liquid ratio, while acidic lysosomal environments often increase dissolution compared with near-neutral extracellular fluids. PAH release is shaped by hydrophobicity, binding to soot, surfactants, proteins, and changes in the respiratory environment during inflammation. Once released, or when particles are taken up by cells, these constituents may contribute to oxidative stress, antioxidant depletion, inflammation, genotoxicity, and vascular injury. Poorly soluble particles can still remain biologically active even when only a small fraction of their chemical content is released. Interactions between metals and organic compounds may be synergistic or antagonistic, further complicating interpretation of complex PM mixtures. Differences in simulated lung fluids, dosimetry, speciation, and biological validation also limit comparisons across studies. We therefore propose a tiered framework integrating PM mass, source, size, speciation, compartment-specific bioaccessibility, oxidative potential, and delivered-dose toxicology. Bioaccessibility should complement, rather than replace, whole-particle testing. Greater consistency and attention to real-world mixtures may improve source prioritization and health-risk interpretation.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.21203/rs.3.rs-11548795/v1",
-      "title": "Air pollution imposes an unseen compound burden on outdoor thermal comfort across India",
-      "authors": [
-        "Subrahmanya Hari Prasad Peri",
-        "A. N. V. Satyanarayana"
-      ],
-      "journal": "Research Square",
-      "date": "2026-11-03",
-      "doi": "10.21203/rs.3.rs-11548795/v1",
-      "url": "https://doi.org/10.21203/rs.3.rs-11548795/v1",
-      "oa_url": "https://www.researchsquare.com/article/rs-11548795/latest.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Air pollution and thermal stress are experienced together but assessed separately. Here we quantify modelled pollution-related shifts in outdoor thermal comfort across Indian states during 2016–2023, using 423 regulatory monitoring stations and reanalysis-based UTCI. At monthly state scale, pollutant anomalies show no statistically detectable association with UTCI anomalies after accounting for seasonality, consistent with nonlinear machine-learning results. A published index integrating both dimensions fails on transfer to India, producing unphysical comfort gains in clean regions. We therefore recalibrate it with Indian regulatory anchors. The recalibrated index estimates winter and post-monsoon comfort-index shifts concentrated across the Indo-Gangetic Plain, reaching 4°C-equivalent in Delhi. A population-weighted dual-exposure classification shows 2.98 billion person-months of model-defined compound exposure each year, two-thirds of India’s thermal-stress burden. This burden is invisible to thermal indices, and to the separate frameworks that currently govern heat and air quality.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.48550/arxiv.2611.05102",
-      "title": "Characterizing the vertical continuity of fuel strata based on TLS point clouds Gaussian decomposition and overlap metrics",
-      "authors": [
-        "Jesús Torralba",
-        "Luis Á. Ruiz",
-        "Pablo Crespo‐Peremarch",
-        "Marina Simó-Martí",
-        "Juan Pedro Carbonell-Rivera"
-      ],
-      "journal": "arXiv (Cornell University)",
-      "date": "2026-11-03",
-      "doi": "10.48550/arxiv.2611.05102",
-      "url": "https://doi.org/10.48550/arxiv.2611.05102",
-      "oa_url": "https://arxiv.org/pdf/2611.05102",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Vertical forest structure influences fire behavior by regulating understory-to-canopy fuel connectivity, yet operational fuel-type models represent this complexity through discrete classes that only indirectly capture vertical continuity. High-density point clouds offer an opportunity to characterize vertical fuel connectivity in a more explicit and continuous manner, but specific methodological approaches are still required. We applied Gaussian decomposition to vertical height profiles derived from terrestrial laser scanning (TLS) point clouds across 25 permanent forest plots to characterize geometric vertical fuel continuity. A multiscale analysis spanning from the plot scale to ~0.5 $m^2$ units was used to evaluate geometric, probabilistic, and overlap metrics for characterizing fuel strata. The method reproduced the vertical transition between shrub and tree strata, with median Pearson correlations ranging from 0.83 to 0.96 across analysis levels. Probability density overlap metrics and separability indicators, such as the Jeffries-Matusita distance, provided complementary descriptors of vertical continuity. Intermediate spatial scales (3-6 m cells) provided a useful compromise between spatial detail and the consistent representation of shrub-canopy interaction patterns. Finer scales increased variability due to point density reduction and profile irregularity, and low mean squared error values were found insufficient as sole performance indicators. Gaussian decomposition applied to TLS point clouds enables explicit quantification of vertical fuel continuity, a limitation of current discrete classification systems. Continuous vertical connectivity metrics derived from this approach offer a pathway for improving ladder fuel characterization and strengthening decision-making support in wildfire risk assessment.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1029/2026gh001972",
-      "title": "Asthma Exacerbations Following Wildfire Smoke PM 2.5 Exposure Among U.S. Adults",
-      "authors": [
-        "Yanhong Huang",
-        "Li Luo",
-        "Shuguang Leng",
-        "Su Zhang",
-        "Roberta Proffitt Lavin",
-        "Michaela Buenemann",
-        "Yan Lin",
-        "Matthew J. Campen"
-      ],
-      "journal": "GeoHealth",
-      "date": "2026-11-01",
-      "doi": "10.1029/2026gh001972",
-      "url": "https://doi.org/10.1029/2026gh001972",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026GH001972",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Asthma exacerbation can be triggered by various forms of air pollution, including PM 2.5 from wildfire smoke. This study aims to investigate the association between wildfire smoke PM 2.5 exposure and asthma exacerbations in adults during the warm months (April–August) between 2006 and 2019. Using a case‐crossover design, we analyzed 18,935 asthma exacerbation events and four matched control periods per event from the National Institutes of Health (NIH) All of Us research program. We used the conditional logistic regression to estimate the association (odds ratios [ORs]) between wildfire smoke PM 2.5 exposure and asthma exacerbation, considering lag periods of 0–7 days and adjusting for temperature, precipitation, and humidity. Significant positive associations were observed across all lag periods, with adjusted ORs ranging from 1.27 (95% CI: 1.22–1.33) to 1.38 (95% CI: 1.32–1.44). Stratified analyses showed higher odds of asthma exacerbation among older adults, non‐Hispanic Whites, midwestern residents, and those exposed in May. These findings highlight the potential contribution of wildfire smoke PM 2.5 to asthma exacerbations in adults and the importance of targeted public health strategies to reduce exposure during wildfire events.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.21203/rs.3.rs-11167409/v1",
-      "title": "Evaluating CMAQ Representation of Wildfire PM₂.₅ in California (2008–2018): Regime-Dependent Performance and Nonlinear Error Structure",
-      "authors": [
-        "Eimy X. Bonilla",
-        "Jose Perez-Chavez",
-        "Daja Elum",
-        "Olutoyosi Oyelowo",
-        "Samuel Kane",
-        "Rachel E. Connolly",
-        "Miriam E. Marlier",
-        "Jihoon Jung"
-      ],
-      "journal": "Research Square",
-      "date": "2026-11-01",
-      "doi": "10.21203/rs.3.rs-11167409/v1",
-      "url": "https://doi.org/10.21203/rs.3.rs-11167409/v1",
-      "oa_url": "https://www.researchsquare.com/article/rs-11167409/latest.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "Abstract We evaluated daily paired Community Multiscale Air Quality (CMAQ) estimates and observations during California fire seasons (June–October), 2008–2018, using conventional metrics, classifications at 12 and 35 µg m⁻³, two case studies, and a leakage-resistant Random Forest diagnostic. After quarantining 18 CMAQ total PM₂.₅ values above 557 µg m⁻³ without capping, the primary analysis contained 187,051 records. Observed and modeled means were 10.69 and 9.29 µg m⁻³; Pearson r was 0.502 (r² = 0.252), mean bias was − 1.40 µg m⁻³, and RMSE was 9.96 µg m⁻³. CMAQ detected 45.4% of observed events at the descriptive/former annual level of 12 µg m⁻³ and 40.8% at the current 35 µg m⁻³ 24-hour standard level. At 35 µg m⁻³, CMAQ produced more events overall but missed 1,273 of 2,151 observed events because modeled and observed events often did not coincide by site-day. The Random Forest excluded observed PM₂.₅, CMAQ total PM₂.₅, and the no-fire component from its primary features. In an untouched site-year test partition (n = 37,430), R² was 0.711, RMSE was 5.82 µg m⁻³, and MAE was 3.44 µg m⁻³; fire-only CMAQ PM₂.₅ was the dominant predictor. CMAQ remains useful for regional and multi-year analyses, but paired-event detection and localized extreme-smoke estimates require explicit uncertainty treatment.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.22541/essoar.15011380/v1",
-      "title": "Structure Burning Emissions and Plume Rise Influence PM2.5 Concentrations During the 2025 Los Angeles Fires",
-      "authors": [
-        "Soroush E. Neyestani",
-        "Yueqi Jiang",
-        "Yan Lü",
-        "Yucheng He",
-        "Sam James Silva",
-        "Wenfu Tang",
-        "Dandan Wei",
-        "Joshua L. Laughner"
-      ],
-      "journal": "Preprint / source unavailable",
-      "date": "2026-11-01",
-      "doi": "10.22541/essoar.15011380/v1",
-      "url": "https://doi.org/10.22541/essoar.15011380/v1",
-      "oa_url": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15011380/v1",
-      "is_oa": true,
-      "citations": 1,
-      "type": "preprint",
-      "abstract": "Wildland-urban interface (WUI) fires can release substantial emissions from burned structures, yet their air quality impacts remain poorly characterized. We performed multiple high-resolution simulations to incorporate and improve the representation of structure burning emissions for the January 2025 Los Angeles fires in the WRF-Chem model. Applying fire-specific temporal allocation of biomass burning emissions improved agreement of PM 2.5 concentrations with surface observations. Relative to the simulation that only included biomass burning emissions, considering structure burning emissions increased downwind surface and column-integrated PM 2.5 concentrations. Applying plume rise to structural burning emissions shifted more PM 2.5 aloft and substantially reduced their contribution to surface concentrations, while having a smaller effect on column-integrated PM 2.5 . Structure burning increased population-weighted PM 2.5 concentrations in the Los Angeles South Coast area by 14%. Our findings show that representing structure burning emissions and their plume rise is important for modeing air quality and estimating population exposure during WUI fires.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1029/2026ef009797",
-      "title": "Near‐Term Anthropogenic Aerosol Reductions Under a Future Sustainability Pathway Could Avoid Nearly 40% of Mid‐Century PM 2.5 Mortality",
-      "authors": [
-        "Joe Adabouk Amooli",
-        "Kostas Tsigaridis",
-        "Sourangsu Chowdhury",
-        "Sharar Ahmadi",
-        "Robert J. Allen",
-        "Annica M. L. Ekman",
-        "Maxwell T. Elling",
-        "Luke Fraser-Leach"
-      ],
-      "journal": "Earth s Future",
-      "date": "2026-11-01",
-      "doi": "10.1029/2026ef009797",
-      "url": "https://doi.org/10.1029/2026ef009797",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2026EF009797",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Ambitious climate and air quality mitigation cuts anthropogenic aerosol emissions, lowering fine particulate matter (PM 2.5) and mortality, but the magnitude, regional distribution, and uncertainty of these reductions remain insufficiently quantified. Using nine Earth System Models from the Regional Aerosol Model Intercomparison Project (RAMIP), we quantify the PM 2.5 mortality benefits of switching anthropogenic aerosols alone from a low mitigation (SSP3‐7.0) to a high mitigation (SSP1‐2.6) scenario. The switch avoids 2.36 million (95% CI: 1.48–2.57 million) deaths/year globally in 2050, equivalent to 38% of SSP3‐7.0 PM 2.5 ‐attributable mortality. Benefits are largest in East Asia, South Asia, and Africa and smaller in North America and Europe. Global land annual mean PM 2.5 falls by 2%–17% across the RAMIP experiments, reaching 33%–38% near Asian sources. Cuts in East Asia alone avoid 48% of source region and 22% of global PM 2.5 mortality. Uncertainty is dominated by inter‐model variability, followed by health response functions and natural climate variability. Overall, sustainability‐pathway aerosol reductions can avoid nearly 40% of projected PM 2.5 deaths by 2050, with health benefits that are large but highly unevenly spatially distributed.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1002/ajhb.70356",
-      "title": "Poorer Air Quality During Trimesters 2 and 3 of Gestation Is Associated With Decreased Bone Mineral Density in Childhood and Adolescence",
-      "authors": [
-        "Lexi O’Donnell",
-        "Louise Corron",
-        "Ethan C. Hill",
-        "Cait B. McPherson",
-        "Emily Moes",
-        "Claire M. Hodson",
-        "Michael O’Donnell"
-      ],
-      "journal": "American Journal of Human Biology",
-      "date": "2026-11-01",
-      "doi": "10.1002/ajhb.70356",
-      "url": "https://doi.org/10.1002/ajhb.70356",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajhb.70356",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Maternal exposure to air pollution and temperature extremes during pregnancy may impact the health of offspring. The skeletal system is sensitive to gestational exposures, but mechanisms underlying the association between gestational environment and skeletal health are poorly understood. This study focuses on whether bone mineral density (BMD) and porous cranial lesion (PCL) presence (cribra orbitalia/CO and porotic hyperostosis/PH) are altered in individuals with prenatal environmental exposures, including poor air quality index (AQI) and temperature extremes. This study examines whether associations exist between air quality, temperature extremes during gestation, and skeletal health. We expect lower BMD and PCL presence will be associated with poor AQI and elevated temperatures during gestation. METHODS: BMD and PCLs were recorded from the postmortem computed tomography scans of 597 pediatric decedents from New Mexico, aged 6 months to 20.9 years, taken between 2011 and 2023. We reconstructed environmental conditions during gestation using county-level AQI and ambient environmental temperature for the 9 months preceding birth. Analyses include linear and logistic regression (odds ratios). RESULTS: No associations exist between PCL presence or BMD values and temperature extremes during gestation. No association exists between PCL presence and AQI levels. Lower BMD is associated with poorer AQI during Trimesters 2 and 3, with Trimester 2 possibly representing a sensitive developmental window for the development of low BMD later in life.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-18"
-    },
-    {
-      "id": "doi:10.1016/j.hazmp.2026.100104",
-      "title": "Exposure and health risks from indoor plastics, micro/nanoplastics, polymer additives and novel degradants released from fires merit greater scrutiny",
-      "authors": [
-        "Robert C. Hale",
-        "Mark J. La Guardia",
-        "Drew R. Luellen",
-        "Jihyun Cha",
-        "Jacob Ukropec",
-        "Karen M Aneiro",
-        "Jessica H. Jarratt"
-      ],
-      "journal": "Journal of Hazardous Materials Plastics",
-      "date": "2026-11-01",
-      "doi": "10.1016/j.hazmp.2026.100104",
-      "url": "https://doi.org/10.1016/j.hazmp.2026.100104",
-      "oa_url": "https://www.sciencedirect.com/science/article/pii/S3051060026000673/pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Global plastic production is expected to increase 600-fold from 1950 to 2060; a pace 150-times the projected human population growth rate. Demand for chemical additives, polymer fillers, and plastic processing aids increase proportionately. Additives alone may constitute percent-by-weight of finished plastic materials. While pollution from plastic packaging has been most investigated, polymers in durable goods constitute almost half of total plastics produced. Durable goods-related plastics are particularly abundant indoors, in proximity to humans. Therein, they may deteriorate and fragment for years, releasing micro/nanoplastics (MNPs). Ease of MNP transport and biological assimilation increases as particle size decreases. Fragmentation enhances particle surface areas and shortens chemical escape distances thus facilitating releases. Health implications of compositionally diverse indoor MNPs and plastic-associated chemicals warrant greater study due to their substantial and increasing abundances. Burning transforms plastics. Globally, over half of mismanaged plastic wastes are disposed of by open burning. In impoverished and war-torn regions, plastic wastes may be burned for heat and cooking, exacerbated by fuel shortages. Structure, vehicle, wildland urban interface fires, and military conflicts (e.g., recently in the Middle East and Ukraine) consume large plastic stores. These thermal events mobilize MNPs, additives, non-intentionally added chemicals and degradants as a function of the plastics present and burn characteristics. The cascade of unanticipated health issues following the 2001 U.S. World Trade Center terrorist attack exemplifies the difficulty of and urgency for more in-depth investigation of the short- and long-term health consequences of plastic-derived particles and chemicals. Synopsis Global plastic usage is expanding rapidly. However, our understanding of indoor MNP and associated chemical (including degradants following fires) exposures, and likely health risks, require further investigation.",
-      "categories": [
-        "mobility"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "doi:10.1029/2025gh001735",
-      "title": "A Spatiotemporal Causal Machine Learning Framework for Quantifying the Impact of PM 2.5 on Asthma at the Community Level",
-      "authors": [
-        "Jing Li",
-        "Xuantong Wang",
-        "Chu Hong Wei"
-      ],
-      "journal": "GeoHealth",
-      "date": "2026-10-31",
-      "doi": "10.1029/2025gh001735",
-      "url": "https://doi.org/10.1029/2025gh001735",
-      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025GH001735",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Air pollution, particularly fine particulate matter with an aerodynamic diameter of 2.5 μm or smaller (PM2.5), is a leading environmental risk factor for respiratory diseases. While previous studies have investigated the biological mechanisms linking PM2.5 to asthma exacerbation, these studies are unable to scale for population-level assessments. In contrast, most regional analyses rely on traditional statistical models that primarily quantify associations, limiting estimation of health changes under hypothetical pollution interventions. This study introduces a spatiotemporal causal machine learning framework to estimate PM2.5-related changes in asthma outcomes at the county level. Using county-level monthly hospitalization and emergency department records from 2011 to 2019 in Colorado, the framework integrates spatial and temporal representation learning to model geographic interdependence and temporal dynamics in exposure-response relationships. Further, through a causal inference approach, the model estimates model-based counterfactual health outcomes under hypothetical PM2.5 interventions, moving beyond regression-based correlation analysis. Results show that the model-based counterfactual estimates exhibit spatial and population heterogeneity. Larger estimated effects were observed in several communities experiencing compounded environmental and social stressors, while uncertainty was greater in data-sparse counties.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-25"
-    },
-    {
-      "id": "doi:10.1007/s11869-026-02144-9",
-      "title": "Residency duration, risk perceptions, and recent PM2.5 exposure predict protective behaviors toward wildfire smoke: A comparison of recent migrants and long-term Idaho residents",
-      "authors": [
-        "Shahriar Md. Arifur Rahman",
-        "Chris A. B. Zajchowski",
-        "Muhammad Moniruzzaman",
-        "Joohee Lee",
-        "Hana Kim"
-      ],
-      "journal": "Air Quality Atmosphere & Health",
-      "date": "2026-10-30",
-      "doi": "10.1007/s11869-026-02144-9",
-      "url": "https://doi.org/10.1007/s11869-026-02144-9",
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11869-026-02144-9.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "The increasing threat of wildfire smoke in the American West makes understanding the psychological mechanisms underlying protective behavior crucial. This study, rooted in the psychometric paradigm of risk perception, examines how Idaho residents perceive and respond to the risks associated with wildfire smoke. A statewide survey (n = 505) capturing key psychometric constructs, protective behaviors, and residential histories was integrated with 15 years (2009–2023) of spatially interpolated particulate matter (PM 2.5) exposure data and analyzed using structural equation modeling. Results show that ‘dread’, ‘knowledge’ and ‘self-efficacy’ are the most consistent predictors of protective behavior across the full-sample models. After PM 2.5 exposure variables were added, 'recent peak PM 2.5 ' exposure also was found to be positively associated with protective behavior. Exploratory subgroup analyses indicated that, among long-term Idaho residents, ‘dread’ was the only variable significantly related to protective behavior, whereas among recent migrants, ‘dread’, ‘self-efficacy’, and ‘recent peak PM 2.5 exposure’ showed significant positive associations with protective behavior. These findings highlight the affective and experiential components of risk appraisal and adaptation, are consistent with the influence of availability and recency heuristics and suggest possible habituation or shifting environmental baselines among long-term residents. The results underscore the need for risk communication strategies that account for temporal exposure histories, perceptual dynamics, and differences in residency experience, particularly as wildfire smoke increasingly becomes a chronic feature of lived experience in the American West.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "doi:10.5194/ar-4-517-2026",
-      "title": "Measurements and modeling of urban secondary organic aerosol formation potential as a function of precursor volatility class in the Los Angeles area during summer 2022",
-      "authors": [
-        "Melissa A. Ehrenfels",
-        "Benjamin C. Schulze",
-        "Andrew Ryan Jensen",
-        "Afsara Tasnia",
-        "Douglas A. Day",
-        "Pedro Campuzano‐Jost",
-        "Anne V. Handschy",
-        "Melinda K. Schueneman"
-      ],
-      "journal": "Aerosol Research",
-      "date": "2026-10-30",
-      "doi": "10.5194/ar-4-517-2026",
-      "url": "https://doi.org/10.5194/ar-4-517-2026",
-      "oa_url": "https://ar.copernicus.org/articles/4/517/2026/ar-4-517-2026.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Urban secondary organic aerosol (SOA) contributes to degraded air quality, which can affect human health. Improvements in Los Angeles (LA), CA, air quality have mainly plateaued since 2010. In summer 2022, measurements were made to quantify the SOA formation potential (SOA-FP) in ambient LA air. Two oxidation flow reactors (OFRs) ingested ambient air: one was equipped with an electrically conductive polymer inlet that denuded lower-volatility species, and the other was run without an inlet. This allowed the separate quantification of SOA-FP from higher- vs. lower-volatility precursors. To our knowledge these are the first direct measurements of these fractions. Measured ambient SOA was similar, and total SOA-FP was lower in 2022 vs. 2010, consistent with higher ambient OH causing greater consumptions of SOA precursors in 2022. The dual-OFR measurements suggest ∼ 31 % of the total SOA-FP is due to compounds with volatilities in the semi-volatile organic compound (SVOC) and lower intermediate-volatility organic compound (IVOC) ranges. Evidence suggests these lower-volatility precursors are mainly from direct emissions, rather than oxidation products from upwind aging. Results are compared to two box models: one based on CRACMM and the other adapted from a recent Caltech publication. CRACMM predicted ambient OA well but underpredicted SOA-FP by about a factor of 2, while the Caltech model underestimated OA and overpredicted SOA-FP by a factor of 2.5. Our study finds terpenoids contribute to, but do not dominate, SOA-FP.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1021/acsestair.6c00277",
-      "title": "Portable Air Cleaners Are Associated with Low Indoor PM2.5 during the 2025 Los Angeles Wildland-Urban Interface Fires",
-      "authors": [
-        "Brett W. Stinson",
-        "Guisel Rodriguez",
-        "Elliott T. Gall"
-      ],
-      "journal": "ACS ES&T Air",
-      "date": "2026-10-30",
-      "doi": "10.1021/acsestair.6c00277",
-      "url": "https://doi.org/10.1021/acsestair.6c00277",
-      "oa_url": null,
-      "is_oa": false,
-      "citations": 0,
-      "type": "article",
-      "abstract": "Abstract Portable air cleaners (PACs) are recommended during wildfire smoke events, yet large-scale evidence of their protective benefit in residential settings remains limited. This study analyzed data from 736 PACs with integrated sensors (placed in 492 households) and 153 outdoor monitors throughout Los Angeles during the January 2025 wildland-urban interface fires. During peak fire conditions (January 7–11), the mean PM2.5 indoor/outdoor (I/O) ratio was 0.28, with indoor concentrations averaging below 15 μg/m3 across 95% of the study sample. An analysis of proximity to active fire perimeters showed that I/O ratios remained stable over the full range of distances despite a pronounced outdoor concentration gradient, and wind direction and speed data indicated that outdoor smoke was substantially attenuated indoors. A mass-balance model estimated that PAC use reduced potential indoor PM2.5 exposure by a median of 65.9% (interquartile range = 54.4–74.3%). Findings from this large-scale field evaluation suggest that PACs can serve as a practical, scalable option for managing degraded indoor air quality during smoke events.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.65864/js3h8de66c",
-      "title": "From Fireside Intentions to Housing Market Frictions: Evidence from a Major Forest Fire",
-      "authors": [
-        "Patrick Bigler",
-        "Marie-Laure Breuillé",
-        "Camille Grivault",
-        "Sébastien Houde",
-        "Julie Le Gallo",
-        "Alexandra Verlhiac"
-      ],
-      "journal": "CESifo",
-      "date": "2026-10-29",
-      "doi": "10.65864/js3h8de66c",
-      "url": "https://doi.org/10.65864/js3h8de66c",
-      "oa_url": "https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp13103.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "report",
-      "abstract": "We study how different parties active in housing markets react to a climate-risk shock in the form of a large and salient wildfire. We combine administrative and tracked real estate platform data and characterize a clear divergence between intended and realized adjustment due to market dynamics resulting in housing frictions. Housing supply increases substantially and prospective buyers’ interest in exposed locations is lower. Despite the resulting supply-demand imbalance, transaction and offer prices remain stable, consistent with price rigidity preventing intended sales from materializing. Instead, we find evidence consistent with some excess properties being increasingly redirected toward long-term and short-term rental markets. The results reveal an asymmetry: prospective buyers’ demand responds in a manner consistent with increased risk awareness, while owners’ asking prices adjust little. As a result, the shock induces substantial intended housing-market adjustment that does not translate into comparable spatial adjustment, with patterns consistent with market frictions and asset reallocation contributing to this wedge.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1126/sciadv.aeb7647",
-      "title": "Hyperlocal sensing and inverse modeling reveal community impacts of urban air pollutant emissions",
-      "authors": [
-        "Chirag Manchanda",
-        "R. C. Cohen",
-        "Ramon Alvarez",
-        "Tammy M. Thompson",
-        "Maria H. Harris",
-        "Alexander J. Turner",
-        "Julian  D. Marshall",
-        "Robert A. Harley"
-      ],
-      "journal": "Science Advances",
-      "date": "2026-10-28",
-      "doi": "10.1126/sciadv.aeb7647",
-      "url": "https://doi.org/10.1126/sciadv.aeb7647",
-      "oa_url": "https://doi.org/10.1126/sciadv.aeb7647",
-      "is_oa": true,
-      "citations": 2,
-      "type": "article",
-      "abstract": "Addressing urban air pollution requires identifying, quantifying, and mitigating emission sources, yet bottom-up inventories often lack fine spatiotemporal precision and rarely capture unpermitted or informally operated sources. We combine dense mobile and fixed-site measurements in a Bayesian inverse modeling framework to produce hourly, hyperlocal black carbon (BC) emission maps (150 meters by 150 meters) that reveal how and where key sources are underrepresented. In West Oakland, CA-an overburdened community near major freight infrastructure-our approach identifies underestimated and unaccounted emission sources, increasing estimated BC emissions by ∼33%. These corrections quadruple the contribution of neighborhood and port-related sources to population-weighted exposures (from 5 to 20%), disproportionately affecting low-income neighborhoods adjacent to freight corridors. Our results demonstrate that combining dense observational data with inverse modeling enables detection and quantification of overlooked emissions, supporting targeted intervention. Sensitivity analyses indicate similar performance with a substantially reduced fixed-site network (∼10 monitors; ∼1 site per square kilometer, compared with 6.7 sites per square kilometer in the full campaign), paired with time-averaged mobile maps, supporting applicability in data-limited urban settings.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1038/s41598-026-76260-y",
-      "title": "A multimodal framework for UAV-assisted wildfire detection and contextual alert generation using vision-language models and LLM fusion",
-      "authors": [
-        "Hassan Eesaar",
-        "Zeeshan Abbas",
-        "Mobeen Ur Rehman"
-      ],
-      "journal": "Scientific Reports",
-      "date": "2026-10-27",
-      "doi": "10.1038/s41598-026-76260-y",
-      "url": "https://doi.org/10.1038/s41598-026-76260-y",
-      "oa_url": "https://www.nature.com/articles/s41598-026-76260-y_reference.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "The increasing frequency and intensity of wildfires pose a critical threat to ecosystems, property, and human life, creating a need for monitoring systems that combine rapid visual detection with interpretable and actionable reporting. This study presents an integrated multimodal framework for UAV-assisted wildfire monitoring that combines YOLOv12n-based wildfire and smoke detection, Moondream2-based vision-language captioning, and GPT-4o mini-based alert summarization. YOLOv12n is evaluated against six YOLO baselines on an aerial wildfire and smoke dataset and achieves a favorable balance between detection performance and computational efficiency, with an overall precision of 0.649, recall of 0.628, mAP@0.5 of 0.628, an inference time of 1.8 ms, and a model size of 2.52 million parameters. For semantic scene understanding, Moondream2 achieves the highest average BLEU-4, ROUGE-L, and METEOR scores among the evaluated vision-language models. GPT-4o mini similarly outperforms the evaluated summarization baselines in summary-reference alignment, achieving average BLEU-4, ROUGE-L, and METEOR scores of 0.1501, 0.5595, and 0.5461, respectively. Qualitative analysis across five wildfire video scenarios further illustrates the pipeline’s ability to generate contextually relevant descriptions and concise draft alerts under varied visual conditions. Computational measurements for the locally executed models were obtained on a backend workstation, whereas GPT-4o mini was accessed through an external API; therefore, embedded UAV performance and network-inclusive end-to-end latency remain to be validated. Overall, the results demonstrate the potential of combining lightweight visual detection, vision-language reasoning, and LLM-based summarization to support human-verified wildfire situational awareness and emergency decision-making.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1021/acsestair.6c00166",
-      "title": "What Does Sensor Performance Really Mean? A Four-Layer Framework for Interpreting Air Quality Sensor Performance Evaluations",
-      "authors": [
-        "Sebastián Diez",
-        "Stefan Gillott",
-        "Nicole Hannah Cowell",
-        "Carl Malings",
-        "Valerio Ferracci",
-        "Camila Acosta Camargo",
-        "Tim (author) Dye"
-      ],
-      "journal": "ACS ES&T Air",
-      "date": "2026-10-19",
-      "doi": "10.1021/acsestair.6c00166",
-      "url": "https://doi.org/10.1021/acsestair.6c00166",
-      "oa_url": "https://pubs.acs.org/aeacd5/article-pdf/doi/10.1021/acsestair.6c00166/68900996/acsestair.6c00166.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "review",
-      "abstract": "Air quality (AQ) sensors are increasingly used to complement sparse reference-grade monitoring networks, enabling denser spatial coverage, rapid deployment, and new monitoring approaches. Yet, sensor performance evaluations (SPEs) are often communicated through headline metrics and comparative benchmarks that may obscure how results were produced and what they can legitimately support. Under real-world decision constraints, such results may be treated as decision-ready evidence, even when their underlying basis remains incomplete. Here, we propose a four-layer framework for interpreting SPE claims for fixed outdoor AQ sensors. The framework is organized around four main questions: who led the evaluation, what data product was actually evaluated, under what context it was evaluated, and what the reported metrics convey (and do not). From these, we derive a set of guiding questions to help users identify what information is available, missing, or uncertain, avoid overinterpreting underdescribed results, and make more grounded comparisons across studies and sources. The framework is not intended to determine fitness for purpose or prescribe a decision. Rather, it helps end users make the evidential basis of a performance claim more explicit so that they can decide what information matters for their particular use case and whether further clarification or evidence is needed.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.1016/j.mex.2026.104216",
-      "title": "A simplified method for evaluating fine particulate matter removal performance of portable air cleaners",
-      "authors": [
-        "Andrew B. Martin",
-        "Sumit Sankhyan",
-        "Rileigh Robertson",
-        "Marina E. Vance"
-      ],
-      "journal": "MethodsX",
-      "date": "2026-10-17",
-      "doi": "10.1016/j.mex.2026.104216",
-      "url": "https://doi.org/10.1016/j.mex.2026.104216",
-      "oa_url": "https://doi.org/10.1016/j.mex.2026.104216",
-      "is_oa": true,
-      "citations": 0,
-      "type": "article",
-      "abstract": "A simplified method for evaluating the fine particulate matter (PM2.5) removal efficiency of portable air cleaners is presented to support community-engaged research and citizen science. Clean air delivery rate (CADR) values measured in a residence with low-cost sensors were ≈ 26% lower than laboratory measurements obtained using research-grade instruments, providing conservative estimates of air cleaner performance. Ten portable air cleaners (PACs), including seven homemade (\"DIY\") prototypes and three commercial models, were evaluated for physical and economic performance. A four-filter Corsi-Rosenthal box achieved the highest PM2.5 removal performance among the DIY prototypes and adding a fan shroud increased CADR by ≈ 11%. A single 102-mm MERV 13 filter attached to a box fan also produced high CADR values with a compact form factor and low initial cost. Additional tests indicated minimal concerns related to motor temperature and power consumption during residential operation. Analysis of 135 DIY and commercial PAC models showed substantially lower initial cost per CADR unit for DIY models compared to commercial units. This method includes three main elements:•Introducing a short-lived particle source, such as a medical nebulizer, in a well-sealed room.•Measuring PM2.5 concentrations with and without the air cleaner running.•Calculating CADR values using particle decay rates.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.31223/x51z3h",
-      "title": "The July 2026 North American wildfire smoke event was three times deadlier due to climate change",
-      "authors": [
-        "Dmitri A. Kalashnikov",
-        "Emily Williams",
-        "John Abatzoglou",
-        "Cong Yin",
-        "Wenli Ni",
-        "Nicholas Nassikas"
-      ],
-      "journal": "EarthArXiv (California Digital Library)",
-      "date": "2026-10-13",
-      "doi": "10.31223/x51z3h",
-      "url": "https://doi.org/10.31223/x51z3h",
-      "oa_url": "https://eartharxiv.org/repository/object/15486/download/26847/",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "In mid-July 2026, numerous fast-burning wildfires affected western Ontario and northern Minnesota, resulting in extensive smoke plumes across eastern North America. Here, we conduct a rapid attribution analysis of the 14–21 July smoke event, quantifying the change in wildfire smoke (WFS) PM2.5 concentrations and mortality compared to a counterfactual world without anthropogenic climate change (ACC). We find that ACC increased WFS PM2.5 concentrations by approximately three-fold. As a result, population exposure to regulatory exceedances of WFS PM2.5 concentrations (>35 µg/m3) amounted to 268 million person-days, of which 157 million are attributable to ACC. We estimate 770 excess deaths attributable to observed WFS PM2.5 exposure, a three-fold increase compared to a counterfactual world without ACC. This rapid impact-attribution assessment of WFS PM2.5-related mortality provides a methodological framework for quantifying the ACC contribution to other acute air pollution episodes globally.",
-      "categories": [
-        "smoke"
-      ],
-      "source": "openalex",
-      "first_seen": "2026-11-16"
-    },
-    {
-      "id": "doi:10.5194/egusphere-2026-5980",
-      "title": "An overview of FRIDA v3.1: An update to a feedback-based, fully coupled, global integrated assessment model of climate and humans",
-      "authors": [
-        "William Alexander Schoenberg",
-        "Benjamin Blanz",
-        "Jefferson K. Rajah",
-        "Beniamino Callegari",
-        "Christopher Wells",
-        "Theresia B. Putranti",
-        "Francisco Mahú",
-        "María Ofelia Molina"
-      ],
-      "journal": "Preprint / source unavailable",
-      "date": "2026-10-12",
-      "doi": "10.5194/egusphere-2026-5980",
-      "url": "https://doi.org/10.5194/egusphere-2026-5980",
-      "oa_url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5980/egusphere-2026-5980.pdf",
-      "is_oa": true,
-      "citations": 0,
-      "type": "preprint",
-      "abstract": "The Feedback-based knowledge Repository for IntegrateD Assessments (FRIDA) v3.1 is a fully coupled climate-human systems model designed to explore the global long-term co-evolution of environmental, technological, economic, financial, and social processes under deep uncertainty. While many integrated assessment models represent climate damages primarily through aggregate economic impacts, important feedbacks among human behaviour, energy systems, land use, climate impacts, technological change, and financial stability remain weakly represented or exogenous. FRIDA v3.1 addresses this limitation through a system dynamics framework that embeds these processes within a unified feedback-rich structure, enabling emergent dynamics to arise from interactions across sectors rather than from externally prescribed assumptions. Building on earlier model versions, FRIDA v3.1 introduces representations of climate-driven wildfire dynamics, endogenous fertilizer use, sectorally disaggregated and behaviourally-informed energy demand, climate impacts on wind energy productivity, endogenous life expectancy, carbon capture and storage technologies, and macro-financial policy mechanisms designed to reduce climate-related financial risks. The model integrates these additions with existing representations of the climate system, carbon cycle, hydrology, population, economy, agriculture, land use, and energy supply. Calibration and evaluation against a large historical dataset and extensive uncertainty ensembles show that the updated model reproduces history while generating novel feedbacks that influence future development pathways. FRIDA v3.1 advances the capacity of integrated assessment modelling to investigate how behavioural, biophysical, technological, and financial processes jointly shape climate outcomes, providing a transparent and computationally efficient platform for uncertainty analysis, scenario exploration, and policy assessment in a rapidly changing world.",
       "categories": [
         "smoke"
       ],
